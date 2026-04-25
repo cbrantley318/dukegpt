@@ -1,0 +1,15 @@
+DukeHub users and proxy users should follow the steps below to access the Course Catalog and Schedule of Classes.
+Course Catalog
+1. Navigate to the Class Information menu and then Course Catalog
+Select a Career� and Filter By Letter to narrow down results. Click View Courses to display course offerings for a subject.
+2. Find desired course from list of available options.
+Click to expand a row and display course details. Click View Sections to view scheduled sections of the course for any given term.
+Schedule of Classes
+1. Navigate to the Class Information menu and then Advanced Class Search or Simple Class Search.
+Click Simple Class Search (see step 2 below) or Advanced Class Search (see step 3 below) to view the Schedule of Classes for any given term.
+2. Use Simple Class Search for general browsing.
+Select search criteria at the top of the page to narrow down results. Click View Sections to display scheduled sections of the course for any given term.
+Click to expand a row and see schedule details.
+3. Use Advanced Class Search to find offerings with more specific search criteria.
+In Advanced Class Search, select from a variety of search criteria at the top of the page to find classes for a given term. Click to expand a row and see schedule details.
+Note: Make sure the correct term is selected before searching offerings.

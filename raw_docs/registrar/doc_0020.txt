@@ -1,0 +1,65 @@
+Image
+At the start of fall and spring semesters, students are asked to verify their personal information by completing the Student Verification of Data in DukeHub.
+A registration hold will prevent course registration until the Student Verification of Data has been completed:
+- Students cannot add or drop any classes
+- Students will have access to other pages on DukeHub (e.g. Financials) and are able to add classes to their shopping cart
+- Students will not roll into a class from a waitlist.
+IMPORTANT NAVIGATION TIPS:
+- Navigate through the Verification using the Verify and Next buttons across the top of the screen.
+- Once you click on the Verify button, the Next button will become active.
+- Select the Next button to move to the next section.
+- Do not click on the tabs across the top of the screen to navigate between sections.
+- If you click on one of these tabs, you will need to exit the Verification Task and then log back into DukeHub to continue the Verification.
+- When you click the Save button (usually appearing at the bottom of a screen or window), the Verify button will automatically be marked and the Next button will become active to move forward.
+- After completing the Verification, the registration hold may take up to an hour to be removed from your record. Plan to complete the Verification well in advance of your registration window opening.
+STEP-BY-STEP GUIDE FOR STUDENT DATA VERIFICATION TASK
+- Navigate to Tasks under the My Information menu items to complete the Student Verification of Data.
+- Select Student Verification under Tasks.
+- The Student Verification will open in a new tab.
+JUMP TO: Instruction | General Information | Biographical Information | Contact Info | Emergency Contacts | Missing Person Contact | Grant Proxy Access | Duke Community Standard | Complete Verification
+INSTRUCTION
+- After reading the instructions on the first screen, select the Mark as Read button to start the Verification, and then select the Next button to proceed.
+Image
+General Information
+- From this screen, students have the option to specify an Individual Taxpayer ID Number and/or Social Security Number should one not already have been entered.
+- Note: Edits or corrections cannot be made in DukeHub and should be submitted to the Office of the University Registrar (registrar@duke.edu)
+- The Add Work Experience section is not available. If you receive an error message, exit the the Verification and log back into DukeHub to resume.
+Image
+Biographical Information
+- On the Biographical Information screen, you may update your Degree Name (how it will appear on your diploma) and your Preferred Name.
+- NOTE: To change your Primary Name, contact the Office of the University Registrar (registrar@duke.edu).
+- You may also update Gender Pronouns, Military Status, and Ethnicity from this screen.
+- After reviewing the information and making updates if needed, click the Verify button and then Next button to advance to the next section.
+Image
+Contact Info
+- On the Contact Info screen, review your Address, Phone and Email information.
+- You MUST have a Current Address or Campus Res Hall/Apartment listed in order to proceed to the next step in the Verification process.
+- Students residing in Duke residence halls and on-campus apartments will have a Campus Res Hall/Apartment address listed and do not need to provide an additional Current Address.
+- If your Campus Residence Hall/Apartment assignment is incorrect, complete the Verification and then follow up with Housing & Residence Life
+- Students residing off-campus must have a Current Address listed. If you have previously provided one, please review and update as appropriate. Your Current Address is where you are living at the time of completing this Verification and may have changed from the previous semester.
+- If you need to change your Current Address, use the Add Address button. Do not use the Add Future Address button.
+- Students residing in Duke residence halls and on-campus apartments will have a Campus Res Hall/Apartment address listed and do not need to provide an additional Current Address.
+- International students must have an International (Non USA) address type.
+- The Duke Alias email is set as preferred and cannot be changed, or deleted.
+- Click the Verify and Next buttons when your review is complete and you are ready to move to the next section.
+Image
+Emergency Contacts
+- Review and update your Emergency Contacts from this section. To indicate your Primary Contact, click the ellipsis and select Edit (as shown below). Use the Add Emergency Contact button to add a new contact.
+- Once you have reviewed your Emergency Contact information and completed any updates or changes as necessary, click the Verify and then the Next button to move to the next section.
+Image
+Missing Person Contact
+- Please review and update the information, if needed.
+- If this person is not already listed as an Emergency Contact, you will need to need to navigate back to the Emergency Contact section using the link provided in this screen. Once you have added this person, you can return to this screen to select them as a Missing Person Contact.
+Image
+Grant Proxy Access
+- Students can grant Proxy Access to certain academic, financial or demographic information to identified Proxy Users. Please read the information on the screen and click on the pencil in the Grant Access column to review the Proxy Access details for each person listed. (See second screenshot below for list of areas in which Proxy Access can be granted.)
+- Click the Verify and Next buttons when your review and updates are completed to move to the next section.
+Image
+Image
+Duke Community Standard
+- Review the Duke Community Standard.
+- Select the box next to Accept in order for the Save button to become an option under the Duke Community Standard section. The student then has to select Save in order to select the Next button to move forward.
+Image
+Complete Verification
+- Click Submit and then Exit to officially complete the Student Data Verification Task. Once the Task is complete, the Registration Hold will be removed.
+Image

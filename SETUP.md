@@ -9,7 +9,7 @@
 ```bash
 # 1. Clone the repo
 git clone <your-repo-url>
-cd duke-ai-bot
+cd dukegpt
 
 # 2. Create a virtual environment
 python -m venv venv
@@ -20,7 +20,7 @@ source venv/bin/activate      # Mac/Linux
 pip install -r requirements.txt
 
 # 4. Set your API key
-export ANTHROPIC_API_KEY="sk-ant-your-key-here"
+# export ANTHROPIC_API_KEY="sk-ant-your-key-here"
 # On Windows: set ANTHROPIC_API_KEY=sk-ant-your-key-here
 ```
 

@@ -1,0 +1,26 @@
+Image
+Some classes may include additional information in the Class Notes that cannot be displayed elsewhere on the Schedule of Classes, such as optional synchronous meeting patterns for online courses. These days and times will not appear on the Schedule of Classes or in a student's personal schedule/shopping cart but should be considered during registration.
+Check for Class Notes using the steps below.
+1. Search for a class in DukeHub or view a class in your Shopping Cart.
+- Access DukeHub at https://dukehub.duke.edu.
+- Navigate to the Class Information menu and then either A) Simple Class Search or B) Advanced Class Search, or
+- Navigate to the Enrollment menu and then C) Shopping Cart
+A) Simple Class Search
+- Choose Simple Class Search from the Class Information menu
+- Choose search criteria
+- Click View Sections to view scheduled sections of the course
+- Click to expand a row and display class details
+Image
+B) Advanced Class Search
+- Choose Simple Class Search from the Class Information menu
+- Choose search criteria
+- Click to expand a row and display class details
+Image
+C) Shopping Cart
+- Choose Shopping Cart from the Enrollment menu
+- Click to expand a row and display class details
+Image
+2. In class detail, look for the Class Notes section.
+- Read the Class Notes for additional information that may affect enrollment.
+- NOTE: Any meeting pattern shown in the Class Notes will not appear on a student's personal schedule but should be considered during registration.
+Image

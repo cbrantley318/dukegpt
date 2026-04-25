@@ -1,0 +1,722 @@
+[
+  {
+    "index": 0,
+    "file": "data/raw_docs/registrar/doc_0000.txt",
+    "source": "https://registrar.duke.edu/",
+    "type": "registrar"
+  },
+  {
+    "index": 1,
+    "file": "data/raw_docs/registrar/doc_0001.txt",
+    "source": "https://registrar.duke.edu/contact/",
+    "type": "registrar"
+  },
+  {
+    "index": 2,
+    "file": "data/raw_docs/registrar/doc_0002.txt",
+    "source": "https://registrar.duke.edu/student-resources/transcripts/",
+    "type": "registrar"
+  },
+  {
+    "index": 3,
+    "file": "data/raw_docs/registrar/doc_0003.txt",
+    "source": "https://registrar.duke.edu/registration/interinstitutional-registration/",
+    "type": "registrar"
+  },
+  {
+    "index": 4,
+    "file": "data/raw_docs/registrar/doc_0004.txt",
+    "source": "https://registrar.duke.edu/student-resources/replacement-diplomas/",
+    "type": "registrar"
+  },
+  {
+    "index": 5,
+    "file": "data/raw_docs/registrar/doc_0005.txt",
+    "source": "https://registrar.duke.edu/student-resources/transfer-credit/",
+    "type": "registrar"
+  },
+  {
+    "index": 6,
+    "file": "data/raw_docs/registrar/doc_0006.txt",
+    "source": "https://registrar.duke.edu/registration/",
+    "type": "registrar"
+  },
+  {
+    "index": 7,
+    "file": "data/raw_docs/registrar/doc_0007.txt",
+    "source": "https://registrar.duke.edu/student-resources/advanced-placement-credit/",
+    "type": "registrar"
+  },
+  {
+    "index": 8,
+    "file": "data/raw_docs/registrar/doc_0008.txt",
+    "source": "https://registrar.duke.edu/contact/staff-directory/",
+    "type": "registrar"
+  },
+  {
+    "index": 9,
+    "file": "data/raw_docs/registrar/doc_0009.txt",
+    "source": "https://registrar.duke.edu/bulletins/",
+    "type": "registrar"
+  },
+  {
+    "index": 10,
+    "file": "data/raw_docs/registrar/doc_0010.txt",
+    "source": "https://registrar.duke.edu/student-resources/",
+    "type": "registrar"
+  },
+  {
+    "index": 11,
+    "file": "data/raw_docs/registrar/doc_0011.txt",
+    "source": "https://registrar.duke.edu/registration/interinstitutional-registration/duke-students-visiting-other-campuses/",
+    "type": "registrar"
+  },
+  {
+    "index": 12,
+    "file": "data/raw_docs/registrar/doc_0012.txt",
+    "source": "https://registrar.duke.edu/registration/interinstitutional-registration/students-other-campuses-visiting-duke/",
+    "type": "registrar"
+  },
+  {
+    "index": 13,
+    "file": "data/raw_docs/registrar/doc_0013.txt",
+    "source": "https://registrar.duke.edu/student-resources/letters-authentication/",
+    "type": "registrar"
+  },
+  {
+    "index": 14,
+    "file": "data/raw_docs/registrar/doc_0014.txt",
+    "source": "https://registrar.duke.edu/help-guides/schedule-builder/",
+    "type": "registrar"
+  },
+  {
+    "index": 15,
+    "file": "data/raw_docs/registrar/doc_0015.txt",
+    "source": "https://registrar.duke.edu/help-guides/drop-if-enrolled/",
+    "type": "registrar"
+  },
+  {
+    "index": 16,
+    "file": "data/raw_docs/registrar/doc_0016.txt",
+    "source": "https://registrar.duke.edu/help-guides/drop-class/",
+    "type": "registrar"
+  },
+  {
+    "index": 17,
+    "file": "data/raw_docs/registrar/doc_0017.txt",
+    "source": "https://registrar.duke.edu/help_guides/student_financial_responsibility_agreement/",
+    "type": "registrar"
+  },
+  {
+    "index": 18,
+    "file": "data/raw_docs/registrar/doc_0018.txt",
+    "source": "https://registrar.duke.edu/help-guides/class-notes/",
+    "type": "registrar"
+  },
+  {
+    "index": 19,
+    "file": "data/raw_docs/registrar/doc_0019.txt",
+    "source": "https://registrar.duke.edu/help-guides/class-search/",
+    "type": "registrar"
+  },
+  {
+    "index": 20,
+    "file": "data/raw_docs/registrar/doc_0020.txt",
+    "source": "https://registrar.duke.edu/help-guides/student-verification-data/",
+    "type": "registrar"
+  },
+  {
+    "index": 21,
+    "file": "data/raw_docs/registrar/doc_0021.txt",
+    "source": "https://registrar.duke.edu/help-guides/dukehub-log-in/",
+    "type": "registrar"
+  },
+  {
+    "index": 22,
+    "file": "data/raw_docs/registrar/doc_0022.txt",
+    "source": "https://registrar.duke.edu/help-guides/find-catalog-and-schedule/",
+    "type": "registrar"
+  },
+  {
+    "index": 23,
+    "file": "data/raw_docs/registrar/doc_0023.txt",
+    "source": "https://registrar.duke.edu/help-guides/use-permission-numbers/",
+    "type": "registrar"
+  },
+  {
+    "index": 24,
+    "file": "data/raw_docs/registrar/doc_0024.txt",
+    "source": "https://registrar.duke.edu/help-guides/variable-credit-class/",
+    "type": "registrar"
+  },
+  {
+    "index": 25,
+    "file": "data/raw_docs/registrar/doc_0025.txt",
+    "source": "https://registrar.duke.edu/help-guides/register-classes/",
+    "type": "registrar"
+  },
+  {
+    "index": 26,
+    "file": "data/raw_docs/registrar/doc_0026.txt",
+    "source": "https://registrar.duke.edu/help-guides/grading-basis-students/",
+    "type": "registrar"
+  },
+  {
+    "index": 27,
+    "file": "data/raw_docs/registrar/doc_0027.txt",
+    "source": "https://registrar.duke.edu/help-guides/waitlist-class/",
+    "type": "registrar"
+  },
+  {
+    "index": 28,
+    "file": "data/raw_docs/students/doc_0028.txt",
+    "source": "https://students.duke.edu/",
+    "type": "students"
+  },
+  {
+    "index": 29,
+    "file": "data/raw_docs/students/doc_0029.txt",
+    "source": "https://students.duke.edu/wellness/",
+    "type": "students"
+  },
+  {
+    "index": 30,
+    "file": "data/raw_docs/students/doc_0030.txt",
+    "source": "https://students.duke.edu/?post_type=post&p=86191",
+    "type": "students"
+  },
+  {
+    "index": 31,
+    "file": "data/raw_docs/students/doc_0031.txt",
+    "source": "https://students.duke.edu/?s=",
+    "type": "students"
+  },
+  {
+    "index": 32,
+    "file": "data/raw_docs/students/doc_0032.txt",
+    "source": "https://students.duke.edu/about/",
+    "type": "students"
+  },
+  {
+    "index": 33,
+    "file": "data/raw_docs/students/doc_0033.txt",
+    "source": "https://students.duke.edu/living/housing/",
+    "type": "students"
+  },
+  {
+    "index": 34,
+    "file": "data/raw_docs/students/doc_0034.txt",
+    "source": "https://students.duke.edu/belonging/icr/",
+    "type": "students"
+  },
+  {
+    "index": 35,
+    "file": "data/raw_docs/students/doc_0035.txt",
+    "source": "https://students.duke.edu",
+    "type": "students"
+  },
+  {
+    "index": 36,
+    "file": "data/raw_docs/students/doc_0036.txt",
+    "source": "https://students.duke.edu/sa-intranet/",
+    "type": "students"
+  },
+  {
+    "index": 37,
+    "file": "data/raw_docs/students/doc_0037.txt",
+    "source": "https://students.duke.edu/?post_type=post&p=85302",
+    "type": "students"
+  },
+  {
+    "index": 38,
+    "file": "data/raw_docs/students/doc_0038.txt",
+    "source": "https://students.duke.edu/?post_type=post&p=86073",
+    "type": "students"
+  },
+  {
+    "index": 39,
+    "file": "data/raw_docs/students/doc_0039.txt",
+    "source": "https://students.duke.edu/belonging/space-finder/",
+    "type": "students"
+  },
+  {
+    "index": 40,
+    "file": "data/raw_docs/students/doc_0040.txt",
+    "source": "https://students.duke.edu/info-for/students/current-students/",
+    "type": "students"
+  },
+  {
+    "index": 41,
+    "file": "data/raw_docs/students/doc_0041.txt",
+    "source": "https://students.duke.edu/belonging/get-involved/",
+    "type": "students"
+  },
+  {
+    "index": 42,
+    "file": "data/raw_docs/students/doc_0042.txt",
+    "source": "https://students.duke.edu/get-assistance/",
+    "type": "students"
+  },
+  {
+    "index": 43,
+    "file": "data/raw_docs/students/doc_0043.txt",
+    "source": "https://students.duke.edu/about/who-we-are/",
+    "type": "students"
+  },
+  {
+    "index": 44,
+    "file": "data/raw_docs/students/doc_0044.txt",
+    "source": "https://students.duke.edu/quadex/",
+    "type": "students"
+  },
+  {
+    "index": 45,
+    "file": "data/raw_docs/students/doc_0045.txt",
+    "source": "https://students.duke.edu/get-assistance/hate-bias/",
+    "type": "students"
+  },
+  {
+    "index": 46,
+    "file": "data/raw_docs/students/doc_0046.txt",
+    "source": "https://students.duke.edu/belonging/arts-performance/",
+    "type": "students"
+  },
+  {
+    "index": 47,
+    "file": "data/raw_docs/students/doc_0047.txt",
+    "source": "https://students.duke.edu/give/",
+    "type": "students"
+  },
+  {
+    "index": 48,
+    "file": "data/raw_docs/students/doc_0048.txt",
+    "source": "https://students.duke.edu/info-for/alumni/",
+    "type": "students"
+  },
+  {
+    "index": 49,
+    "file": "data/raw_docs/students/doc_0049.txt",
+    "source": "https://students.duke.edu/?post_type=post&p=86073                            aria-label=",
+    "type": "students"
+  },
+  {
+    "index": 50,
+    "file": "data/raw_docs/students/doc_0050.txt",
+    "source": "https://students.duke.edu/?post_type=post&p=85302                            aria-label=",
+    "type": "students"
+  },
+  {
+    "index": 51,
+    "file": "data/raw_docs/students/doc_0051.txt",
+    "source": "https://students.duke.edu/living/dining/",
+    "type": "students"
+  },
+  {
+    "index": 52,
+    "file": "data/raw_docs/students/doc_0052.txt",
+    "source": "https://students.duke.edu/living/",
+    "type": "students"
+  },
+  {
+    "index": 53,
+    "file": "data/raw_docs/students/doc_0053.txt",
+    "source": "https://students.duke.edu/info-for/families/",
+    "type": "students"
+  },
+  {
+    "index": 54,
+    "file": "data/raw_docs/students/doc_0054.txt",
+    "source": "https://students.duke.edu/campus-construction/",
+    "type": "students"
+  },
+  {
+    "index": 55,
+    "file": "data/raw_docs/students/doc_0055.txt",
+    "source": "https://students.duke.edu/?post_type=post&p=86191                            aria-label=",
+    "type": "students"
+  },
+  {
+    "index": 56,
+    "file": "data/raw_docs/students/doc_0056.txt",
+    "source": "https://students.duke.edu/blog/",
+    "type": "students"
+  },
+  {
+    "index": 57,
+    "file": "data/raw_docs/students/doc_0057.txt",
+    "source": "https://students.duke.edu/belonging/career-center/",
+    "type": "students"
+  },
+  {
+    "index": 58,
+    "file": "data/raw_docs/financial_aid/doc_0058.txt",
+    "source": "https://financialaid.duke.edu/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 59,
+    "file": "data/raw_docs/financial_aid/doc_0059.txt",
+    "source": "https://financialaid.duke.edu/types-aid",
+    "type": "financial_aid"
+  },
+  {
+    "index": 60,
+    "file": "data/raw_docs/financial_aid/doc_0060.txt",
+    "source": "https://financialaid.duke.edu/apply-aid/renew-your-aid/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 61,
+    "file": "data/raw_docs/financial_aid/doc_0061.txt",
+    "source": "https://financialaid.duke.edu/apply-aid/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 62,
+    "file": "data/raw_docs/financial_aid/doc_0062.txt",
+    "source": "https://financialaid.duke.edu/apply-aid",
+    "type": "financial_aid"
+  },
+  {
+    "index": 63,
+    "file": "data/raw_docs/financial_aid/doc_0063.txt",
+    "source": "https://financialaid.duke.edu/contact-us/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 64,
+    "file": "data/raw_docs/financial_aid/doc_0064.txt",
+    "source": "https://financialaid.duke.edu/making-most-your-aid",
+    "type": "financial_aid"
+  },
+  {
+    "index": 65,
+    "file": "data/raw_docs/financial_aid/doc_0065.txt",
+    "source": "https://financialaid.duke.edu/forms-resources",
+    "type": "financial_aid"
+  },
+  {
+    "index": 66,
+    "file": "data/raw_docs/financial_aid/doc_0066.txt",
+    "source": "https://financialaid.duke.edu/how-aid-calculated/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 67,
+    "file": "data/raw_docs/financial_aid/doc_0067.txt",
+    "source": "https://financialaid.duke.edu/making-most-your-aid/study-away/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 68,
+    "file": "data/raw_docs/financial_aid/doc_0068.txt",
+    "source": "https://financialaid.duke.edu/how-aid-calculated",
+    "type": "financial_aid"
+  },
+  {
+    "index": 69,
+    "file": "data/raw_docs/financial_aid/doc_0069.txt",
+    "source": "https://financialaid.duke.edu/making-most-your-aid/summer-study/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 70,
+    "file": "data/raw_docs/financial_aid/doc_0070.txt",
+    "source": "https://financialaid.duke.edu/apply-aid/estimate-your-aid/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 71,
+    "file": "data/raw_docs/financial_aid/doc_0071.txt",
+    "source": "https://financialaid.duke.edu/forms-resources/faq/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 72,
+    "file": "data/raw_docs/financial_aid/doc_0072.txt",
+    "source": "https://financialaid.duke.edu/types-aid/work-study/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 73,
+    "file": "data/raw_docs/financial_aid/doc_0073.txt",
+    "source": "https://financialaid.duke.edu/types-aid/grant-aid/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 74,
+    "file": "data/raw_docs/financial_aid/doc_0074.txt",
+    "source": "https://financialaid.duke.edu/types-aid/loans/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 75,
+    "file": "data/raw_docs/financial_aid/doc_0075.txt",
+    "source": "https://financialaid.duke.edu/types-aid/merit-scholarships/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 76,
+    "file": "data/raw_docs/financial_aid/doc_0076.txt",
+    "source": "https://financialaid.duke.edu/types-aid/outside-scholarships/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 77,
+    "file": "data/raw_docs/financial_aid/doc_0077.txt",
+    "source": "https://financialaid.duke.edu/types-aid/tuition-benefits/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 78,
+    "file": "data/raw_docs/financial_aid/doc_0078.txt",
+    "source": "https://financialaid.duke.edu/types-aid/other-types-aid/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 79,
+    "file": "data/raw_docs/financial_aid/doc_0079.txt",
+    "source": "https://financialaid.duke.edu/types-aid/being-resident-assistant/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 80,
+    "file": "data/raw_docs/financial_aid/doc_0080.txt",
+    "source": "https://financialaid.duke.edu/how-aid-calculated/your-aid-offer/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 81,
+    "file": "data/raw_docs/financial_aid/doc_0081.txt",
+    "source": "https://financialaid.duke.edu/graduate-professional-students/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 82,
+    "file": "data/raw_docs/financial_aid/doc_0082.txt",
+    "source": "https://financialaid.duke.edu/forms-resources/our-team/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 83,
+    "file": "data/raw_docs/financial_aid/doc_0083.txt",
+    "source": "https://financialaid.duke.edu/forms-resources/our-team/make-appointment/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 84,
+    "file": "data/raw_docs/financial_aid/doc_0084.txt",
+    "source": "https://financialaid.duke.edu/making-most-your-aid/dining/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 85,
+    "file": "data/raw_docs/financial_aid/doc_0085.txt",
+    "source": "https://financialaid.duke.edu/making-most-your-aid/time-away-duke/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 86,
+    "file": "data/raw_docs/financial_aid/doc_0086.txt",
+    "source": "https://financialaid.duke.edu/making-most-your-aid/housing/",
+    "type": "financial_aid"
+  },
+  {
+    "index": 87,
+    "file": "data/raw_docs/student_affairs/doc_0087.txt",
+    "source": "https://studentaffairs.duke.edu/",
+    "type": "student_affairs"
+  },
+  {
+    "index": 88,
+    "file": "data/raw_docs/student_affairs/doc_0088.txt",
+    "source": "https://studentaffairs.duke.edu/?s=",
+    "type": "student_affairs"
+  },
+  {
+    "index": 89,
+    "file": "data/raw_docs/student_affairs/doc_0089.txt",
+    "source": "https://studentaffairs.duke.edu/?paged=2&s=",
+    "type": "student_affairs"
+  },
+  {
+    "index": 90,
+    "file": "data/raw_docs/library/doc_0090.txt",
+    "source": "https://library.duke.edu/",
+    "type": "library"
+  },
+  {
+    "index": 91,
+    "file": "data/raw_docs/library/doc_0091.txt",
+    "source": "https://library.duke.edu/services/faculty",
+    "type": "library"
+  },
+  {
+    "index": 92,
+    "file": "data/raw_docs/library/doc_0092.txt",
+    "source": "https://library.duke.edu/services/visitors",
+    "type": "library"
+  },
+  {
+    "index": 93,
+    "file": "data/raw_docs/library/doc_0093.txt",
+    "source": "https://library.duke.edu/services/donors",
+    "type": "library"
+  },
+  {
+    "index": 94,
+    "file": "data/raw_docs/library/doc_0094.txt",
+    "source": "https://library.duke.edu/find",
+    "type": "library"
+  },
+  {
+    "index": 95,
+    "file": "data/raw_docs/library/doc_0095.txt",
+    "source": "https://library.duke.edu/research/ask",
+    "type": "library"
+  },
+  {
+    "index": 96,
+    "file": "data/raw_docs/library/doc_0096.txt",
+    "source": "https://library.duke.edu/exhibits",
+    "type": "library"
+  },
+  {
+    "index": 97,
+    "file": "data/raw_docs/library/doc_0097.txt",
+    "source": "https://library.duke.edu/find/journal-titles",
+    "type": "library"
+  },
+  {
+    "index": 98,
+    "file": "data/raw_docs/library/doc_0098.txt",
+    "source": "https://library.duke.edu/libraries",
+    "type": "library"
+  },
+  {
+    "index": 99,
+    "file": "data/raw_docs/library/doc_0099.txt",
+    "source": "https://library.duke.edu/support",
+    "type": "library"
+  },
+  {
+    "index": 100,
+    "file": "data/raw_docs/library/doc_0100.txt",
+    "source": "https://library.duke.edu/course-support",
+    "type": "library"
+  },
+  {
+    "index": 101,
+    "file": "data/raw_docs/library/doc_0101.txt",
+    "source": "https://library.duke.edu/challenge",
+    "type": "library"
+  },
+  {
+    "index": 102,
+    "file": "data/raw_docs/library/doc_0102.txt",
+    "source": "https://library.duke.edu",
+    "type": "library"
+  },
+  {
+    "index": 103,
+    "file": "data/raw_docs/library/doc_0103.txt",
+    "source": "https://library.duke.edu/using",
+    "type": "library"
+  },
+  {
+    "index": 104,
+    "file": "data/raw_docs/library/doc_0104.txt",
+    "source": "https://library.duke.edu/saml/login",
+    "type": "library"
+  },
+  {
+    "index": 105,
+    "file": "data/raw_docs/library/doc_0105.txt",
+    "source": "https://library.duke.edu/using/interlibrary-requests",
+    "type": "library"
+  },
+  {
+    "index": 106,
+    "file": "data/raw_docs/library/doc_0106.txt",
+    "source": "https://library.duke.edu/using/library-spaces",
+    "type": "library"
+  },
+  {
+    "index": 107,
+    "file": "data/raw_docs/library/doc_0107.txt",
+    "source": "https://library.duke.edu/services/international",
+    "type": "library"
+  },
+  {
+    "index": 108,
+    "file": "data/raw_docs/library/doc_0108.txt",
+    "source": "https://library.duke.edu/services/graduate",
+    "type": "library"
+  },
+  {
+    "index": 109,
+    "file": "data/raw_docs/dining/doc_0109.txt",
+    "source": "https://dining.duke.edu",
+    "type": "dining"
+  },
+  {
+    "index": 110,
+    "file": "data/raw_docs/qa/doc_0110.txt",
+    "source": "curated-qa",
+    "type": "qa"
+  },
+  {
+    "index": 111,
+    "file": "data/raw_docs/qa/doc_0111.txt",
+    "source": "curated-qa",
+    "type": "qa"
+  },
+  {
+    "index": 112,
+    "file": "data/raw_docs/qa/doc_0112.txt",
+    "source": "curated-qa",
+    "type": "qa"
+  },
+  {
+    "index": 113,
+    "file": "data/raw_docs/qa/doc_0113.txt",
+    "source": "curated-qa",
+    "type": "qa"
+  },
+  {
+    "index": 114,
+    "file": "data/raw_docs/qa/doc_0114.txt",
+    "source": "curated-qa",
+    "type": "qa"
+  },
+  {
+    "index": 115,
+    "file": "data/raw_docs/qa/doc_0115.txt",
+    "source": "curated-qa",
+    "type": "qa"
+  },
+  {
+    "index": 116,
+    "file": "data/raw_docs/qa/doc_0116.txt",
+    "source": "curated-qa",
+    "type": "qa"
+  },
+  {
+    "index": 117,
+    "file": "data/raw_docs/qa/doc_0117.txt",
+    "source": "curated-qa",
+    "type": "qa"
+  },
+  {
+    "index": 118,
+    "file": "data/raw_docs/qa/doc_0118.txt",
+    "source": "curated-qa",
+    "type": "qa"
+  },
+  {
+    "index": 119,
+    "file": "data/raw_docs/qa/doc_0119.txt",
+    "source": "curated-qa",
+    "type": "qa"
+  }
+]

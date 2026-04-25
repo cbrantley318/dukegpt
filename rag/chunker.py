@@ -63,19 +63,21 @@ def load_and_chunk_all(data_dir: str) -> list[dict]:
     import os
 
     all_chunks = []
-    for filename in os.listdir(data_dir):
-        if not filename.endswith(".txt"):
-            continue
-        filepath = os.path.join(data_dir, filename)
-        with open(filepath, "r", encoding="utf-8") as f:
-            text = f.read()
+    # for filename in os.listdir(data_dir):
+    for root, _, files in os.walk(data_dir):
+        for filename in files:
+            if not filename.endswith(".txt"):
+                continue
+            filepath = os.path.join(data_dir, filename)
+            with open(filepath, "r", encoding="utf-8") as f:
+                text = f.read()
 
-        chunks = chunk_document(text)
-        for i, chunk in enumerate(chunks):
-            all_chunks.append({
-                "text": chunk,
-                "source": filename,
-                "chunk_id": f"{filename}_{i}"
-            })
+            chunks = chunk_document(text)
+            for i, chunk in enumerate(chunks):
+                all_chunks.append({
+                    "text": chunk,
+                    "source": filename,
+                    "chunk_id": f"{filename}_{i}"
+                })
 
     return all_chunks

@@ -1,0 +1,19 @@
+Permission numbers are used in the registration process to allow faculty to grant permission for students to enroll when the student does not meet a prerequisite, to override a class capacity, or when a class requires permission. Permission numbers are also required during the second week of classes for all undergraduate courses below the 500 level.
+Important:
+- Students must contact the instructor of record, or the department, to obtain a permission number.
+- Permission numbers are unique to each section of a class and cannot be used interchangeably for cross-listed sections.
+- Permission numbers may be used by only one student.
+- Permission numbers are good for only one enrollment transaction and cannot be used multiple times.
+Navigate to Advanced Class Search under the Class Information menu to add a course to your Shopping Cart and add a permission number.
+- Select the appropriate Term, Acad Career, Subject and Catalog # from the dropdown menu in the Advanced Class Search section and select the Search button.
+- Select the Ellipse (Additional Actions) next to the class and select Add to Cart.
+- Enter the Permission Number provided by the instructor or departmental staff member in the Permission Number box and select the Save button.
+OR If a course has already been added to your Shopping Cart:
+Navigate to your Shopping Cart under the Enrollment menu to add or edit a permission number for a class.
+- Select the Ellipse (Additional Actions) next to the class and select Edit.
+Enter the Permission Number provided by the instructor or departmental staff member in the Permission Number box and select the Save button.
+Enroll in the class from your Shopping Cart using permission number entered.
+- Check the box next to the class in which you want to enroll and then select the Validate button to ensure you have entered a valid permission number and are eligible to enroll in the class.
+- Review the Validation results box and select the OK button.
+- Check the box next to the class and select the Enroll button.
+Review the Enrollment Results box and select the OK button.

@@ -1,0 +1,4 @@
+Image
+Navigate to the Academics menu to view the grading basis listed in the Grades section.
+- Select the appropriate term from the dropdown menu in the Grades section.
+- Review the grading basis under the Grading column for each enrolled class for the term.

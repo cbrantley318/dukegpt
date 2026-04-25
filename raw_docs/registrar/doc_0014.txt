@@ -1,0 +1,30 @@
+Image
+Navigate to Schedule Builder under the Enrollment menu to begin creating a schedule.
+- Select the appropriate Term from the dropdown menu.
+- Import Courses to import course from your Enrollment, Planner, Shopping Cart or Wait List and/or
+- Use filters to select courses. Use Availability, Global Filters and Section Filters to narrow down your preferences.
+- Use Section Filters to identify courses by Course Attribute (i.e. Mode of Inquiry) and Course Attribute Value (i.e. R- Research). The Course Selection dropdown Subject and Catalog Number will display only courses that meet the Section Filters parameters.
+Image
+- After selecting the Subject and Catalog Number, the Course Description will appear below the course.
+- Select the Add Course button to add the course to your Build Schedule list.
+- Select the Build Schedule button once all your preferred courses have been entered.
+Image
+Image
+- Review the generated schedules to find your preferred schedule.
+- Select the Heart icon to name and favorite a schedule.
+Image
+Image
+- Select Favorites to view favorited schedules.
+- Select the Ellipse and then Add to Cart to import your schedule to your Shopping Cart.
+- Check the boxes next to the sections to Validate and/or Add to Cart.
+- Select each course to set enrollment options and select the Save button.
+- Select the Add to Cart button to import the courses to your Shopping Cart.
+- Review the Success message to confirm courses were successfully imported.
+Image
+Image
+Image
+Image
+Image
+Image
+Image
+Image

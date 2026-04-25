@@ -1,0 +1,2 @@
+Q: What is DukeHub?
+A: DukeHub is Duke's student information system (student portal). You use it to register for classes, view your schedule, check grades, manage financial aid, update personal information, and access academic records. Access it at dukehub.duke.edu.

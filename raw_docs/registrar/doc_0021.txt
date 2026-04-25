@@ -1,0 +1,3 @@
+Image
+Log in to your DukeHub account by going to dukehub.duke.edu, which will display the DukeHub Springboard. Click on the Student, Faculty and Advisor Login tile. This will prompt you to authenticate with your NetID and password. You will arrive at your Dashboard.
+Image

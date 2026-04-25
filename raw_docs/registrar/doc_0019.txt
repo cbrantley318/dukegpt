@@ -1,0 +1,45 @@
+Advanced Class Search allows students to search for available courses by term, subject, and time, among other criteria.
+Navigate to the Class Information menu to use the Advanced Class Search.
+- Select the appropriate Term and Acad Career.
+- Enter criteria (i.e. Days or Course Attribute) to narrow down class options.
+- Search by Course Attributes like Seminar, Service-Learning, or a curriculum distribution code. See Course Attributes below for more information about these codes.
+Select the Search button and review results to Add to Cart or Enroll (if your registration window is open).
+OR
+Navigate to the Class Information menu to use the Simple Class Search.
+- Select the appropriate Term and Career.
+- Enter a Subject to narrow down class options.
+- Select the Search button and review results.
+- Select View Sections to Add to Cart or Enroll (if your registration window is open).
+-
+Advanced Class Search, Simple Class Search, and the Shopping Cart display available seats and class capacity.
+-
+The class status (open, closed or waitlisted) and available seats display on the top level of the search result as well as the expanded class view.
+-
+Expand the class details to view more information about availability and crosslisted sections.
+-
+Add Consent, Enrollment Requirements, Class Attributes, Class Notes and Course Synopsis may be available and will provide more information about enrollment in the class.
+-
+Advanced Class Search and Simple Class Search View
+- Class Status = Open (Indicated by a green square with the letter O)
+- Class Status = Closed (Indicated by a red square with the letter C)
+- Class Status = Waitlist (Indicated by an orange square with the letter W)
+- Top row will display open seats on the waitlist and the bottom row will display open seats in the class
+- Example below indicates 18 seats are available on the waitlist and the class has no open seats
+Shopping Cart View
+- Waitlist (Indicated by an orange square with the letter W)
+- Open (Indicated by a green square with the letter O)
+- Closed (Indicated by a red square with the letter C)
+- Reserve Capacity (Indicated by a gray triangle with an exclamation point)
+- Reserve Capacity (Indicated by a gray triangle with an exclamation point)
+- Hover over the Reserve icon to view additional information
+With a new Trinity College Curriculum starting in Fall 2025, there are two active sets of curriculum distribution codes at Duke. The following chart explains which distribution codes fall under which curriculum. Your curriculum depends on when you started at Duke.
+If you are unsure which curriculum applies to you, contact your advisor or dean.
+| For students starting before Fall 2025 | For students starting Fall 2025 and later |
+|---|---|
+| For more information about this curriculum, click here. | For more information about this curriculum, click here. |
+|
+Curriculum-Areas of Knowledge
+Curriculum-Modes of Inquiry
+|
+Curriculum, fall 2025 start
+|

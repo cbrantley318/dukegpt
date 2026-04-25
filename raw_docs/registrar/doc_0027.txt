@@ -1,0 +1,10 @@
+Image
+Students may waitlist in classes that are full when they register. See waitlist policies.
+- After enrolling, either from the Shopping Cart (screenshot below) or directly from a search, review the Enrollment Results (screenshot below) to confirm the status of the transaction.
+- If you are waitlisted for a course, the course will have a green square indicating that it has been successfully added to your schedule and it will display your waitlist position number.
+Image
+Navigate to View/Drop Classes (screenshot below) to review your waitlisted courses.
+Image
+OR
+Navigate to View Wait List (screenshot below) to review your waitlisted courses.
+Image
