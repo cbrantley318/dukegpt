@@ -68,7 +68,7 @@ def load_and_chunk_all(data_dir: str) -> list[dict]:
         for filename in files:
             if not filename.endswith(".txt"):
                 continue
-            filepath = os.path.join(data_dir, filename)
+            filepath = os.path.join(root, filename)
             with open(filepath, "r", encoding="utf-8") as f:
                 text = f.read()
 

@@ -19,16 +19,14 @@ source venv/bin/activate      # Mac/Linux
 # 3. Install dependencies
 pip install -r requirements.txt
 
-# 4. Set your API key
-# export ANTHROPIC_API_KEY="sk-ant-your-key-here"
-# On Windows: set ANTHROPIC_API_KEY=sk-ant-your-key-here
-```
+# 4. Ensure Ollama is installed properly (see ollama website for windows, linux/Mac command shown below)
+curl -fsSL https://ollama.com/install.sh | sh
+ollama pull llama3.2
 
 ## Adding Duke Documents
 
-Place `.txt` files in `data/duke_docs/`. Each file should contain plain text
-copied from Duke websites (dining hours, library hours, academic calendar, etc.).
-Three sample files are already included.
+Place `.txt` files in `data/duke_docs/`. 
+Three sample files are already included, along with an addition hundred or so web scraped
 
 ## Build the Knowledge Index
 
