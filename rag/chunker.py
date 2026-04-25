@@ -1,8 +1,10 @@
 """
 rag/chunker.py
 Custom sentence-aware chunking strategy.
-This is one of the two techniques that qualifies for the 10-pt custom RAG item.
+Improves RAG performance
 """
+
+# Most content in this file generated with AI, using Claude Sonnet 4.6
 
 import re
 

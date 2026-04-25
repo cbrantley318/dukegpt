@@ -3,6 +3,8 @@ import chromadb
 from rag.chunker import load_and_chunk_all
 from rag.embedder import embed_texts
 
+# Most content in this file generated with AI, using Claude Sonnet 4.6
+
 DB_PATH = "./chroma_db"
 DATA_DIR = "./data/duke_docs"
 

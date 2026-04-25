@@ -4,6 +4,9 @@ Run this once before starting the app to build the ChromaDB vector index.
 
     python build_index.py
 """
+
+# Most content in this file generated with AI, using Claude Sonnet 4.6
+
 from rag.retriever import build_index
 
 if __name__ == "__main__":

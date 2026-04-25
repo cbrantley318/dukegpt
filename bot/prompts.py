@@ -1,9 +1,9 @@
 """
 bot/prompts.py
 Three system prompt variants tested and compared.
-This covers the 3-pt "prompt engineering with ≥3 designs compared" rubric item.
-Document results in eval/prompt_comparison.md after testing.
 """
+
+# Most content in this file generated with AI, using Claude Sonnet 4.6
 
 # Prompt A — minimal, direct
 PROMPT_A = """You are a Duke University student assistant.

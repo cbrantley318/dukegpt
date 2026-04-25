@@ -3,6 +3,8 @@ import time
 from bot.prompts import ACTIVE_PROMPT
 from rag.retriever import retrieve
 
+# Most content in this file generated with AI, using Claude Sonnet 4.6
+
 def chat(user_message, history, use_rag=True, model_key="minilm"):
     context = retrieve(user_message, top_k=4, model_key=model_key) if use_rag else ""
     full_msg = (

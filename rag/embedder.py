@@ -5,6 +5,8 @@ The model comparison is the second technique for the 10-pt custom RAG rubric ite
 Also covers the 5-pt "sentence embeddings for semantic similarity/retrieval" item.
 """
 
+# Most content in this file generated with AI, using Claude Sonnet 4.6
+
 import numpy as np
 from sentence_transformers import SentenceTransformer
 

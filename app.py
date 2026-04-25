@@ -1,11 +1,12 @@
 """
 app.py
 Streamlit web UI for the Duke AI Assistant.
-Covers the 10-pt "deployed as functional web application with UI" rubric item.
 
 Run with:
     streamlit run app.py
 """
+
+# Most content in this file generated with AI, using Claude Sonnet 4.6
 
 import streamlit as st
 from bot.chat import chat, reset_conversation

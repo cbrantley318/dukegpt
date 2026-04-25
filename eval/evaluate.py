@@ -12,6 +12,8 @@ Run this script after building the index:
 It will print a report and save plots to eval/figures/.
 """
 
+# Most content in this file generated with AI, using Claude Sonnet 4.6
+
 import os
 import json
 import time
@@ -33,7 +35,7 @@ TEST_QUESTIONS = [
     {"q": "When is the last day of classes?", "expected_keyword": "april 22"},
     {"q": "How do I add money to my DukeCash?", "expected_keyword": "cashnet"},
     {"q": "What are the hours of East Campus dining?", "expected_keyword": "broadhead"},
-    # Should gracefully say it doesn't know
+    # Should say it doesn't know
     {"q": "Who won the Duke basketball game last night?", "expected_keyword": "don't have"},
     {"q": "What is the weather like in Durham today?", "expected_keyword": "don't have"},
 ]
