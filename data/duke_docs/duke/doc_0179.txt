@@ -1,0 +1,1152 @@
+Skip to main content
+Event Calendar
+Browse by:
+Topic Search
+Arts
+Athletics/Recreation
+Business
+Global Duke
+Civic Engagement/Social Action
+Climate
+Diversity/Inclusion
+Energy
+Engineering
+Entrepreneurship
+Ethics
+Health/Wellness
+Humanities
+Law
+Medicine
+Natural Sciences
+Politics
+Religious/Spiritual
+Research
+Social Sciences
+Sustainability
+Teaching & Classroom Learning
+Technology
+University Events
+Type Search
+Academic Calendar Dates
+Africa focus
+Alumni/Reunion
+Announcement
+Artificial Intelligence
+Asia focus
+Athletics/Intramurals/Recreation
+Athletics/Varsity Sports/Combined
+Athletics/Varsity Sports/Men
+Athletics/Varsity Sports/Women
+Book Signing
+Brown Bag
+Canada focus
+Caribbean focus
+Centennial
+Central America focus
+Ceremony
+Charity/Fundraising
+China focus
+Comedy
+Commencement
+Competition/Contest
+Concert/Music
+Conference/Symposium
+Dance Performance
+Duke/Arts
+Europe focus
+Excursion
+Exhibit
+Family Weekend
+Festival/Fair
+Founders' Day
+Free Food and Beverages
+Giveaways
+Global
+Holiday
+Human Rights
+India focus
+Information Session
+Ireland focus
+Israel focus
+Leadership
+Lecture/Talk
+MLK
+Masterclass
+Meeting
+Mexico focus
+Middle East focus
+Movie/Film
+Multicultural/Identity
+Open House
+Orientation
+Panel/Seminar/Colloquium
+Party
+Reading
+Reception
+Social
+South America focus
+Student
+Theater
+Tour
+Training
+United States focus
+Visual and Creative Arts
+Volunteer/Community Service
+Webcast
+Workshop/Short Course
+GROUP
+Schools and Institutes Search
+Calendar of Clinical Events
+Calendar of Department of Medicine
+Calendar of Scientific Events
+Divinity School
+Fuqua School of Business
+Graduate School
+Law School
+Nicholas School of the Environment
+Pratt School of Engineering
+Sanford School of Public Policy
+School of Medicine
+School of Nursing
+Trinity College of Arts & Sciences
+[{"list"=>["Trinity", "Trinity College Academic Calendar", "Graduate School", "Biomedical Engineering (BME)", "Civil and Environmental Engineering (CEE)", "Electrical and Computer Engineering (ECE)", "Master of Engineering Management Program (MEMP)", "Mechanical Engineering and Materials Science (MEMS)", "Pratt Industry", "Pratt School of Engineering", "Visualization Technology Group (VTG)", "School of Nursing (SON)", "Nicholas School-Career Services", "Nicholas School-Duke Environmental Leadership Program (DEL)", "Nicholas School-Earth & Ocean Sciences", "Nicholas School-Enrollment Services", "Nicholas School-External Affairs", "Nicholas School-Marine Lab", "Nicholas School-Miscellaneous Events", "Nicholas Institute for Environmental Policy Solutions", "Energy Hub", "Center for Child and Family Policy", "Center for Strategic Philanthropy and Civil Society", "DeWitt Wallace Center for Media and Democracy", "Duke Center for International Development (DCID)", "Hart Leadership Program", "Sanford School of Public Policy", "Triangle Center on Terrorism and Homeland Security", "Triangle Institute for Security Studies (TISS)"], "short"=>"academic_calendars", "long"=>"Academic Calendars", "display"=>false}, {"list"=>["AI Health", "Department of Anesthesiology", "Division of Cardiology", "Division of Cardiovascular and Thoracic Surgery", "Division of Clinical Pharmacology", "Division of Endocrinology, Metabolism, and Nutrition", "Division of Gastroenterology", "Division of General Internal Medicine", "Division of General Surgery", "Division of Geriatrics", "Division of Hematologic Malignancies and Cellular Therapy", "Division of Hematology", "Division of Infectious Diseases", "Division of Medical Genetics", "Division of Neonatology", "Division of Nephrology", "Division of Otolaryngology-Head and Neck Surgery", "Division of Pediatric Allergy and Immunology", "Division of Pediatric Blood and Marrow Transplantation", "Division of Pediatric Cardiology", "Division of Pediatric Critical Care Medicine", "Division of Pediatric Endocrinology", "Division of Pediatric Gastroenterology, Hepatology and Nutrition", "Division of Pediatric General Surgery", "Division of Pediatric Hematology-Oncology", "Division of Pediatric Hospital and Emergency Medicine", "Division of Pediatric Infectious Diseases", "Division of Pediatric Medical Genetics", "Division of Pediatric Nephrology", "Division of Pediatric Neurodevelopment", "Division of Pediatric Neurology", "Division of Rheumatology and Immunology", "Division of Surgical Sciences", "Division of Urology", "Duke Cancer Genetics and Genomics", "Duke Cancer Institute", "Duke Center for Human Genetics", "Duke Center for REACH Equity", "Gender and Sexual Minority Health Program", "Reproductive Sciences Division"], "short"=>"Clinical", "long"=>"Calendar of Clinical Events", "display"=>true}, {"list"=>["Department of Medicine", "Division of Cardiology", "Division of Hematologic Malignancies and Cellular Therapy", "Division of Endocrinology, Metabolism, and Nutrition", "Division of Gastroenterology", "Division of Geriatrics", "Division of Hematology", "Division of Infectious Diseases", "Division of General Internal Medicine", "Division of Medical Oncology", "Division of Nephrology", "Division of Pulmonary, Allergy, and Critical Care Medicine", "Division of Rheumatology and Immunology", "Duke Center for Applied Genomics and Precision Medicine", "Internal Medicine Residency Program"], "short"=>"DOM", "long"=>"Calendar of Department of Medicine", "display"=>true}, {"list"=>["AI Health", "Biochemistry", "BioCoRE", "Biology", "Biostatistics and Bioinformatics", "Cardiology Research", "Cardiovascular Research Center", "Cell & Molecular Biology (CMB)", "Cell Biology", "Center for Human Genome Variation", "Center for Virtual Imaging Trials", "Chemistry", "Computational Biology and Bioinformatics (CBB)", "Developmental and Stem Cell Biology (DSCB)", "Division of Urology", "Department of Dermatology", "Department of Neurosurgery", "Duke Cancer Genetics and Genomics", "Duke Center for Brain and Spine Metastasis", "Duke Center for Human Genetics", "Duke Center for Applied Genomics and Precision Medicine", "Duke Center for REACH Equity", "Duke Fly Club", "Duke Global Health Institute (DGHI)", "Duke Institute for Science & Society", "Duke Molecular Physiology Institute", "Duke University Mycology Research Unit (MRU)", "Duke Institute for Brain Sciences (DIBS)", "Gender and Sexual Minority Health Program", "Immunology", "Institute for Genome Sciences & Policy (IGSP)", "Integrated Toxicology & Environmental Health (ITEHP)", "Ion Channel Research Unit (ICRU)", "Master of Biomedical Sciences Program", "Medical Physics Graduate Program", "Medical Scientist Training Program (MSTP)", "Molecular Cancer Biology (MCB)", "Molecular Genetics and Microbiology (MGM)", "Neurobiology", "Office of Animal Welfare Assurance (OAWA)", "Office of Biomedical Graduate Education", "Office of the Chancellor for Health Affairs (DUHS)", "Pathology", "Pelvic Medicine Research Consortium", "Pharmacology and Cancer Biology", "Provost's Office", "Sarah W. Stedman Nutrition and Metabolism Center", "School of Medicine (SOM)", "SOM Grand Rounds", "Structural Biology & Biophysics (SBB)", "Trent Center", "University Program in Genetics & Genomics (UPGG)"], "short"=>"Scientific", "long"=>"Calendar of Scientific Events", "display"=>true}, {"list"=>["Divinity School", "Divinity School Academic Programs", "Divinity School Duke Center for Reconciliation", "Divinity School Institute on Care at the End of Life", "Divinity School Leadership Education", "Divinity School Office of Black Church Studies", "Divinity School Thriving Communities in the Carolinas"], "short"=>"Divinity", "long"=>"Divinity School", "display"=>true}, {"list"=>["Fuqua Center for Technology, Entertainment and Media (CTEM)", "Fuqua Entrepreneurship and Venture Capital Club (EVCC)", "Fuqua School of Business", "Fuqua School of Business International Center", "Fuqua Speaks"], "short"=>"Fuqua", "long"=>"Fuqua School of Business", "display"=>true}, {"list"=>["Graduate School"], "short"=>"Graduate", "long"=>"Graduate School", "display"=>true}, {"list"=>["Law School", "Law School Alumni", "Law School Career", "Law School Faculty"], "short"=>"Law", "long"=>"Law School", "display"=>true}, {"list"=>["Nicholas School-Career Services", "Nicholas School-Duke Environmental Leadership Program (DEL)", "Nicholas School-Earth & Ocean Sciences", "Nicholas School-Enrollment Services", "Nicholas School-External Affairs", "Nicholas School-Marine Lab", "Nicholas School-Miscellaneous Events", "Nicholas School of the Environment", "Nicholas Institute for Environmental Policy Solutions", "Energy Hub"], "short"=>"Nicholas", "long"=>"Nicholas School of the Environment", "display"=>true}, {"list"=>["Biomedical Engineering (BME)", "Civil and Environmental Engineering (CEE)", "Electrical and Computer Engineering (ECE)", "Master of Engineering Management Program (MEMP)", "Mechanical Engineering and Materials Science (MEMS)", "MEDx", "Pratt Industry", "Pratt School of Engineering", "Visualization Technology Group (VTG)"], "short"=>"Pratt", "long"=>"Pratt School of Engineering", "display"=>true}, {"list"=>["Registrar's Office"], "short"=>"Registrar's Office", "long"=>"Registrar's Office", "display"=>false}, {"list"=>["Center for Child and Family Policy", "Center for Strategic Philanthropy and Civil Society", "DeWitt Wallace Center for Media and Democracy", "Duke Center for International Development (DCID)", "Hart Leadership Program", "Sanford School of Public Policy", "Triangle Center on Terrorism and Homeland Security", "Triangle Institute for Security Studies (TISS)"], "short"=>"Sanford", "long"=>"Sanford School of Public Policy", "display"=>true}, {"list"=>["School of Medicine (SOM)", "School of Medicine Alumni Affairs", "School of Medicine Faculty Development", "School of Medicine-Interdisciplinary Colloquia", "School of Medicine - Office of Biomedical Graduate Education", "School of Medicine-Office of Biomedical Graduate Diversity (OBGD)", "School of Medicine-Office of Diversity & Inclusion", "School of Medicine Office of Research Mentoring", "School of Medicine - Regulatory Affairs", "SOM Grand Rounds", "Program in Cell and Molecular Biology", "The IDEALS Office (SOM)", "Precision Genomics Collaboratory"], "short"=>"Medicine", "long"=>"School of Medicine", "display"=>true}, {"list"=>["School of Nursing (SON)"], "short"=>"Nursing", "long"=>"School of Nursing", "display"=>true}, {"list"=>["Trinity College", "Trinity College Academic Calendar"], "short"=>"Trinity", "long"=>"Trinity College of Arts & Sciences", "display"=>true}]
+Department Group Search
++Data Science (+DS)
+A.B. Duke Memorial Scholarship
+Academic Advising Center (AAC)
+Academic Guides
+Academic Resource Center (ARC)
+Acts2 at Duke
+Africa Initiative
+African and African American Studies (AAAS)
+AI for Understanding and Designing Materials (aiM) Program
+AI Health
+Alliance for Interdisciplinary Innovation in Computing Education (AiiCE)
+Alumni Career and Professional Development
+Alumni Endowed Scholars
+Amazon Lab
+American Dance Festival (ADF)
+American Grand Strategy (AGS)
+American Tobacco Campus - Power Plant
+Archive of Documentary Arts
+Art, Art History & Visual Studies
+Arts & Health at Duke
+Arts & Sciences (A&S)
+Asian American and Diaspora Studies
+Asian & Middle Eastern Studies (AMES)
+Asian Pacific Studies Institute (APSI)
+Athletics
+B.N. Duke Scholarship Program
+Baldwin Scholars
+Bass Connections
+Bass Connections-Brain & Society
+Bass Connections-Education & Human Development
+Bass Connections-Energy
+Bass Connections-Global Health
+Bass Connections-Information, Society & Culture
+Bass Society of Fellows
+Behavioral Science & Policy Center (BSPC)
+Belt Road Initiative at Duke (BRID)
+Bingham Center for Women's History and Culture
+Biochemistry
+BioCoRE
+Biology
+Biomedical Engineering (BME)
+Biomedical Graduate Student Success (OBGE)
+Biostatistics and Bioinformatics
+Black Archival Imagination Lab
+Black Music Lab
+BrainCultures Lab
+Bryan ADRC African-American Community Outreach
+Campus Mail Services
+Campus Research Support Offices
+Cancer Center Development
+Cardiovascular Research Center
+Career Center
+Cell Biology
+Centennial
+Center for Addiction and Behavior Change
+Center for Advanced Genomic Technologies
+Center for Advanced Hindsight (C4AH)
+Center for African and African American Research
+Center for Aging and Human Development
+Center for AIDS Research (CFAR)
+Center for Arts, Digital Culture and Entrepreneurship
+Center for International and Comparative Law
+Center for Behavioral Economics and Healthy Food Choice Research (BECR)
+Center for Biomolecular and Tissue Engineering (CBTE)
+Center for Child and Family Policy
+Center for Christianity and Scholarship
+Center for Cognitive Neuroscience
+Center for Computational Humanities
+Center for Computational Thinking
+Center for Documentary Studies (CDS)
+Center for French and Francophone Studies
+Center for Genomics, Race, Identity, Difference (GRID)
+Center for Global Reproductive Health
+Center for Global Studies and the Humanities
+Center for Global Women's Health Technologies
+Center for Human Disease Modeling (CHDM)
+Center for Human Genome Variation
+Center for Human Systems Immunology
+Center for Interdisciplinary Studies in Science and Cultural Theory (CISSCT)
+Center for International and Comparative Law
+Center for Jewish Studies
+Center for Late Ancient Studies
+Center for Latin American and Caribbean Studies (CLACS)
+Center for Metamaterials and Integrated Plasmonics
+Center for Multicultural Affairs
+Center for Muslim Life
+Center for Philosophy, Arts and Literature
+Center for Politics and Public Leadership
+Center for Science Education
+Center for Sexual and Gender Diversity
+Center for Slavic, Eurasian and East European Studies (CSEEES)
+Center for South Asia Studies
+Center for Spirituality, Theology and Health
+Center for Statistical Genetics and Genomics (StatGen)
+Center for Strategic Philanthropy and Civil Society
+Center for the Advancement of Social Entrepreneurship (CASE)
+Center for the Environmental Implications of NanoTechnology (CEINT)
+Center for the Study of Adolescent Risk and Resilience (C-StARR)
+Center for the Study of Race, Ethnicity and Gender in the Social Sciences (REGSS)
+Center for Theoretical and Mathematical Sciences (CTMS)
+Center for Virology
+Center for Virtual Imaging Trials
+Center on Biobehavioral Health Disparities Research (BHDR)
+Center on Global Change
+Center on Globalization, Governance & Competitiveness (CGGC)
+Center on Law, Ethics and National Security (LENS)
+CFM - Division of Community Health
+Chemistry
+Children's Development
+Christensen Family Center for Innovation (CFCI)
+Cinematic Arts
+Civil and Environmental Engineering (CEE)
+Classical Studies
+Coach K Center on Leadership & Ethics
+Coffeehouse
+Compute and Data Services Alliance for Research (CDSA)
+Computational Biology and Bioinformatics (CBB)
+Computer Science
+Concilium on Southern Africa
+Congregation at Duke University Chapel
+Continuing Studies
+Council for North American Studies
+Counseling & Psych Services (CAPS)
+CTSI Center for Equity in Research
+CTSI CREDO
+Cultural Anthropology
+DALHE - Duke Advancing Latine-Hispanic Excellence
+Dance Program
+David M. Rubenstein Rare Book & Manuscript Library
+David M. Rubenstein Scholars Program
+DCI Cancer Research Training & Education Coordination
+DCI Community Outreach and Engagement and Equity
+DCI Development
+DCI Equity Diversity & Inclusion
+Dean of Humanities
+Decolonizing Global Health Working Group
+Deep Tech Initiative
+DEMAN (Duke Entertainment, Media and Arts Network)
+Department of Anesthesiology
+Department of Dermatology
+Department of Family Medicine and Community Health
+Department of Head and Neck Surgery & Communication Sciences
+Department of Medicine
+Department of Neurology
+Department of Neurosurgery
+Department of Obstetrics and Gynecology
+Department of Ophthalmology
+Department of Orthopaedic Surgery
+Department of Pediatrics
+Department of Psychiatry and Behavioral Sciences
+Department of Radiation Oncology
+Department of Radiology
+Department of Religion
+Department of Religious Studies
+Department of Surgery
+Developmental and Stem Cell Biology Program
+DeWitt Wallace Center for Media and Democracy
+DGHI Uganda SRT Team
+DHTS Web Services
+Diversify IT
+Divinity School
+Divinity School Academic Programs
+Divinity School Duke Center for Reconciliation
+Divinity School Institute on Care at the End of Life
+Divinity School Leadership Education
+Divinity School Office of Black Church Studies
+Divinity School Thriving Communities in the Carolinas
+Division of Abdominal Transplant Surgery
+Division of Cardiology
+Division of Cardiovascular and Thoracic Surgery
+Division of Child Development and Behavioral Health
+Division of Clinical Pharmacology
+Division of Emergency Medicine
+Division of Endocrinology, Metabolism, and Nutrition
+Division of Gastroenterology
+Division of General Internal Medicine
+Division of General Surgery
+Division of Geriatrics
+Division of Hematologic Malignancies and Cellular Therapy
+Division of Hematology
+Division of Infectious Diseases
+Division of Medical Genetics
+Division of Medical Oncology
+Division of Metabolic and Weight Loss Surgery
+Division of Neonatology
+Division of Nephrology
+Division of Otolaryngology-Head and Neck Surgery
+Division of Pediatric Allergy and Immunology
+Division of Pediatric Blood and Marrow Transplantation
+Division of Pediatric Cardiology
+Division of Pediatric Critical Care Medicine
+Division of Pediatric Dentistry
+Division of Pediatric Endocrinology
+Division of Pediatric Gastroenterology, Hepatology and Nutrition
+Division of Pediatric General Surgery
+Division of Pediatric Hematology-Oncology
+Division of Pediatric Hospital and Emergency Medicine
+Division of Pediatric Infectious Diseases
+Division of Pediatric Medical Genetics
+Division of Pediatric Nephrology
+Division of Pediatric Neurodevelopment
+Division of Pediatric Neurology
+Division of Pediatric Pulmonary and Sleep Medicine
+Division of Pediatric Rheumatology
+Division of Plastic, Maxillofacial, and Oral Surgery
+Division of Primary Care Pediatrics
+Division of Pulmonary, Allergy, and Critical Care Medicine
+Division of Quantitative Sciences
+Division of Rheumatology and Immunology
+Division of Speech Pathology and Audiology
+Division of Surgical Sciences
+Division of Trauma and Critical Care Surgery
+Division of Urology
+Division of Vascular Surgery
+duARTS
+DU Press
+Duke Advancement of Nursing Center of Excellence (DANCE)
+Duke AHEAD
+Duke Air Force ROTC Detachment 585
+Duke Alumni Association (DAA)
+Duke Alumni Engagement and Development
+Duke Arts Create
+Duke Brazil Initiative
+Duke Campus Farm
+Duke Cancer Genetics and Genomics
+Duke Cancer Institute
+Duke Catholic Center
+Duke Center for Applied Genomics and Precision Medicine
+Duke Center for Brain and Spine Metastasis
+Duke Center for Genomic and Computational Biology (GCB)
+Duke Center for Global Mental Health (Duke CGMH)
+Duke Center for Health Informatics
+Duke Center for Healthcare Safety and Quality
+Duke Center for Human Genetics
+Duke Center for International Business Education and Research (CIBER)
+Duke Center for International Development (DCID)
+Duke Center for REACH Equity
+Duke Center for Research in Autoimmunity and Multiple Sclerosis
+Duke Center for Teaching and Learning (CTL)
+Duke Center for the Genomics of Microbial Systems (GeMS)
+Duke Center for Truth, Racial Healing & Transformation (Duke TRHT Center)
+Duke Chapel
+Duke Clergy & Religion Research Collaborative
+Duke Clinical and Translational Science Award (CTSA)
+Duke Clinical and Translational Science Institute (CTSI)
+Duke Clinical Research Institute (DCRI)
+Duke College Advising Corps (DCAC)
+Duke Community Affairs
+Duke Consortium on Social Equity
+Duke Council on Race and Ethnicity (DCORE)
+Duke Credit Union
+Duke Digital Humanities Initiative
+Duke Digital Initiative (DDI)
+Duke Digital Media Community
+Duke Dining Services (DDS)
+Duke Drilling, Environment and Economics Network (DEEN)
+Duke Epigenetics and Epigenomics Program (DEEP)
+Duke Eye Center
+Duke Faculty Club
+Duke Financial Economics Center (DFE)
+Duke Forest
+Duke Global Health Innovation Center
+Duke Global Health Institute (DGHI)
+Duke Health AI Evaluation & Governance (E&G) Program
+Duke Health and Well-Being
+Duke Health Development and Alumni Affairs Strategic Events
+Duke Health Interprofessional Education and Care Center I.P.E.C
+Duke Herbarium
+Duke Human Rights Center (DHRC)
+Duke Human Rights Center at the Franklin Humanities Institute (DHRC@FHI)
+Duke Human Rights Coalition (DHRC)
+Duke Human Vaccine Institute (DHVI)
+Duke IDEAS-Information, Technology and Culture
+Duke Initiative for Science & Society
+Duke Initiative on Survey Methodology (DISM)
+Duke Initiatives in Theology and the Arts
+Duke Innovation & Entrepreneurship
+Duke Institute for Brain Sciences (DIBS)
+Duke Institute for Health Innovation
+Duke Integrative Immunobiology
+Duke Integrative Medicine
+Duke Interdisciplinary Initiative in Social Psychology (DIISP)
+Duke International Student Center
+Duke in DC
+Duke Islamic Studies Center
+Duke Language Central
+Duke Law International Human Rights Clinic
+Duke Learning Innovation
+Duke Learning Innovation & Lifetime Education
+Duke Lemur Center
+Duke Life Flight
+Duke LIFE Office
+Duke-Margolis Institute for Health Policy
+Duke Materials Initiative
+Duke Medicine Development and Alumni Affairs (DMDAA)
+Duke Medicine Information Security Office
+Duke Medicine Orchestra (DMO)
+Duke Microbiome Center
+Duke Microfinance Leadership Initiative (DMLI)
+Duke Mobile App Gateway
+Duke Molecular Physiology Institute
+Duke Network Analysis Center (DNAC)
+Duke Office for External Partnerships (OEP)
+Duke Office for Translation & Commercialization (OTC)
+Duke Office of Civic Engagement (DOCE)
+Duke Office of Clinical Research (DOCR)
+Duke Office of DKU Relations
+Duke Office of Pre-Law Advising
+Duke Office of Research Initiatives
+Duke Office of Scientific Integrity (DOSI)
+Duke Palliative Care
+Duke Pathologists' Assistants
+Duke Performances
+Duke Physician Assistant Program
+Duke Population Research Institute (DuPRI)
+Duke Precision Medicine Program
+Duke Program in American Values and Institutions
+Duke Quantum Center
+Duke Regeneration Center
+Duke Regional Hospital
+Duke Service-Learning
+Duke Society-Centered AI Initiative
+Duke Space Initiative
+Duke String School
+Duke Student Wellness
+Duke Symphony Orchestra (DSO)
+Duke Talent Identification Program (TIP)
+Duke Teaching Observatory (DTO)
+Duke Technology Scholars Program (DTech)
+Duke Toastmasters Club
+Duke University Box Office
+Duke University Center for International and Global Studies
+Duke University Health System (DUHS)
+Duke University Middle East Studies Center
+Duke University Mycology Research Unit (MRU)
+Duke University NAACP
+Duke University Naval Reserve Officer Training Corps (Duke NROTC)
+Duke University Police (DUP)
+Duke University Postdoctoral Association (DUPA)
+Duke Visa Services
+Duke Water Network
+DukeEngage
+DukeReach
+DukeWELL
+DUSON Community Health Improvement Partnership Program
+E.O. Wilson Biodiversity Foundation
+Economics
+EDGE: Center for Energy, Development and the Global Environment
+Education and Human Development Incubator (EHDI)
+Electrical and Computer Engineering (ECE)
+Employee Resource/Affinity Group
+Engineering Graduate Student Programs & Services (GSPS)
+Engineering Master’s Career Services and Professional Development
+English
+Enterprising Leadership Initiative (ELI)
+Ethnography Workshop
+Evolutionary Anthropology
+Experimental Film Lab
+Facilities Management Department (FMD)
+Faculty Women's Network and Caucus
+Faculty Write
+Financial Education Partnership (FEP)
+First-Year Experience, Trinity College (FYE)
+Fitzpatrick Institute for Photonics (FIP)
+Focus Program
+Forest History Society
+Forum for Scholars and Publics
+Franklin Humanities Institute (FHI)
+Fraternity & Sorority Life
+From Harlem to Hamburg
+Full Frame Documentary Film Festival
+Fuqua Center for Innovation and Entrepreneurship (CEI)
+Fuqua Center for Technology, Entertainment and Media (CTEM)
+Fuqua's Office of Diversity and Inclusion
+Fuqua School of Business
+Fuqua School of Business, Finance
+Fuqua Speaks
+Gender, Sexuality, and Feminist Studies
+German Studies
+Global Admin and Travel Support (GATS)
+Global Advising
+Global Asia Initiative
+Global Brazil Humanities Lab
+Global Education Office for Undergraduates
+Global Financial Markets Center at Duke Law
+Global Inequality Research Initiative (GIRI)
+Global Jewish Modernization
+Gothic Bookshop
+Graduate Communications and Intercultural Programs - Pratt School of Engineering
+Graduate Liberal Studies
+Graduate Medical Education
+Graduate School
+Harmony Humanities Lab
+Hart Leadership Program
+Hartman Center for Sales, Advertising & Marketing History
+HASTAC
+Health Humanities Lab (HHL)
+Health Professions Advising (HPA)
+Health, Wellness, Physical Education and Campus Recreation
+Healthy Duke
+Hematology Case Conference 2023
+History
+History of Medicine Collections
+House Courses
+Housing and Residence Life (HRL)
+Human Resources (HR)
+Human Resources Benefits
+Humanities Labs@FHI
+Humanities Writ Large
+Humanities Unbounded
+India Initiative
+Information Initiative at Duke (iiD)
+Information Science + Studies (ISS)
+Innovation Co-Lab
+Institute for Critical Theory
+Institute for Genome Sciences & Policy (IGSP)
+Integrated Toxicology & Environmental Health (ITEHP)
+Internal Medicine Residency Program
+International Comparative Studies (ICS)
+international Masters of Environmental Policy - iMEP
+Ion Channel Research Unit (ICRU)
+Jazz at the Mary Lou
+Jewish Life at Duke
+John Hope Franklin Center (JHFC)
+Karsh International Scholars
+Kenan Institute for Ethics
+Keohane Distinguished Visiting Professorship
+Language, Arts & Media Program
+Language Central
+Latino/a Studies
+Law School
+Law School Alumni
+Law School Career
+Law School Faculty
+Law School-Public Interest Law Foundation
+Learning & Organization Development (L&OD)
+LGBTQ Faculty/Staff Affinity Group
+Libraries
+Linguistics
+Literature
+Live for Life (LFL)
+Living Policy Forum (LPF)
+Machine Learning
+Mandel Center for Hypertension and Atherosclerosis
+Manuscript Migration Lab
+Markets and Management Studies (MMS)
+Martin Luther King, Jr. Celebration
+Mary Lou Williams Center for Black Culture
+Master of Biomedical Sciences Program
+Master of Engineering in Cybersecurity
+Master of Engineering in Financial Technology
+Master of Engineering in Game Design and Development and Innovation
+Master of Engineering Management Program (MEMP)
+Master of Fine Arts in Experimental & Documentary Arts (MFAEDA)
+Master of Management in Clinical Informatics (MMCi)
+Materials Science and Engineering
+Mathematics
+Mechanical Engineering and Materials Science (MEMS)
+Media Arts & Sciences
+Medical Center Library
+Medical Imaging Training Program
+Medical Physics Graduate Program
+Medical Scientist Training Program (MSTP)
+Medieval and Renaissance Studies
+MedMentors
+MEDx
+mHealth@Duke
+Military Science Army ROTC
+Molecular Cancer Biology (MCB)
+Molecular Genetics and Microbiology (MGM)
+Mosaic
+Multicultural Advancement Activities
+Multiscale Immune Systems Modeling (MISM)
+Music
+Nasher Museum of Art
+National Center for Child Traumatic Stress (NCCTS)
+Neurobiology
+Neurohumanities Research Group
+New Student Programs
+New Student & Family Programs
+Nicholas Institute for Energy, Environment and Sustainability
+Nicholas School of the Environment-Office of Development & Alumni Relations
+Nicholas School-Career Services
+Nicholas School-Duke Environmental Leadership Program (DEL)
+Nicholas School-Earth & Ocean Sciences
+Nicholas School-Enrollment Services
+Nicholas School-Marine Lab
+Nicholas School-Miscellaneous Events
+Observatory on Europe
+Oceans@Duke
+Occupational and Environmental Safety Office (OESO)
+Office for Institutional Equity (OIE)
+Office for Research and Innovation
+Office Hours
+Office of Animal Welfare Assurance (OAWA)
+Office of Campus Research Development
+Office of Climate and Sustainability
+Office of Durham and Community Affairs
+Office of DKU Programs
+Office of Export Controls
+Office of Faculty Advancement (OFA)
+Office of Global Affairs
+Office of Global and Community Health Initiatives
+Office of Global Strategy and Programs
+Office of Government Relations DUHS
+Office of Health Professions Advising
+Office of Information Technology (OIT)
+Office of Physician-Scientist Development (OPSD)
+Office of Postdoctoral Services
+Office of Prehealth Advising
+Office of Regulatory Affairs and Quality
+Office of Research Administration (ORA)
+Office of Research Support (ORS)
+Office of Student Conduct
+Office of the Chancellor for Health Affairs (DUHS)
+Office of the Executive Vice President
+Office of the Provost - Finance and Administration
+Office of the University President
+Office of Undergraduate Scholars & Fellows (OUSF)
+Operation Smile
+Organization for Tropical Studies (OTS)
+OUE - Experiential Education
+OUSF - Nationally Competitive Scholarship Events
+Paralegal Certificate Program
+Parent and Family Programs
+Parking and Transportation
+Pathology
+PathWays at Duke
+Pauli Murray Project
+Pelvic Medicine
+Personal Finance@Duke
+Pharmacology and Cancer Biology
+PhD Lab in Digital Knowledge
+PhD Plus Professional Development Program
+Phi Sigma Pi National Honors Fraternity (PSP)
+Philosophy
+Philosophy, Politics and Economics Program (PPE)
+Physics
+Policy and Organizational Management Program
+POLIS: Center for Politics
+Political Science
+Population Health Sciences
+Pratt Human Resources (HR)
+Pratt School of Engineering
+PRATTically Speaking Toastmasters Club
+Prebusiness Advising (PBAO)
+Precision Genomics Colaboratory
+Pregraduate Advising
+Prelaw Advising
+Preston Robert Tisch Brain Tumor Center
+Program for Advanced Research in the Social Sciences (PARISS)
+Program II
+Program in Cell and Molecular Biology
+Program in Education
+Program in Latino/a Studies in the Global South
+Program In The Study Of Sexualities
+PROMISE Study - Peer Network
+Provost's Office
+Psychology and Neuroscience
+Public Affairs & Government Relations
+Publishing Humanities Initiative
+QBio
+Revaluing Care Lab
+Regeneration Next
+Reginaldo Howard Scholars
+Registrar's Office
+Religious Observances
+RENCI Center at Duke University
+Representing Migration Humanities Lab
+Reproductive Sciences Division
+Research Administration
+Research Career Development Programs
+Research Computing
+Research for Indigenous Studies & Engagement in the US (RISE-US)
+Research Network on Racial and Ethnic Inequality (The Network)
+Research on the Education and Development of Youth (REDY)
+RESILE
+Rethinking Diplomacy Program (RDP)
+Robertson Scholars
+Robertson Scholars Leadership Program
+Romance Studies
+Rubenstein Fellows Academy
+Samuel DuBois Cook Center on Social Equity (The Cook Center)
+Sanford School of Public Policy
+Sarah P. Duke Gardens
+Sarah W. Stedman Nutrition and Metabolism Center
+Scholars in Molecular Medicine
+ScholarWorks
+School of Medicine - Office of Biomedical Graduate Education
+School of Medicine (SOM)
+School of Medicine Alumni Affairs
+School of Medicine Faculty Development
+School of Medicine Office of Research Mentoring
+School of Medicine-Interdisciplinary Colloquia
+School of Medicine-Office of Biomedical Graduate Diversity (OBGD)
+School of Medicine-Office of Diversity & Inclusion
+School of Medicine-Office of Equity Diversity and Inclusion
+School of Nursing (SON)
+School of Nursing Women's Health Organization (DUSON WHO)
+Science Policy Program at Duke
+Service-Learning Program
+Sexual and Gender Minority Health Program
+Shakespeare
+Shared Materials Instrumentation Facility (SMIF)
+Slavic and Eurasian Studies
+SLIPPAGE
+Social Entrepreneurship Accelerator at Duke (SEAD)
+Social Movements Lab
+Social Practice Lab
+Social Science Research Institute (SSRI)
+Sociology
+Sophomore Spark
+Sophomore Year Experience (SYE)
+Special Events and University Ceremonies
+SPIRE Fellows
+SSRI Initiative on Qualitative Ethnographic and Mixed Methods (SIQEM)
+Stanford School Career Services
+Stargazing Devils Astronomy Club (SDAC)
+Statistical Science
+Story Lab @ Franklin Humanities Institute
+Structural Biology & Biophysics (SBB)
+Student Affairs
+Student Affairs Staff
+Student Loans
+Sustainable Duke
+Teaching Support Network (TSN)
+Text A Librarian
+The Duke Center on Risk
+The IDEALS Office (SOM)
+The MasterCard Foundation Scholars Program
+The VIS Group
+The Working Group on Eurasia (WGE)
+Theater Studies
+Thompson Writing Program
+Transformative Ideas
+Translating Duke Health
+Trent Center for Bioethics, Humanities & History of Medicine
+Triangle Center for Evolutionary Medicine (TriCEM)
+Triangle Center on Terrorism and Homeland Security
+Triangle Institute for Security Studies (TISS)
+Triangle Materials Research Science & Engineering Center (MRSEC)
+Trinity College
+Trinity College Academic Calendar
+Trinity Scholars
+TUNL Seminar Series
+Undergraduate Admissions
+Undergraduate Education
+Undergraduate Financial Aid
+Undergraduate Research Support Office
+University Center Activities & Events (UCAE)
+University Communications
+University Development Office
+University IT Security Office
+University Program in Genetics & Genomics (UPGG)
+University Scholars Program
+University Secretary
+Veterans Programs
+Vice President for Research
+Vice Provost for Faculty Advancement
+Vice Provost for Interdisciplinary Studies
+Vice Provost for International Affairs
+Vice Provost for the Arts
+Visual Studies Initiative
+Visualizing Cities
+Washington Duke Inn & Golf Club
+WISeNet Integrative Graduate Education and Research Training (IGERT)
+Wilson Center for Science and Justice at Duke Law
+Women's Center
+Women's Institute for Secondary Education and Research @ Duke (WISER)
+World Food Policy Center
+Writing Studio
+["+Data Science (+DS)", "A.B. Duke Memorial Scholarship", "Academic Advising Center (AAC)", "Academic Guides", "Academic Resource Center (ARC)", "Acts2 at Duke", "Africa Initiative", "African and African American Studies (AAAS)", "AI for Understanding and Designing Materials (aiM) Program", "AI Health", "Alliance for Interdisciplinary Innovation in Computing Education (AiiCE)", "Alumni Career and Professional Development", "Alumni Endowed Scholars", "Amazon Lab", "American Dance Festival (ADF)", "American Grand Strategy (AGS)", "American Tobacco Campus - Power Plant", "Archive of Documentary Arts", "Art, Art History & Visual Studies", "Arts & Health at Duke", "Arts & Sciences (A&S)", "Asian American and Diaspora Studies", "Asian & Middle Eastern Studies (AMES)", "Asian Pacific Studies Institute (APSI)", "Athletics", "B.N. Duke Scholarship Program", "Baldwin Scholars", "Bass Connections", "Bass Connections-Brain & Society", "Bass Connections-Education & Human Development", "Bass Connections-Energy", "Bass Connections-Global Health", "Bass Connections-Information, Society & Culture", "Bass Society of Fellows", "Behavioral Science & Policy Center (BSPC)", "Belt Road Initiative at Duke (BRID)", "Bingham Center for Women's History and Culture", "Biochemistry", "BioCoRE", "Biology", "Biomedical Engineering (BME)", "Biomedical Graduate Student Success (OBGE)", "Biostatistics and Bioinformatics", "Black Archival Imagination Lab", "Black Music Lab", "BrainCultures Lab", "Bryan ADRC African-American Community Outreach", "Campus Mail Services", "Campus Research Support Offices", "Cancer Center Development", "Cardiovascular Research Center", "Career Center", "Cell Biology", "Centennial", "Center for Addiction and Behavior Change", "Center for Advanced Genomic Technologies", "Center for Advanced Hindsight (C4AH)", "Center for African and African American Research", "Center for Aging and Human Development", "Center for AIDS Research (CFAR)", "Center for Arts, Digital Culture and Entrepreneurship", "Center for International and Comparative Law", "Center for Behavioral Economics and Healthy Food Choice Research (BECR)", "Center for Biomolecular and Tissue Engineering (CBTE)", "Center for Child and Family Policy", "Center for Christianity and Scholarship", "Center for Cognitive Neuroscience", "Center for Computational Humanities", "Center for Computational Thinking", "Center for Documentary Studies (CDS)", "Center for French and Francophone Studies", "Center for Genomics, Race, Identity, Difference (GRID)", "Center for Global Reproductive Health", "Center for Global Studies and the Humanities", "Center for Global Women's Health Technologies", "Center for Human Disease Modeling (CHDM)", "Center for Human Genome Variation", "Center for Human Systems Immunology", "Center for Interdisciplinary Studies in Science and Cultural Theory (CISSCT)", "Center for International and Comparative Law", "Center for Jewish Studies", "Center for Late Ancient Studies", "Center for Latin American and Caribbean Studies (CLACS)", "Center for Metamaterials and Integrated Plasmonics", "Center for Multicultural Affairs", "Center for Muslim Life", "Center for Philosophy, Arts and Literature", "Center for Politics and Public Leadership", "Center for Science Education", "Center for Sexual and Gender Diversity", "Center for Slavic, Eurasian and East European Studies (CSEEES)", "Center for South Asia Studies", "Center for Spirituality, Theology and Health", "Center for Statistical Genetics and Genomics (StatGen)", "Center for Strategic Philanthropy and Civil Society", "Center for the Advancement of Social Entrepreneurship (CASE)", "Center for the Environmental Implications of NanoTechnology (CEINT)", "Center for the Study of Adolescent Risk and Resilience (C-StARR)", "Center for the Study of Race, Ethnicity and Gender in the Social Sciences (REGSS)", "Center for Theoretical and Mathematical Sciences (CTMS)", "Center for Virology", "Center for Virtual Imaging Trials", "Center on Biobehavioral Health Disparities Research (BHDR)", "Center on Global Change", "Center on Globalization, Governance & Competitiveness (CGGC)", "Center on Law, Ethics and National Security (LENS)", "CFM - Division of Community Health", "Chemistry", "Children's Development", "Christensen Family Center for Innovation (CFCI)", "Cinematic Arts", "Civil and Environmental Engineering (CEE)", "Classical Studies", "Coach K Center on Leadership & Ethics", "Coffeehouse", "Compute and Data Services Alliance for Research (CDSA)", "Computational Biology and Bioinformatics (CBB)", "Computer Science", "Concilium on Southern Africa", "Congregation at Duke University Chapel", "Continuing Studies", "Council for North American Studies", "Counseling & Psych Services (CAPS)", "CTSI Center for Equity in Research", "CTSI CREDO", "Cultural Anthropology", "DALHE - Duke Advancing Latine-Hispanic Excellence", "Dance Program", "David M. Rubenstein Rare Book & Manuscript Library", "David M. Rubenstein Scholars Program", "DCI Cancer Research Training & Education Coordination", "DCI Community Outreach and Engagement and Equity", "DCI Development", "DCI Equity Diversity & Inclusion", "Dean of Humanities", "Decolonizing Global Health Working Group", "Deep Tech Initiative", "DEMAN (Duke Entertainment, Media and Arts Network)", "Department of Anesthesiology", "Department of Dermatology", "Department of Family Medicine and Community Health", "Department of Head and Neck Surgery & Communication Sciences", "Department of Medicine", "Department of Neurology", "Department of Neurosurgery", "Department of Obstetrics and Gynecology", "Department of Ophthalmology", "Department of Orthopaedic Surgery", "Department of Pediatrics", "Department of Psychiatry and Behavioral Sciences", "Department of Radiation Oncology", "Department of Radiology", "Department of Religion", "Department of Religious Studies", "Department of Surgery", "Developmental and Stem Cell Biology Program", "DeWitt Wallace Center for Media and Democracy", "DGHI Uganda SRT Team", "DHTS Web Services", "Diversify IT", "Divinity School", "Divinity School Academic Programs", "Divinity School Duke Center for Reconciliation", "Divinity School Institute on Care at the End of Life", "Divinity School Leadership Education", "Divinity School Office of Black Church Studies", "Divinity School Thriving Communities in the Carolinas", "Division of Abdominal Transplant Surgery", "Division of Cardiology", "Division of Cardiovascular and Thoracic Surgery", "Division of Child Development and Behavioral Health", "Division of Clinical Pharmacology", "Division of Emergency Medicine", "Division of Endocrinology, Metabolism, and Nutrition", "Division of Gastroenterology", "Division of General Internal Medicine", "Division of General Surgery", "Division of Geriatrics", "Division of Hematologic Malignancies and Cellular Therapy", "Division of Hematology", "Division of Infectious Diseases", "Division of Medical Genetics", "Division of Medical Oncology", "Division of Metabolic and Weight Loss Surgery", "Division of Neonatology", "Division of Nephrology", "Division of Otolaryngology-Head and Neck Surgery", "Division of Pediatric Allergy and Immunology", "Division of Pediatric Blood and Marrow Transplantation", "Division of Pediatric Cardiology", "Division of Pediatric Critical Care Medicine", "Division of Pediatric Dentistry", "Division of Pediatric Endocrinology", "Division of Pediatric Gastroenterology, Hepatology and Nutrition", "Division of Pediatric General Surgery", "Division of Pediatric Hematology-Oncology", "Division of Pediatric Hospital and Emergency Medicine", "Division of Pediatric Infectious Diseases", "Division of Pediatric Medical Genetics", "Division of Pediatric Nephrology", "Division of Pediatric Neurodevelopment", "Division of Pediatric Neurology", "Division of Pediatric Pulmonary and Sleep Medicine", "Division of Pediatric Rheumatology", "Division of Plastic, Maxillofacial, and Oral Surgery", "Division of Primary Care Pediatrics", "Division of Pulmonary, Allergy, and Critical Care Medicine", "Division of Quantitative Sciences", "Division of Rheumatology and Immunology", "Division of Speech Pathology and Audiology", "Division of Surgical Sciences", "Division of Trauma and Critical Care Surgery", "Division of Urology", "Division of Vascular Surgery", "duARTS", "DU Press", "Duke Advancement of Nursing Center of Excellence (DANCE)", "Duke AHEAD", "Duke Air Force ROTC Detachment 585", "Duke Alumni Association (DAA)", "Duke Alumni Engagement and Development", "Duke Arts Create", "Duke Brazil Initiative", "Duke Campus Farm", "Duke Cancer Genetics and Genomics", "Duke Cancer Institute", "Duke Catholic Center", "Duke Center for Applied Genomics and Precision Medicine", "Duke Center for Brain and Spine Metastasis", "Duke Center for Genomic and Computational Biology (GCB)", "Duke Center for Global Mental Health (Duke CGMH)", "Duke Center for Health Informatics", "Duke Center for Healthcare Safety and Quality", "Duke Center for Human Genetics", "Duke Center for International Business Education and Research (CIBER)", "Duke Center for International Development (DCID)", "Duke Center for REACH Equity", "Duke Center for Research in Autoimmunity and Multiple Sclerosis", "Duke Center for Teaching and Learning (CTL)", "Duke Center for the Genomics of Microbial Systems (GeMS)", "Duke Center for Truth, Racial Healing & Transformation (Duke TRHT Center)", "Duke Chapel", "Duke Clergy & Religion Research Collaborative", "Duke Clinical and Translational Science Award (CTSA)", "Duke Clinical and Translational Science Institute (CTSI)", "Duke Clinical Research Institute (DCRI)", "Duke College Advising Corps (DCAC)", "Duke Community Affairs", "Duke Consortium on Social Equity", "Duke Council on Race and Ethnicity (DCORE)", "Duke Credit Union", "Duke Digital Humanities Initiative", "Duke Digital Initiative (DDI)", "Duke Digital Media Community", "Duke Dining Services (DDS)", "Duke Drilling, Environment and Economics Network (DEEN)", "Duke Epigenetics and Epigenomics Program (DEEP)", "Duke Eye Center", "Duke Faculty Club", "Duke Financial Economics Center (DFE)", "Duke Forest", "Duke Global Health Innovation Center", "Duke Global Health Institute (DGHI)", "Duke Health AI Evaluation & Governance (E&G) Program", "Duke Health and Well-Being", "Duke Health Development and Alumni Affairs Strategic Events", "Duke Health Interprofessional Education and Care Center I.P.E.C", "Duke Herbarium", "Duke Human Rights Center (DHRC)", "Duke Human Rights Center at the Franklin Humanities Institute (DHRC@FHI)", "Duke Human Rights Coalition (DHRC)", "Duke Human Vaccine Institute (DHVI)", "Duke IDEAS-Information, Technology and Culture", "Duke Initiative for Science & Society", "Duke Initiative on Survey Methodology (DISM)", "Duke Initiatives in Theology and the Arts", "Duke Innovation & Entrepreneurship", "Duke Institute for Brain Sciences (DIBS)", "Duke Institute for Health Innovation", "Duke Integrative Immunobiology", "Duke Integrative Medicine", "Duke Interdisciplinary Initiative in Social Psychology (DIISP)", "Duke International Student Center", "Duke in DC", "Duke Islamic Studies Center", "Duke Language Central", "Duke Law International Human Rights Clinic", "Duke Learning Innovation", "Duke Learning Innovation & Lifetime Education", "Duke Lemur Center", "Duke Life Flight", "Duke LIFE Office", "Duke-Margolis Institute for Health Policy", "Duke Materials Initiative", "Duke Medicine Development and Alumni Affairs (DMDAA)", "Duke Medicine Information Security Office", "Duke Medicine Orchestra (DMO)", "Duke Microbiome Center", "Duke Microfinance Leadership Initiative (DMLI)", "Duke Mobile App Gateway", "Duke Molecular Physiology Institute", "Duke Network Analysis Center (DNAC)", "Duke Office for External Partnerships (OEP)", "Duke Office for Translation & Commercialization (OTC)", "Duke Office of Civic Engagement (DOCE)", "Duke Office of Clinical Research (DOCR)", "Duke Office of DKU Relations", "Duke Office of Pre-Law Advising", "Duke Office of Research Initiatives", "Duke Office of Scientific Integrity (DOSI)", "Duke Palliative Care", "Duke Pathologists' Assistants", "Duke Performances", "Duke Physician Assistant Program", "Duke Population Research Institute (DuPRI)", "Duke Precision Medicine Program", "Duke Program in American Values and Institutions", "Duke Quantum Center", "Duke Regeneration Center", "Duke Regional Hospital", "Duke Service-Learning", "Duke Society-Centered AI Initiative", "Duke Space Initiative", "Duke String School", "Duke Student Wellness", "Duke Symphony Orchestra (DSO)", "Duke Talent Identification Program (TIP)", "Duke Teaching Observatory (DTO)", "Duke Technology Scholars Program (DTech)", "Duke Toastmasters Club", "Duke University Box Office", "Duke University Center for International and Global Studies", "Duke University Health System (DUHS)", "Duke University Middle East Studies Center", "Duke University Mycology Research Unit (MRU)", "Duke University NAACP", "Duke University Naval Reserve Officer Training Corps (Duke NROTC)", "Duke University Police (DUP)", "Duke University Postdoctoral Association (DUPA)", "Duke Visa Services", "Duke Water Network", "DukeEngage", "DukeReach", "DukeWELL", "DUSON Community Health Improvement Partnership Program", "E.O. Wilson Biodiversity Foundation", "Economics", "EDGE: Center for Energy, Development and the Global Environment", "Education and Human Development Incubator (EHDI)", "Electrical and Computer Engineering (ECE)", "Employee Resource/Affinity Group", "Engineering Graduate Student Programs & Services (GSPS)", "Engineering Master’s Career Services and Professional Development", "English", "Enterprising Leadership Initiative (ELI)", "Ethnography Workshop", "Evolutionary Anthropology", "Experimental Film Lab", "Facilities Management Department (FMD)", "Faculty Women's Network and Caucus", "Faculty Write", "Financial Education Partnership (FEP)", "First-Year Experience, Trinity College (FYE)", "Fitzpatrick Institute for Photonics (FIP)", "Focus Program", "Forest History Society", "Forum for Scholars and Publics", "Franklin Humanities Institute (FHI)", "Fraternity & Sorority Life", "From Harlem to Hamburg", "Full Frame Documentary Film Festival", "Fuqua Center for Innovation and Entrepreneurship (CEI)", "Fuqua Center for Technology, Entertainment and Media (CTEM)", "Fuqua's Office of Diversity and Inclusion", "Fuqua School of Business", "Fuqua School of Business, Finance", "Fuqua Speaks", "Gender, Sexuality, and Feminist Studies", "German Studies", "Global Admin and Travel Support (GATS)", "Global Advising", "Global Asia Initiative", "Global Brazil Humanities Lab", "Global Education Office for Undergraduates", "Global Financial Markets Center at Duke Law", "Global Inequality Research Initiative (GIRI)", "Global Jewish Modernization", "Gothic Bookshop", "Graduate Communications and Intercultural Programs - Pratt School of Engineering", "Graduate Liberal Studies", "Graduate Medical Education", "Graduate School", "Harmony Humanities Lab", "Hart Leadership Program", "Hartman Center for Sales, Advertising & Marketing History", "HASTAC", "Health Humanities Lab (HHL)", "Health Professions Advising (HPA)", "Health, Wellness, Physical Education and Campus Recreation", "Healthy Duke", "Hematology Case Conference 2023", "History", "History of Medicine Collections", "House Courses", "Housing and Residence Life (HRL)", "Human Resources (HR)", "Human Resources Benefits", "Humanities Labs@FHI", "Humanities Writ Large", "Humanities Unbounded", "India Initiative", "Information Initiative at Duke (iiD)", "Information Science + Studies (ISS)", "Innovation Co-Lab", "Institute for Critical Theory", "Institute for Genome Sciences & Policy (IGSP)", "Integrated Toxicology & Environmental Health (ITEHP)", "Internal Medicine Residency Program", "International Comparative Studies (ICS)", "international Masters of Environmental Policy - iMEP", "Ion Channel Research Unit (ICRU)", "Jazz at the Mary Lou", "Jewish Life at Duke", "John Hope Franklin Center (JHFC)", "Karsh International Scholars", "Kenan Institute for Ethics", "Keohane Distinguished Visiting Professorship", "Language, Arts & Media Program", "Language Central", "Latino/a Studies", "Law School", "Law School Alumni", "Law School Career", "Law School Faculty", "Law School-Public Interest Law Foundation", "Learning & Organization Development (L&OD)", "LGBTQ Faculty/Staff Affinity Group", "Libraries", "Linguistics", "Literature", "Live for Life (LFL)", "Living Policy Forum (LPF)", "Machine Learning", "Mandel Center for Hypertension and Atherosclerosis", "Manuscript Migration Lab", "Markets and Management Studies (MMS)", "Martin Luther King, Jr. Celebration", "Mary Lou Williams Center for Black Culture", "Master of Biomedical Sciences Program", "Master of Engineering in Cybersecurity", "Master of Engineering in Financial Technology", "Master of Engineering in Game Design and Development and Innovation", "Master of Engineering Management Program (MEMP)", "Master of Fine Arts in Experimental & Documentary Arts (MFAEDA)", "Master of Management in Clinical Informatics (MMCi)", "Materials Science and Engineering", "Mathematics", "Mechanical Engineering and Materials Science (MEMS)", "Media Arts & Sciences", "Medical Center Library", "Medical Imaging Training Program", "Medical Physics Graduate Program", "Medical Scientist Training Program (MSTP)", "Medieval and Renaissance Studies", "MedMentors", "MEDx", "mHealth@Duke", "Military Science Army ROTC", "Molecular Cancer Biology (MCB)", "Molecular Genetics and Microbiology (MGM)", "Mosaic", "Multicultural Advancement Activities", "Multiscale Immune Systems Modeling (MISM)", "Music", "Nasher Museum of Art", "National Center for Child Traumatic Stress (NCCTS)", "Neurobiology", "Neurohumanities Research Group", "New Student Programs", "New Student & Family Programs", "Nicholas Institute for Energy, Environment and Sustainability", "Nicholas School of the Environment-Office of Development & Alumni Relations", "Nicholas School-Career Services", "Nicholas School-Duke Environmental Leadership Program (DEL)", "Nicholas School-Earth & Ocean Sciences", "Nicholas School-Enrollment Services", "Nicholas School-Marine Lab", "Nicholas School-Miscellaneous Events", "Observatory on Europe", "Oceans@Duke", "Occupational and Environmental Safety Office (OESO)", "Office for Institutional Equity (OIE)", "Office for Research and Innovation", "Office Hours", "Office of Animal Welfare Assurance (OAWA)", "Office of Campus Research Development", "Office of Climate and Sustainability", "Office of Durham and Community Affairs", "Office of DKU Programs", "Office of Export Controls", "Office of Faculty Advancement (OFA)", "Office of Global Affairs", "Office of Global and Community Health Initiatives", "Office of Global Strategy and Programs", "Office of Government Relations DUHS", "Office of Health Professions Advising", "Office of Information Technology (OIT)", "Office of Physician-Scientist Development (OPSD)", "Office of Postdoctoral Services", "Office of Prehealth Advising", "Office of Regulatory Affairs and Quality", "Office of Research Administration (ORA)", "Office of Research Support (ORS)", "Office of Student Conduct", "Office of the Chancellor for Health Affairs (DUHS)", "Office of the Executive Vice President", "Office of the Provost - Finance and Administration", "Office of the University President", "Office of Undergraduate Scholars & Fellows (OUSF)", "Operation Smile", "Organization for Tropical Studies (OTS)", "OUE - Experiential Education", "OUSF - Nationally Competitive Scholarship Events", "Paralegal Certificate Program", "Parent and Family Programs", "Parking and Transportation", "Pathology", "PathWays at Duke", "Pauli Murray Project", "Pelvic Medicine", "Personal Finance@Duke", "Pharmacology and Cancer Biology", "PhD Lab in Digital Knowledge", "PhD Plus Professional Development Program", "Phi Sigma Pi National Honors Fraternity (PSP)", "Philosophy", "Philosophy, Politics and Economics Program (PPE)", "Physics", "Policy and Organizational Management Program", "POLIS: Center for Politics", "Political Science", "Population Health Sciences", "Pratt Human Resources (HR)", "Pratt School of Engineering", "PRATTically Speaking Toastmasters Club", "Prebusiness Advising (PBAO)", "Precision Genomics Colaboratory", "Pregraduate Advising", "Prelaw Advising", "Preston Robert Tisch Brain Tumor Center", "Program for Advanced Research in the Social Sciences (PARISS)", "Program II", "Program in Cell and Molecular Biology", "Program in Education", "Program in Latino/a Studies in the Global South", "Program In The Study Of Sexualities", "PROMISE Study - Peer Network", "Provost's Office", "Psychology and Neuroscience", "Public Affairs & Government Relations", "Publishing Humanities Initiative", "QBio", "Revaluing Care Lab", "Regeneration Next", "Reginaldo Howard Scholars", "Registrar's Office", "Religious Observances", "RENCI Center at Duke University", "Representing Migration Humanities Lab", "Reproductive Sciences Division", "Research Administration", "Research Career Development Programs", "Research Computing", "Research for Indigenous Studies & Engagement in the US (RISE-US)", "Research Network on Racial and Ethnic Inequality (The Network)", "Research on the Education and Development of Youth (REDY)", "RESILE", "Rethinking Diplomacy Program (RDP)", "Robertson Scholars", "Robertson Scholars Leadership Program", "Romance Studies", "Rubenstein Fellows Academy", "Samuel DuBois Cook Center on Social Equity (The Cook Center)", "Sanford School of Public Policy", "Sarah P. Duke Gardens", "Sarah W. Stedman Nutrition and Metabolism Center", "Scholars in Molecular Medicine", "ScholarWorks", "School of Medicine - Office of Biomedical Graduate Education", "School of Medicine (SOM)", "School of Medicine Alumni Affairs", "School of Medicine Faculty Development", "School of Medicine Office of Research Mentoring", "School of Medicine-Interdisciplinary Colloquia", "School of Medicine-Office of Biomedical Graduate Diversity (OBGD)", "School of Medicine-Office of Diversity & Inclusion", "School of Medicine-Office of Equity Diversity and Inclusion", "School of Nursing (SON)", "School of Nursing Women's Health Organization (DUSON WHO)", "Science Policy Program at Duke", "Service-Learning Program", "Sexual and Gender Minority Health Program", "Shakespeare", "Shared Materials Instrumentation Facility (SMIF)", "Slavic and Eurasian Studies", "SLIPPAGE", "Social Entrepreneurship Accelerator at Duke (SEAD)", "Social Movements Lab", "Social Practice Lab", "Social Science Research Institute (SSRI)", "Sociology", "Sophomore Spark", "Sophomore Year Experience (SYE)", "Special Events and University Ceremonies", "SPIRE Fellows", "SSRI Initiative on Qualitative Ethnographic and Mixed Methods (SIQEM)", "Stanford School Career Services", "Stargazing Devils Astronomy Club (SDAC)", "Statistical Science", "Story Lab @ Franklin Humanities Institute", "Structural Biology & Biophysics (SBB)", "Student Affairs", "Student Affairs Staff", "Student Loans", "Sustainable Duke", "Teaching Support Network (TSN)", "Text A Librarian", "The Duke Center on Risk", "The IDEALS Office (SOM)", "The MasterCard Foundation Scholars Program", "The VIS Group", "The Working Group on Eurasia (WGE)", "Theater Studies", "Thompson Writing Program", "Transformative Ideas", "Translating Duke Health", "Trent Center for Bioethics, Humanities & History of Medicine", "Triangle Center for Evolutionary Medicine (TriCEM)", "Triangle Center on Terrorism and Homeland Security", "Triangle Institute for Security Studies (TISS)", "Triangle Materials Research Science & Engineering Center (MRSEC)", "Trinity College", "Trinity College Academic Calendar", "Trinity Scholars", "TUNL Seminar Series", "Undergraduate Admissions", "Undergraduate Education", "Undergraduate Financial Aid", "Undergraduate Research Support Office", "University Center Activities & Events (UCAE)", "University Communications", "University Development Office", "University IT Security Office", "University Program in Genetics & Genomics (UPGG)", "University Scholars Program", "University Secretary", "Veterans Programs", "Vice President for Research", "Vice Provost for Faculty Advancement", "Vice Provost for Interdisciplinary Studies", "Vice Provost for International Affairs", "Vice Provost for the Arts", "Visual Studies Initiative", "Visualizing Cities", "Washington Duke Inn & Golf Club", "WISeNet Integrative Graduate Education and Research Training (IGERT)", "Wilson Center for Science and Justice at Duke Law", "Women's Center", "Women's Institute for Secondary Education and Research @ Duke (WISER)", "World Food Policy Center", "Writing Studio"]
+Student Group Search
+Adopt a Grandparent (AAG)
+Alpha Kappa Alpha Sorority, Inc. (AKA)
+alpha Kappa Delta Phi Sorority, Inc. (aKDPhi)
+Alpha Phi Alpha Fraternity, Inc. (Alphas, APA)
+Alpha Phi Omega - Lambda Nu Chapter (APO)
+Amandla Chorus
+American Institute of Aeronautics and Astronautics (AIAA)
+Amnesty International (Amnesty)
+Arts Theme House (ATH)
+Asian Students Association (ASA)
+Avalon House
+Baldwin Scholars House
+Bastille House
+Bel Air House
+Bench and Bar Pre-Law Society (Bench and Bar)
+Big Brothers Big Sisters at Duke (BBBS)
+Black and Latino MBA Organization at Fuqua
+Black Cultural Living Group House
+Black Graduate and Professional Student Association (BGPSA)
+Black Pre-Law Association (BLPA)
+Black Student Alliance (BSA)
+Blue Devils United (BD United)
+Blue Devils versus Cancer (BDVC)
+Blue Ridge House
+Brownstone
+Buddhist Community at Duke (BCD)
+Building Tomorrow (BT)
+Cambridge Christian Fellowship (CCF)
+Camp Kesem North Carolina (CKNC)
+Campus Concert Series (CCS)
+Campus Crusade for Christ (Cru)
+Center for Race Relations (CRR)
+Chabad Student Group (Chabad)
+Challah for Hunger at Duke
+Christian Medical & Dental Association (CMDA)
+Circle K International (CKI)
+Coalition for Preserving Memory (CPM)
+Cooper House
+Crazies Who Care (CWC)
+Cuban American Student Association (CASA)
+Decolonize Dismantle & Redesign Student Working Group (DDR)
+Defining Movement Dance Group (defMo)
+Delta Kappa Epsilon (DKE)
+Delta Sigma Theta Sorority (Deltas, DST)
+Desarrolla
+Devils After Dark
+Devils en Pointe
+DUhatch Student Business Incubator
+Duke Africa
+Duke African Graduate and Professional Students Association
+Duke Association for Business Oriented Women (BOW)
+Duke Association for Greater Gaming Education and Recreation (DAGGER)
+Duke Black Law Students Association
+Duke BOLD (Building Outdoor Leaders and Doers)
+Duke Business Society (DBS)
+Duke China Care (DCC)
+Duke Chinese Dance Troupe (DCD)
+Duke Chinese Students and Scholars Association (DCSSA)
+Duke Climate Coalition
+Duke College Republicans (College Republicans)
+Duke Community Television (Cable 13)
+Duke Consulting Club
+Duke Conservation Tech
+Duke Cyber
+Duke Dance Council
+Duke Democrats
+Duke East Asia Nexus (DEAN)
+Duke Energy Club (DEC)
+Duke Engineers for International Development (DEID)
+Duke Ethiopian/Eritrean Student Transnational Association
+Duke Fashion Exchange
+Duke Fly Club
+Duke Friends of Israel (DFI)
+Duke German Club
+Duke Global Brigades
+Duke Graduate & Professional Habitat for Humanity
+Duke Graduate Finance Club
+Duke Habitat for Humanity (Duke Habitat)
+Duke Health Occupations Students of America (HOSA)
+Duke Healthcare Policy Forum (DHP Forum)
+Duke History Union
+Duke Hyperloop
+Duke IHI Open School
+Duke Independent Film Festival (DIFF)
+Duke Interdisciplinary Student Innovators (DISI)
+Duke International Relations Association (DIRA)
+Duke InterVarsity Christian Fellowship (IV)
+Duke Israel Public Affairs Committee (DIPAC)
+Duke Jewish Student Union (JSU)
+Duke Kunshan Student Ambassador Council
+Duke Marketing Club
+Duke MBA Armed Forces Association (DAFA)
+Duke MBA Net Impact Club
+Duke Med Elementary
+Duke Men’s Project
+Duke Mock Trial
+Duke Net Impact Undergrad (NetImpact)
+Duke Optical Student Chapter
+Duke Partnership for Service (dPS)
+Duke PAWS
+Duke Persian Students Association (PSA)
+Duke Political Science Students Association (DPSSA)
+Duke Pre-Physical Therapy Association (DPPTA)
+Duke Quidditch
+Duke Rare Disease Coalition
+Duke Real Estate Club
+Duke Red Cross
+Duke Relay for Life
+Duke Seniors
+Duke Science Olympiad
+Duke Scouting Association (DSA)
+Duke Simple Charity
+Duke South Asian Students Association (Duke DIYA)
+Duke Southeast Asian Students Association
+Duke Splash
+Duke Sports Management Conference
+Duke Start-up Challenge (DSC)
+Duke Stories for Nature and People (SNAP)
+Duke Students Against Gender Violence
+Duke Students Demand Action
+Duke Student Broadcasting
+Duke Student Government (DSG)
+Duke Student Veterans Association (Duke Vets)
+Duke Students for Humane Borders (DSHB)
+Duke Student Veterans Association (Duke Vets)
+Duke Sustainability Board
+Duke Swing Dancing Club (Duke Swing)
+Duke Undergraduate Machine Learning
+Duke University Greening Initiative (DUGI)
+Duke University Hawaii Club (DUHI)
+Duke University Honor Council (DUHC)
+Duke University Improv (DUI)
+Duke University Mens Crew (DMC)
+Duke University School of Nursing Student Council (DUSON Student Council)
+Duke University Stand-up Troupe
+Duke University Student Dining Advisory Committee (DUSDAC)
+Duke University Union (DUU)
+Duke University Union Visual Arts Committee (DUU VisArts)
+Duke Venture Capital Club
+Duke Venture Forward
+Duke Voices for Interfaith Action
+Duke Water Network
+Duke Wesley Fellowship (Wesley)
+Duke Women's Mentoring Network (WMN)
+Duke Writers' Collective (DWC)
+DukeFish
+DukeOUT
+DUSON Student Organizations
+DUU Joe College Day (JoeCo)
+DUU Major Attractions (DUU MA)
+DUU Special Projects
+East Campus Council (ECC)
+Economics Student Union (ESU)
+Engineering Business Society (EBS)
+Engineering Graduate Student Council (EGSC)
+Engineering Student Government (ESG)
+Engineers Without Borders - Duke University Chapter (EWB-Duke)
+Environmental Alliance (EA)
+Episcopal Center at Duke
+Eruditio
+Evolutionary Anthropology Majors Union (EvAnth Majors Union)
+Farmhand
+Farquaad House
+Fellowship of Christian Athletes (FCA)
+Females Excelling More in Math, Engineering and Science (FEMMES)
+Freewater Presentations
+Freewater Productions
+Froshlife
+Foundation for the International Medical Relief of Children (FIMRC)
+Fuqua Entrepreneurship and Venture Capital Club (EVCC)
+Fusion House
+Gates House
+Genome Research & Education Society
+Global Health Forum (Global Health Action Committee)
+GlobeMed
+Graduate and Professional Student Council (GPSC)
+Graduate and Professional Women's Network (GPWN)
+Graduate Christian Fellowship (GCF)
+Graduate Students Association of Iranians at Duke
+Graduate to Undergraduate Student Tutoring
+Griffin House
+Hart House
+Hazing Prevention Coalition
+Healthy Devils Peer Educators
+Hear at Duke
+Hindu Students Association
+Hoof 'n' Horn (HnH)
+Hun House
+InCube House
+Inside Joke
+Institute of Electrical and Electronics Engineers (IEEE) - Duke Student Branch
+Interfraternity Council (IFC)
+International Association (IA)
+International Christian Fellowship (ICF)
+International Justice Mission (IJM)
+InterVarsity Christian Fellowship
+J Street U
+Jam House
+Japanese Culture Club
+Jewish Graduate and Professional Student Association
+Joint Youth Organization of Indians at Duke (JYOTI)
+Juhood Magazine
+Kappa Alpha Psi Fraternity, Inc. (Kappas, KA Psi)
+Khaya House
+Kilgo Quad Council
+Know Your Status (KYS)
+Korean Undergraduate Student Association (KUSA)
+Lady Blue
+Lambda Phi Epsilon Fraternity, Inc. (LPhiE)
+Lambda Theta Alpha Latin Sorority, Inc. (LTA)
+Language Theme House (Langdorm)
+Latent Image
+Latin American Student Organization
+Live Entertainment / Broadway (LiveEnt)
+Marquis House
+Materials Research Society at Duke
+Maxwell House
+Me Too Monologues (MTM)
+Mi Gente
+Minority Association for Pre-Medical Students (MAPS)
+Mirecourt
+Momentum Dance Company
+Montauk House
+Mt. Olympus House
+Multicultural Greek Council (MGC)
+Mundi House
+Muslim Students Association (MSA)
+Nasher Student Advisory Board (NSAB)
+National Pan-Hellenic Council (NPHC)
+National Society of Black Engineers (NSBE)
+Native American Student Alliance (NASA)
+Neurocare
+Nexus House
+Nicholas School Student Council
+Nourish International (Nourish)
+Omega Psi Phi Fraternity, Inc. (Omegas, Ques)
+On Tap
+Out of the Blue (OOTB)
+Oz House
+Panhellenic Association (Panhel)
+Passport Magazine
+Phi Beta Sigma Fraternity, Inc. (Sigmas, PBS)
+Physics Graduate Student Organization (PGSO)
+Precision Step Team
+Project HEAL: Health Education and Awareness in Latin America
+Prospective Health Care Club (PHCC)
+Psi Upsilon (Psi U)
+Public Policy Majors Union (PPSMU)
+Rince Diabhal: Irish Dance and Culture Club
+Roadrunners Running Club
+Roots & Shoots
+Rotaract Club of Duke University
+Round Table (RT)
+Runway of Dreams
+Sabrosura
+SEDS
+Sherwood House
+Shire HouseSigma Gamma Rho Sorority, Inc
+Sigma Phi Epsilon Fraternity (SigEp)
+Skylar House
+Small Town Records (STR)
+Smart Home
+Society for Advancement of Hispanics/Chicanos and Native Americans in Science-Duke SACNAS
+Society of American Foresters (SAF)
+Society of Women Engineers (SWE)
+Something Borrowed Something Blue
+Sophomore Class Council
+Special Olympics College (SO) - Duke
+Students of the Caribbean Association
+Student National Medical Association (SNMA)
+Substance Free House
+Taiwanese Student Association (TSA)
+Tau Beta Pi (TBP)
+TEDxDuke
+The Alexander Hamilton Society
+The Archive
+The Chanticleer
+The Chronicle
+The Duke Alt Protein Project
+The Duke Entrepreneur (TDE)
+The Hub
+The Other
+The Pitchforks
+Turkish Students Association
+Ubuntu
+Ubuntu House
+Undergraduate Publications Board (UPB)
+United in Praise (UP)
+Universities Allied for Essential Medicines (UAEM)
+Vertices Journal of Science and Technology
+Vision for North Korea (VNK)
+Wayne Manor (WM)
+Wellness Community
+Wellness Community House
+Windsor House
+Westminster Fellowship at Duke (WPF)
+Wilderness Outdoor Opportunities For Durham Students (WOODS)
+Women's Housing Option (WHO)
+Women in Science and Engineering (WISE)
+Womyn
+Working Group for Environment in Latin America (WGELA)
+WXDU
+Zeta Phi Beta Sorority, Inc. (Zetas, ZPhiB)
+["Adopt a Grandparent (AAG)", "Alpha Kappa Alpha Sorority, Inc. (AKA)", "alpha Kappa Delta Phi Sorority, Inc. (aKDPhi)", "Alpha Phi Alpha Fraternity, Inc. (Alphas, APA)", "Alpha Phi Omega - Lambda Nu Chapter (APO)", "Amandla Chorus", "American Institute of Aeronautics and Astronautics (AIAA)", "Amnesty International (Amnesty)", "Arts Theme House (ATH)", "Asian Students Association (ASA)", "Avalon House", "Baldwin Scholars House", "Bastille House", "Bel Air House", "Bench and Bar Pre-Law Society (Bench and Bar)", "Big Brothers Big Sisters at Duke (BBBS)", "Black and Latino MBA Organization at Fuqua", "Black Cultural Living Group House", "Black Graduate and Professional Student Association (BGPSA)", "Black Pre-Law Association (BLPA)", "Black Student Alliance (BSA)", "Blue Devils United (BD United)", "Blue Devils versus Cancer (BDVC)", "Blue Ridge House", "Brownstone", "Buddhist Community at Duke (BCD)", "Building Tomorrow (BT)", "Cambridge Christian Fellowship (CCF)", "Camp Kesem North Carolina (CKNC)", "Campus Concert Series (CCS)", "Campus Crusade for Christ (Cru)", "Center for Race Relations (CRR)", "Chabad Student Group (Chabad)", "Challah for Hunger at Duke", "Christian Medical & Dental Association (CMDA)", "Circle K International (CKI)", "Coalition for Preserving Memory (CPM)", "Cooper House", "Crazies Who Care (CWC)", "Cuban American Student Association (CASA)", "Decolonize Dismantle & Redesign Student Working Group (DDR)", "Defining Movement Dance Group (defMo)", "Delta Kappa Epsilon (DKE)", "Delta Sigma Theta Sorority (Deltas, DST)", "Desarrolla", "Devils After Dark", "Devils en Pointe", "DUhatch Student Business Incubator", "Duke Africa", "Duke African Graduate and Professional Students Association", "Duke Association for Business Oriented Women (BOW)", "Duke Association for Greater Gaming Education and Recreation (DAGGER)", "Duke Black Law Students Association", "Duke BOLD (Building Outdoor Leaders and Doers)", "Duke Business Society (DBS)", "Duke China Care (DCC)", "Duke Chinese Dance Troupe (DCD)", "Duke Chinese Students and Scholars Association (DCSSA)", "Duke Climate Coalition", "Duke College Republicans (College Republicans)", "Duke Community Television (Cable 13)", "Duke Consulting Club", "Duke Conservation Tech", "Duke Cyber", "Duke Dance Council", "Duke Democrats", "Duke East Asia Nexus (DEAN)", "Duke Energy Club (DEC)", "Duke Engineers for International Development (DEID)", "Duke Ethiopian/Eritrean Student Transnational Association", "Duke Fashion Exchange", "Duke Fly Club", "Duke Friends of Israel (DFI)", "Duke German Club", "Duke Global Brigades", "Duke Graduate & Professional Habitat for Humanity", "Duke Graduate Finance Club", "Duke Habitat for Humanity (Duke Habitat)", "Duke Health Occupations Students of America (HOSA)", "Duke Healthcare Policy Forum (DHP Forum)", "Duke History Union", "Duke Hyperloop", "Duke IHI Open School", "Duke Independent Film Festival (DIFF)", "Duke Interdisciplinary Student Innovators (DISI)", "Duke International Relations Association (DIRA)", "Duke InterVarsity Christian Fellowship (IV)", "Duke Israel Public Affairs Committee (DIPAC)", "Duke Jewish Student Union (JSU)", "Duke Kunshan Student Ambassador Council", "Duke Marketing Club", "Duke MBA Armed Forces Association (DAFA)", "Duke MBA Net Impact Club", "Duke Med Elementary", "Duke Men’s Project", "Duke Mock Trial", "Duke Net Impact Undergrad (NetImpact)", "Duke Optical Student Chapter", "Duke Partnership for Service (dPS)", "Duke PAWS", "Duke Persian Students Association (PSA)", "Duke Political Science Students Association (DPSSA)", "Duke Pre-Physical Therapy Association (DPPTA)", "Duke Quidditch", "Duke Rare Disease Coalition", "Duke Real Estate Club", "Duke Red Cross", "Duke Relay for Life", "Duke Seniors", "Duke Science Olympiad", "Duke Scouting Association (DSA)", "Duke Simple Charity", "Duke South Asian Students Association (Duke DIYA)", "Duke Southeast Asian Students Association", "Duke Splash", "Duke Sports Management Conference", "Duke Start-up Challenge (DSC)", "Duke Stories for Nature and People (SNAP)", "Duke Students Against Gender Violence", "Duke Students Demand Action", "Duke Student Broadcasting", "Duke Student Government (DSG)", "Duke Student Veterans Association (Duke Vets)", "Duke Students for Humane Borders (DSHB)", "Duke Student Veterans Association (Duke Vets)", "Duke Sustainability Board", "Duke Swing Dancing Club (Duke Swing)", "Duke Undergraduate Machine Learning", "Duke University Greening Initiative (DUGI)", "Duke University Hawaii Club (DUHI)", "Duke University Honor Council (DUHC)", "Duke University Improv (DUI)", "Duke University Mens Crew (DMC)", "Duke University School of Nursing Student Council (DUSON Student Council)", "Duke University Stand-up Troupe", "Duke University Student Dining Advisory Committee (DUSDAC)", "Duke University Union (DUU)", "Duke University Union Visual Arts Committee (DUU VisArts)", "Duke Venture Capital Club", "Duke Venture Forward", "Duke Voices for Interfaith Action", "Duke Water Network", "Duke Wesley Fellowship (Wesley)", "Duke Women's Mentoring Network (WMN)", "Duke Writers' Collective (DWC)", "DukeFish", "DukeOUT", "DUSON Student Organizations", "DUU Joe College Day (JoeCo)", "DUU Major Attractions (DUU MA)", "DUU Special Projects", "East Campus Council (ECC)", "Economics Student Union (ESU)", "Engineering Business Society (EBS)", "Engineering Graduate Student Council (EGSC)", "Engineering Student Government (ESG)", "Engineers Without Borders - Duke University Chapter (EWB-Duke)", "Environmental Alliance (EA)", "Episcopal Center at Duke", "Eruditio", "Evolutionary Anthropology Majors Union (EvAnth Majors Union)", "Farmhand", "Farquaad House", "Fellowship of Christian Athletes (FCA)", "Females Excelling More in Math, Engineering and Science (FEMMES)", "Freewater Presentations", "Freewater Productions", "Froshlife", "Foundation for the International Medical Relief of Children (FIMRC)", "Fuqua Entrepreneurship and Venture Capital Club (EVCC)", "Fusion House", "Gates House", "Genome Research & Education Society", "Global Health Forum (Global Health Action Committee)", "GlobeMed", "Graduate and Professional Student Council (GPSC)", "Graduate and Professional Women's Network (GPWN)", "Graduate Christian Fellowship (GCF)", "Graduate Students Association of Iranians at Duke", "Graduate to Undergraduate Student Tutoring", "Griffin House", "Hart House", "Hazing Prevention Coalition", "Healthy Devils Peer Educators", "Hear at Duke", "Hindu Students Association", "Hoof 'n' Horn (HnH)", "Hun House", "InCube House", "Inside Joke", "Institute of Electrical and Electronics Engineers (IEEE) - Duke Student Branch", "Interfraternity Council (IFC)", "International Association (IA)", "International Christian Fellowship (ICF)", "International Justice Mission (IJM)", "InterVarsity Christian Fellowship", "J Street U", "Jam House", "Japanese Culture Club", "Jewish Graduate and Professional Student Association", "Joint Youth Organization of Indians at Duke (JYOTI)", "Juhood Magazine", "Kappa Alpha Psi Fraternity, Inc. (Kappas, KA Psi)", "Khaya House", "Kilgo Quad Council", "Know Your Status (KYS)", "Korean Undergraduate Student Association (KUSA)", "Lady Blue", "Lambda Phi Epsilon Fraternity, Inc. (LPhiE)", "Lambda Theta Alpha Latin Sorority, Inc. (LTA)", "Language Theme House (Langdorm)", "Latent Image", "Latin American Student Organization", "Live Entertainment / Broadway (LiveEnt)", "Marquis House", "Materials Research Society at Duke", "Maxwell House", "Me Too Monologues (MTM)", "Mi Gente", "Minority Association for Pre-Medical Students (MAPS)", "Mirecourt", "Momentum Dance Company", "Montauk House", "Mt. Olympus House", "Multicultural Greek Council (MGC)", "Mundi House", "Muslim Students Association (MSA)", "Nasher Student Advisory Board (NSAB)", "National Pan-Hellenic Council (NPHC)", "National Society of Black Engineers (NSBE)", "Native American Student Alliance (NASA)", "Neurocare", "Nexus House", "Nicholas School Student Council", "Nourish International (Nourish)", "Omega Psi Phi Fraternity, Inc. (Omegas, Ques)", "On Tap", "Out of the Blue (OOTB)", "Oz House", "Panhellenic Association (Panhel)", "Passport Magazine", "Phi Beta Sigma Fraternity, Inc. (Sigmas, PBS)", "Physics Graduate Student Organization (PGSO)", "Precision Step Team", "Project HEAL: Health Education and Awareness in Latin America", "Prospective Health Care Club (PHCC)", "Psi Upsilon (Psi U)", "Public Policy Majors Union (PPSMU)", "Rince Diabhal: Irish Dance and Culture Club", "Roadrunners Running Club", "Roots & Shoots", "Rotaract Club of Duke University", "Round Table (RT)", "Runway of Dreams", "Sabrosura", "SEDS", "Sherwood House", "Shire HouseSigma Gamma Rho Sorority, Inc", "Sigma Phi Epsilon Fraternity (SigEp)", "Skylar House", "Small Town Records (STR)", "Smart Home", "Society for Advancement of Hispanics/Chicanos and Native Americans in Science-Duke SACNAS", "Society of American Foresters (SAF)", "Society of Women Engineers (SWE)", "Something Borrowed Something Blue", "Sophomore Class Council", "Special Olympics College (SO) - Duke", "Students of the Caribbean Association", "Student National Medical Association (SNMA)", "Substance Free House", "Taiwanese Student Association (TSA)", "Tau Beta Pi (TBP)", "TEDxDuke", "The Alexander Hamilton Society", "The Archive", "The Chanticleer", "The Chronicle", "The Duke Alt Protein Project", "The Duke Entrepreneur (TDE)", "The Hub", "The Other", "The Pitchforks", "Turkish Students Association", "Ubuntu", "Ubuntu House", "Undergraduate Publications Board (UPB)", "United in Praise (UP)", "Universities Allied for Essential Medicines (UAEM)", "Vertices Journal of Science and Technology", "Vision for North Korea (VNK)", "Wayne Manor (WM)", "Wellness Community", "Wellness Community House", "Windsor House", "Westminster Fellowship at Duke (WPF)", "Wilderness Outdoor Opportunities For Durham Students (WOODS)", "Women's Housing Option (WHO)", "Women in Science and Engineering (WISE)", "Womyn", "Working Group for Environment in Latin America (WGELA)", "WXDU", "Zeta Phi Beta Sorority, Inc. (Zetas, ZPhiB)"]
+TODAY'S EVENTS
+Manual Mobile Search
+Manual Search
+Featured Events
+Found 0 events
+No Events Found
+SEE
+ONGOING EVENTS
+Calendar Search
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+2011
+Location Search Filter
+VIEW ACADEMIC CALENDARS
+SUBMIT A PUBLIC EVENT
+Calendar Administration:
+LOGIN
+to manage account
+-or-
+REQUEST AN ACCOUNT
+if new

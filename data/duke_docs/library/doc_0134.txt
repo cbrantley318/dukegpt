@@ -1,0 +1,18 @@
+On Monday, May 11, we will launch the new Library Search platform providing a unified system for finding print and online materials from Duke University Libraries’ local collections and library licensed online resources. Library Search will replace our existing Books & Media Catalog and our separate Summon-based platform used to search for Articles, eBooks, and Online Journal Titles.
+What’s new?
+- You will be able to narrow or expand your search in different ways:
+- Everything: Combines Duke University Libraries’ local collections with millions of library-licensed online resources
+- Books & Media (Catalog): Duke University Libraries’ local collections of print and electronic books, journals, videos, scores, and more
+- Articles & Online Resources: Millions of library-licensed articles, eBooks, and other online resources
+- Rare Books & Manuscripts: Items held in the Rubenstein Rare Book & Manuscript Library and University Archives
+- Course Reserves: Items held at Perkins Library, Lilly at Bishop’s House, Music Library, and the Medical Center Library to support courses in the current term
+- The “Everything” search dropdown will let you search electronic resources and local collections at the same time
+- It is easier to expand your results beyond Duke to discover online resources that are not included in Duke’s collections or licensed resources
+- Your Library Account will be integrated into Library Search, allowing you to save selected records or searches for easy access later
+What’s different?
+- You will need to sign in to Library Search to request items from our general collections; items in the Rubenstein Library and University Archives will continue to be able to be requested without signing in first.
+- Library Search does not include the option to view search results from libraries at UNC, NCSU, or NCCU; instead, you’ll use WorldCat Discovery to find items that Duke does not have.
+What happens on May 11?
+During the morning of May 11, we will launch the new Library Search platform. During that timeframe, we will implement URL redirects from our old Books & Media Catalog and our Summon-based Articles, eBooks, and Online Journal Titles search platform to our new Library Search system. Library staff will also update links and search boxes on various library websites at Duke. These changes will take several hours to complete.
+Why are we implementing this new system?
+Library Search is Duke University Libraries’ implementation of Primo, a product from Ex Libris, in use by many of our peer institutions. Because Primo integrates fully with Alma (the system we use to maintain our library catalog data), we’ll be able to add and update records more efficiently than with our current systems, improving our ability to meet user needs.

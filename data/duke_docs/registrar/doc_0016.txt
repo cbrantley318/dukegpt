@@ -1,9 +1,6 @@
-Image
-Navigate to View/Drop Classes under the Enrollment menu to drop a class(es) from your schedule.
-- Select the Check box next to the enrolled or waitlisted class(es) to drop.
-- Select the Drop button.
-- Review the Drop Classes box to confirm the selected class(es) to drop. Select the Drop button to proceed or the Cancel button to keep the class(es).
-- If the Drop button is selected, review the Drop results and select the OK button. The class(es) will no longer appear in the View/Drop Classes section.
-Image
-Image
-Image
+What are Constellations?
+Constellations are year-long, multidisciplinary first-year experiences designed to build communities among first-year students. They comprise interconnected courses that explore a topic from multiple perspectives and feature small-group learning. Each Constellation will also offer at least one experiential component per semester.
+Students are selected into Constellations based on the interests they express in the First-Year Experience Preference Form. In Constellations, students take three courses from their Constellation throughout their first year: one in the fall semester, one in the spring semester, and their writing course (WRITING 120) either semester.
+For questions about Constellations, please contact constellations@duke.edu.
+Constellations Topics
+Sixteen Constellations will be offered beginning in Fall 2026, each exploring an important and timely question. Learn more about the Constellations for 2026-2027 below.

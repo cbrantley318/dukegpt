@@ -1,13 +1,124 @@
-Image
-The Drop If Enrolled feature can only be used when students are initially enrolling in their classes. This means that if you’re interested in enrolling in a class that is currently full, you can use Drop If Enrolled to indicate that you’d like to be enrolled in that class if a seat opens up, and you can indicate which class you would like to drop if a seat in your preferred class opens up.
-When to use Drop If Enrolled:
-- If you have a time conflict between one of your enrolled classes and a waitlisted class.
-- If you are enrolled in a different section of the same course.
-Using the Advanced Class Search or Simple Class Search to find your preferred class. Next, identify the class to drop if your preferred class is added to your schedule.
-- Click on the ellipsis for your preferred class and select the Enroll option.
-- In the Enrollment Options section, click the dropdown arrow under Drop the class below if Enrolled in the Class above and select which class you want to drop if enrolled.
-- Click Save after confirming the selection. Should a seat become available and if there are no conflicts with the preferred/waitlisted class, the class you select will be removed from your schedule immediately.
-- If waitlisted, review the Enrollment Results message and select Save.
-Image
-Image
-Image
+This section includes the policies and procedures that govern the undergraduate curriculum and the academic life of students in Duke's Trinity College of Arts & Sciences. Informally known as the Trinity Requirements or T-Reqs, they are intended to ensure that each undergraduate in the College pursues a liberal arts education.
+If you have questions about how an undergraduate policy or procedure applies to you, contact your academic dean. Your academic dean's name can be found on your Student Center Page on DukeHub.
+Students in Duke's Pratt School of Engineering can find undergraduate policies and procedures on their website.
+Trinity Policy and Procedures
+| Title | Summary |
+|---|---|
+| Majors, Minors, Certificates | Description of majors, minors and certificates. |
+| Majors, Minors, Certificates: the Interdepartmental Major | The Interdepartmental Major enabling you to integrate two academic interests into a single program of study. |
+| Program I and Program II Requirements | Compare the requirements of a traditional degree (Program I) and an individualized alternative option called Program II. |
+| Robertson Scholars: Academic Responsibilities | Robertson Scholars are subject to the academic policies, requirements, and deadlines of other Duke undegraduates. |
+| Seminars | A seminar is a course offered to between 12 to 18 students, where a primary goal of the course is discussion. |
+| Transferring from Duke to Another Institution | Students must withdraw from Duke to transfer to another university. |
+| Transferring to/from Pratt School of Engineering | Students can transfer between Duke's two undergraduate schools after completing their first academic year. |
+| Title | Summary |
+|---|---|
+| Continuation Requirements | You must achieve a satisfactory record of academic performance each semester and make satisfactory progress toward graduation each year to continue in Trinity College. |
+| Courses: Auditing | Auditing a course yields no academic credit but can be a way to explore areas of interest. |
+| Courses: Changing a Cross-Listing | There is flexibility in how a cross-listed course can appear on a student's transcript. |
+| Courses: Curriculum Codes | The Trinity undergraduate curriculum categorizes courses to signal how they fulfill general education requirements. |
+| Courses: Double Counting for Majors, Curriculum | An explanation of how individual courses may count toward various graduation requirements. |
+| Courses: Dropping, Adding, Course Corrections | The drop/add period for fall and spring semesters runs through the first two weeks of each semester. During this time, you can drop and add courses to your schedule. |
+| Courses: Enrolling in Graduate and Professional School Courses | Graduate and Professional School courses that are listed as 3.0 credit courses on DukeHub will convert to a 1.0 credit course when an undergraduate enrolls. |
+| Courses: Incomplete Course Work | What to do if you are unable to complete all the work for a course by the end of the semester. |
+| Courses: Interinstitutional | Duke students can receive credit for courses taken at UNC-Chapel Hill, UNC-Charlotte, or UNC-Greensboro, NC Central University, or NC State University. You can only do this if you are a full-time student and if the equivalent course is not being offered at Duke during the same academic term. |
+| Courses: Repeating | Students have the option of repeating a course, when appropriate. |
+| Courses: Sequencing | Some courses have to be taken in sequentially because the concepts introduced in the first courses are needed for successful work at higher course levels. |
+| Courses: Withdrawal from | Procedures to follow when withdrawing from a course. *NOTE* This policy and form is for undergraduate students ONLY! |
+| Courses: Course Load | Students must enroll in at least 4.0 course credits each semester, except when authorized to enroll in an underload by your Academic Dean. |
+| Courses: Satisfactory / Unsatisfactory Grading Option | S/U (previously pass/fail) is intended to encourage students to explore courses they might not otherwise take. S/U courses can count towards general education requirements (curriculum codes). NOTE: This policy and form is for undergraduate students ONLY! |
+| Final Exams: Scheduling, Conflicts and Absences | What to do if you have scheduling problems or need to miss the final exam in a course. |
+| Graduation: Ninth Semester of Enrollment | Students may extend their time-to-degree by a ninth semester with permission from an academic dean. |
+| Independent Study | An Independent Study (I.S.) gives you the option to pursue a research or another academic topic that may interest you with the guidance of a regular rank faculty member. |
+| Research Independent Study - Writing Code | Students can fulfill one Writing requirement through a research independent study. |
+| Seminars | A seminar is a course offered to between 12 to 18 students, where a primary goal of the course is discussion. |
+| Title | Summary |
+|---|---|
+| Continuation Requirements | You must achieve a satisfactory record of academic performance each semester and make satisfactory progress toward graduation each year to continue in Trinity College. |
+| Credit: AP and IPC and PMC | AP, IPC and PMC courses can yield limited elective credit at the time an undergraduate matriculates at Duke. |
+| Credit: AP Credit by Department | How AP courses affect your placement in Duke courses. |
+| Credit: Study Abroad | Learn how to get study abroad courses approved for credit. |
+| Credit: Limitations and Restrictions | There are limitations on the counting of credit toward the Bachelor's Degree. |
+| Internships, Credit for | Duke supports internships as valuable learning experiences, but academic credit at Duke for internships is limited. |
+| Transfer Credit | Duke will offer credit for courses taken at another four-year college or approved study abroad courses. |
+Curriculum requirements and policies for new students enrolling in Fall 2025 or later.
+| Title | Summary |
+|---|---|
+| Courses: Curriculum Codes | The Trinity undergraduate curriculum categorizes courses to signal how they fulfill general education requirements. |
+| Courses: Double Counting for Majors, Curriculum | An explanation of how individual courses may count toward various graduation requirements. |
+| Credit: Limitations and Restrictions | There are limitations on the counting of credit toward the Bachelor's Degree. |
+| Curriculum for Students Enrolling in Fall 2025 | The Arts & Sciences curriculum defines the set of academic experiences that will be shared by its students. It ensures that all students receive the core elements of a Duke liberal arts education, regardless of their background, academic path, or co-curricular activities. These elements include engagement with different disciplinary and interdisciplinary perspectives, active interaction with peers and faculty, and sustained study in at least one discipline. |
+| First-Year Experience: Non-compliance | As part of Duke’s First-Year Experience, all first-year students are required to complete the three courses in their Constellation or FOCUS cluster, including Writing 120, within their first two semesters of enrollment. These are a vital part of the curriculum and a graduation requirement. |
+Curriculum requirements and policies for students who enrolled prior to Fall 2025.
+| Title | Summary |
+|---|---|
+| Courses: Curriculum Codes | The Trinity undergraduate curriculum categorizes courses to signal how they fulfill general education requirements. |
+| Courses: Double Counting for Majors, Curriculum | An explanation of how individual courses may count toward various graduation requirements. |
+| Credit: Limitations and Restrictions | There are limitations on the counting of credit toward the Bachelor's Degree. |
+| Curriculum: First-Year Requirements | In your first year as a Duke undergraduate, you are required to take a writing course and a seminar course. |
+| Curriculum: Foreign Language (FL) Requirement | The foreign language (FL) requirement at Duke University is intended to enable all students to engage meaningfully with another culture in its own language. |
+| Curriculum: Frequently Asked Questions | Answers to common questions about how to navigate the curriculum and complete the graduation requirements for the Bachelor Degree. |
+| Curriculum: Overview | Duke's undergraduate legacy curriculum for students enrolling prior to Fall 2025 encompasses 34 course credits, including courses that fulfill a major, and satisfy various general education requirements. |
+| Title | Summary |
+|---|---|
+| Courses: Satisfactory / Unsatisfactory Grading Option | S/U (previously pass/fail) is intended to encourage students to explore courses they might not otherwise take. S/U courses can count towards general education requirements (curriculum codes). NOTE: This policy and form is for undergraduate students ONLY! |
+| Grades: Changes | Changes in end-of-term grades may be made by the instructor only because of an error in calculation or an error in transcription, with a couple of exceptions. |
+| Grades: Complaints at End of Term | What to do if you wish to challenge a course grade. |
+| Grades: Dean's List | Explanation of Dean's List and Dean's List with Distinction in recognition of academic excellence. |
+| Grades: End-of-Term | Explanation of end-of-semester grade reporting and the consequences of poor performance in courses. |
+| Grades: Grade Point Average (GPA) | Explanation of grade point average calculation. |
+| Grades: Midterm Grades | First year students received midterm grades to help keep the on track. Sophomores, juniors and seniors only receive midterm grades if a low grade is reported. |
+| Grades: Notations | Definitions for grading codes. |
+| Grades: Probation | Explanation of academic probation and procedures for clear probation. |
+| Grades: Academic Warning | Explanation of academic warnings given to students with weak performance in one or more courses. |
+| Title | Summary |
+|---|---|
+| Graduation: Change of Graduation Date | How to change your anticipated date of graduation, either by graduating early or remaining for a ninth semester. |
+| Graduation: Graduating Early | With careful planning, it may be possible to complete your degree requirements one or two semesters early. |
+| Graduation: Graduating with Distinction | Explanation of the honor program at Duke leading to Graduation with Distinction on the basis of an honors thesis. |
+| Graduation: Latin Honors | Explanation of how Latin Honors are earned. |
+| Graduation: Ninth Semester of Enrollment | Students may extend their time-to-degree by a ninth semester with permission from an academic dean. |
+| Graduation: Part-Time Status | Graduating seniors who need fewer than 3.0 credits to graduate may request permission to study on a part-time basis in their last semester of enrollment. |
+| Graduation: Requirements | A Duke Bachelor Degree requires 34 course credits as well as various general education and major requirements. |
+| Graduation: Applying for Graduation, Commencement, Department Ceremonies | All students need to apply for graduation during their final year. This is done in DukeHub. |
+| Title | Summary |
+|---|---|
+| Active Student Status | Definition of active student status, and restrictions placed on inactive students. |
+| Bereavement Policy | Students who suffer a personal tragedy or trauma can ask for academic accommodations and support. |
+| Class Attendance and Missed Work | What to do if you cannot attend class or turn in work that is due. |
+| Continuation Requirements | You must achieve a satisfactory record of academic performance each semester and make satisfactory progress toward graduation each year to continue in Trinity College. |
+| Courses: Withdrawal from | Procedures to follow when withdrawing from a course. *NOTE* This policy and form is for undergraduate students ONLY! |
+| Leave of Absence: Medical | A medical leave of absence allows you to interrupt your studies due to health challenges. Requirements of and the procedures to follow when requesting a medical leave are listed. |
+| Leave of Absence: Personal | A personal leave of absence allows you to interrupt your studies and take control of your individual academic journey. Reasons for a personal leave might include a desire to travel, participate in a non-academic program, work and earn money, attend to a family crisis, or gain a sense of direction. |
+| Transferring from Duke to Another Institution | Students must withdraw from Duke to transfer to another university. |
+| Varsity Athletic Participation (NOVAP) | Athletes must notify the university when competitions will take them away from classes and exams and cause them to miss work. |
+| Withdrawal: Voluntary | Students who wish to withdraw from the college must give notification in writing to their academic dean. |
+| Withdrawal: Academic Dismissal | You can be involuntarily withdrawn from the University for academic reasons, if you fail to meet continuation requirements or clear probation. |
+| Withdrawal: Administrative (Financial and non-Financial Reasons) | You may be withdrawn from Duke for administrative reasons. |
+| Withdrawal: Disciplinary Suspension | Students who exhibit harmful, potentially harmful, or disruptive behavior toward themselves or others or who are found responsible for academic dishonesty may be suspended from the University. |
+| Title | Summary |
+|---|---|
+| Tuition Refund Policies | Tuition can be refunded or carried forward as a credit for later study if a student withdraws from the university. |
+| Withdrawal: Administrative (Financial and non-Financial Reasons) | You may be withdrawn from Duke for administrative reasons. |
+General Policies and University Guidelines
+| Title | Summary |
+|---|---|
+| Academic Deans | The Academic Deans assist students in achieving their academic goals and fulfill the various graduation requirements. |
+| Directors of Undergraduate Studies | The director of undergraduate studies (DUS) is the departmental or program officer responsible for coordinating and overseeing the undergraduate curriculum and courses of instruction. |
+| Honor Societies | Learn more about Phi Beta Kappa and Tau Beta Pi. |
+| Identification Numbers | Students are assigned a variety of identifiers; take care to distinguish among them. |
+| Undergraduate Teaching Assistants (UTAs) | Undergraduate students can serve as teaching assistants. |
+| Title | Summary |
+|---|---|
+| Academic Calendars | This calendar includes notes on deadlines important to undergraduates. |
+| Final Exams: Scheduling, Conflicts and Absences | What to do if you have scheduling problems or need to miss the final exam in a course. |
+| Religious Observance & Holidays | Students are permitted by university policy to be absent from class to observe a religious holiday. |
+| Title | Summary |
+|---|---|
+| Academic Accommodations | If you have a documented disability, you may be eligible for reasonable academic accommodations under the Americans with Disabilities Act. |
+| Class Attendance and Missed Work | What to do if you cannot attend class or turn in work that is due. |
+| Duke Community Standard and Student Conduct | Duke Community StandardDuke University is a community dedicated to scholarship, leadership, and service and to the principles of honesty, fairness, respect, and accountability. |
+| Education Records: FERPA | Duke complies with FERPA guidelines for allowing students and third parties access to student information. |
+| Emergencies, Personal | Students faced with a personal or family emergency or a long-range or chronic health condition can ask for academic accommodations and support. |
+| Harassment, Nondiscrimination and Title IX (including Sexual Misconduct) | Duke's harassment policy ensures that all members of the academic community have a safe and nurturing place to work and study. |
+| Health Issues, Short- and Long-Term | Students who encounter short- and long-term medical issues or instances of personal distress/emergency can seek academic support if needed. |
