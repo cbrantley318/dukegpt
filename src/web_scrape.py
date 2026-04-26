@@ -80,6 +80,7 @@ def _extract_links(html: str, base_url: str, allowed_domain: str) -> list[str]:
     return list(links)
 
 
+
 def crawl_site(
     seed_url: str,
     label: str,
@@ -88,6 +89,7 @@ def crawl_site(
     max_depth: int = 3,
     delay: float = 0.5,
     url_filter: callable = None,
+    visited: set[str] = None,       # fix 1: no mutable default
 ) -> list[dict]:
     """
     BFS crawl starting from seed_url, staying within the same domain.
@@ -103,16 +105,18 @@ def crawl_site(
     Returns:
         List of {text, source, type, depth} dicts (only pages with >200 chars of text).
     """
+
+    if visited is None:
+        visited = set()
     allowed_domain = urlparse(seed_url).netloc
     allowed_domain = "duke.edu"
-    print("Crawling allowed from " + allowed_domain)
-    visited: set[str] = set()
     queue: deque[tuple[str, int]] = deque([(seed_url, 0)])  # (url, depth)
     docs: list[dict] = []
+    pages_this_crawl = 0
 
     print(f'  Crawling {seed_url}  [max_pages={max_pages}, max_depth={max_depth}]')
 
-    while queue and len(visited) < max_pages:
+    while queue and  pages_this_crawl < max_pages:
         url, depth = queue.popleft()
 
         if url in visited:
@@ -124,6 +128,7 @@ def crawl_site(
             continue
 
         visited.add(url)
+        pages_this_crawl += 1
         print(f'  [depth={depth}] Fetching: {url}')
 
         try:
@@ -162,7 +167,7 @@ def crawl_site(
         time.sleep(delay)
 
     print(f'  Crawl complete: {len(docs)} docs from {len(visited)} pages visited')
-    return docs
+    return docs, visited
 
 
 
@@ -173,9 +178,21 @@ def unpack_raw_docs(docs: list, out_dir: Path):
         doc_type = doc.get("type", "unknown").replace(" ", "_")
         type_dir = out_dir / doc_type
         type_dir.mkdir(parents=True, exist_ok=True)
+
+        # Derive filename from URL path
+        parsed = urlparse(doc.get("source", ""))
+        url_path = parsed.path.strip("/").replace("/", "_") or "index"
+        slug = url_path[:80]  # cap length
         fp = type_dir / f"doc_{i:04d}.txt"
+        # fp = type_dir / f"{slug}.txt"
+
+        # # Handle collisions (e.g. two URLs with same path on different subdomains)
+        # if fp.exists():
+        #     fp = type_dir / f"{slug}_{parsed.netloc.split('.')[0]}.txt"
+
         fp.write_text(doc.get("text", ""), encoding="utf-8")
         manifest.append({"index": i, "file": str(fp), "source": doc.get("source", ""), "type": doc_type})
+
     (out_dir / "manifest.json").write_text(json.dumps(manifest, indent=2), encoding="utf-8")
     print(f"  raw_docs: {len(docs)} docs → {out_dir}/")
 
@@ -205,15 +222,17 @@ if __name__ == '__main__':
 
     print('Crawling Duke web domains...')
     web_docs = []
+    visited: set[str] = set()
 
     for seed_url, label, max_pages, max_depth in DUKE_SEEDS:
         print(f'\n--- {label} ---')
-        docs = crawl_site(
+        docs, visited = crawl_site(
             seed_url,
             label=label,
             max_pages=max_pages,
             max_depth=max_depth,
             delay=0.5,
+            visited=visited,
         )
         web_docs.extend(docs)
 

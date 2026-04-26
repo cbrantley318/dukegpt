@@ -1,20 +1,20 @@
-Contact Us
-1121 West Main Street, Suite 1200
-Bevan (Coca-Cola) Building
-Durham, NC 27701
-Phone: (919) 684-2813
-Fax: (919) 684-4500
-Email: registrar@duke.edu
-Contact Us form
-We are located at the corner of West Main Street and Buchanan, just across from the southeast corner of East Campus.
-Mon-Fri: 9am-4:30pm
-Sat, Sun: closed
-About Us
-Duke University Office of the University Registrar's (OUR) mission is to facilitate the educational process by assisting students, faculty, and staff by providing:
-- a welcoming and encouraging service environment, in person and via other modes of contact;
-- accurate and timely processing of data related to course offerings, registration and academic records;
-- support and advice regarding academic policies and procedures;
-- data to a variety of constituents, in support of the academic decision making process;
-- security and privacy for the university's academic records, including advice and training for faculty and staff on privacy issues;
-- leadership in the areas of technological development as related to student administrative services and systems.
-The OUR supports the overall educational goals of the university by providing these critical components in the academic support structure. We act as a behind-the-scenes facilitator for faculty, students, and staff as they pursue the academic goals of the university.
+Duke is committed to learning and work environments that are diverse, inclusive, and accessible to all.
+Duke has robust accessibility programs focused on accommodating each individual's unique needs and making its web content universally available to all.
+Duke Access and Accommodation Services
+The Duke Access and Accommodation Services Office (DAAS) provides leadership to the Duke University and Duke Health System efforts to ensure an accessible, hospitable working and learning environment for people with disabilities while ensuring compliance with federal and state regulations. The Disability Management System serves as a centralized clearinghouse on disability related information, procedures and services.
+- Student Disability Access Office
+- Employment & Visitor Accommodations
+- ADA Facilities Office
+- Disability Resources
+- Special Event Accommodations
+Contact:
+Website: access.duke.edu
+Email: daas@duke.edu
+Phone: (919) 668-1267
+Web Accessibility
+Duke's Web Accessibility Initiative exists to ensure people with a wide range of abilities have equal access to Duke's web content. It is the central resource for information and Duke's official web accessibility guidelines.
+To sustain a universally accessible web presence the team provides training, performs regular compliance assessments, and remediation services.
+Contact:
+Website: web.accessibility.duke.edu
+Email: Contact finder
+Phone: (919) 668-1267

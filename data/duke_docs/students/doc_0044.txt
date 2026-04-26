@@ -1,20 +1,30 @@
-Duke is committed to learning and work environments that are diverse, inclusive, and accessible to all.
-Duke has robust accessibility programs focused on accommodating each individual's unique needs and making its web content universally available to all.
-Duke Access and Accommodation Services
-The Duke Access and Accommodation Services Office (DAAS) provides leadership to the Duke University and Duke Health System efforts to ensure an accessible, hospitable working and learning environment for people with disabilities while ensuring compliance with federal and state regulations. The Disability Management System serves as a centralized clearinghouse on disability related information, procedures and services.
-- Student Disability Access Office
-- Employment & Visitor Accommodations
-- ADA Facilities Office
-- Disability Resources
-- Special Event Accommodations
-Contact:
-Website: access.duke.edu
-Email: daas@duke.edu
-Phone: (919) 668-1267
-Web Accessibility
-Duke's Web Accessibility Initiative exists to ensure people with a wide range of abilities have equal access to Duke's web content. It is the central resource for information and Duke's official web accessibility guidelines.
-To sustain a universally accessible web presence the team provides training, performs regular compliance assessments, and remediation services.
-Contact:
-Website: web.accessibility.duke.edu
-Email: Contact finder
-Phone: (919) 668-1267
+Our students connect to university identity & cultural centers through interest and/or identity. It is our intention in Student Affairs to deliver an array of international programs and services. We are committed to promoting student growth through exposure to and promotion of skills and experiences in Cultural Competency, meaning:
+SELF-AWARENESS: Having the consciousness of one's social identities, cultures, biases, and perspectives, and the ability to understand what we bring to relationships and situations.
+UNDERSTANDING AND VALUING OTHERS: Knowledge and appreciation of the social identities, cultures, and worldviews of other people.
+AWARENESS OF SOCIAL DYNAMICS: Demonstrates an understanding of how individual experiences, opportunities, and access to resources can be shaped by broader social, cultural, and historical factors. Recognizes that people navigate the world differently based on a range of identities and circumstances, and values the importance of listening, learning, and engaging respectfully with diverse perspectives.
+ABILITY TO WORK EFFECTIVELY WITH PEOPLE FROM DIFFERENT BACKGROUNDS: Demonstrates flexibility, respect, and strong communication skills when working with individuals across various experiences, perspectives, and settings. Able to build positive relationships, adapt to different situations, and collaborate toward shared goals.
+ABILITY TO CREATE WELCOMING AND FAIR ENVIRONMENTS: Skilled at recognizing gaps in access or opportunity and taking thoughtful steps to ensure that environments, policies, and practices are respectful, supportive, and responsive to the needs of all individuals.
+Identity & Cultural Centers
+Center for Sexual & Gender Diversity
+The Center for Sexual and Gender Diversity provides education, advocacy, support, mentoring, academic engagement, and space for lesbian, gay, bisexual, pansexual, transgender, transsexual, intersex, questioning, queer and allied students, staff, and faculty at Duke.
+Center for Multicultural Affairs
+The Center for Multicultural Affairs (CMA) promotes community engagement, multicultural education, leadership development, and social justice education among the student population. Their programs and services aim to empower students and their organizations to create a vibrant and inclusive community.
+Center for Muslim Life
+The Center for Muslim Life is committed to enriching the lives of Muslim students and the whole campus through organizing events and activities that cater to the spiritual, social and intellectual needs of Duke students.
+International Student Center
+The Duke International Student Center (DISC) serves Duke’s international students, scholars, their families, and the broader community through advocacy, advising, educational programming, and community building.
+Jewish Life at Duke
+Jewish Life at Duke is guided by a mission to empower students to learn and grow intellectually and spiritually; to inspire and nurture personal paths to Jewish identity; and to cultivate community and friendship.
+Mary Lou Williams Center for Black Culture
+The Mary Lou Williams Center for Black Culture strives to promote racial understanding, build community, and foster an appreciation for and increase knowledge of Black people, Black history, Black culture, and the vast contributions of people of the African Diaspora.
+Women's Center
+The Duke University Women’s Center is dedicated to helping every woman at Duke become self-assured with a kind of streetwise savvy that comes from actively engaging with the world. We welcome men and women alike who are committed to gender equity and social change.
+Additional Campus Resources
+Office for Institutional Equity
+The Office for Institutional Equity (OIE) provides education and support for the Duke University and Duke Health community to advance Duke's shared values of respect, trust, inclusion, discovery, and excellence.
+Duke Chapel & Religious Life at Duke
+Duke Chapel acts as a moderator for the various faith groups at Duke. In partnership with the Division of Student Affairs, the Chapel convenes, supports, and advocates for all of the officially recognized Religious Life groups on campus that serve students, including Buddhist, Catholic, Hindu, Jewish, Latter-Day Saints, Muslim, Orthodox, and Protestant organizations and groups.
+Duke LIFE
+DukeLIFE promotes the academic excellence of students who are among the first in their families to attain 4-year degrees as well as those with high financial need.
+Student Accessibility Services
+The Student Disability Access Office recognizes disability as an aspect of diversity that is integral to society and to our campus community. Accessibility is an essential feature of the Duke campus, and we strive to create an inclusive community for our students.

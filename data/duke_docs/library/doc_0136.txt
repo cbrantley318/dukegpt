@@ -1,26 +1,18 @@
-Duke University Libraries are committed to providing equitable access to all library users. The libraries provide a range of services to those who may require assistance to access and use library spaces and materials.
-Accessing Library Buildings
-- Duke Access and Accommodation Services (formerly Disability Management System) is the central clearing house for disability-related information for Duke University, where you will find information about getting to the libraries and campus accessibility maps.
-- Library-specific accessible parking information is also available.
-- Library Building Access: all library buildings have at least one unassisted (automatic) entrance. Across the Perkins, Bostock, and Rubenstein Libraries on West Campus, all doors allow for unassisted entry except for the exterior door to the Von Der Heyden Pavilion.
-- For additional questions about getting to any of our library buildings, please contact libraryADA@duke.edu.
-Library Spaces and Technology
-- Find Library Spaces: details about different spaces and technology available within the library; includes individual study seats available for reservation.
-- Transparent masks for staff: if you rely on lipreading, you may request that staff wear a clear mask when they assist you (available in Perkins & Bostock and Rubenstein Libraries).
-- A wheelchair for use in Perkins, Bostock, and Rubenstein Libraries can be borrowed from the Perkins Service Desk on request.
-- ADA Study Room (formerly known as the Assistive Technology Room): a private study room that can be reserved by students who have an ADA accommodation from the Student Disability Access Office (SDAO), who receive information directly about how to reserve the room. Staff and faculty should contact libraryADA@duke.edu for information.
-- Note: Duke Disability Management System also maintains a list of assistive technology equipment on campus.
-- Doctoral Research Space (DRS): a shared, low-distraction study space that students (including non-doctoral students) who have an ADA accommodation from the SDAO may request access to. Amenities include adjustable height desks, printer, and scanner.
-- Restrooms: availability of different restroom features in library buildings
-- Use a Copier or Scanner
-- Request for accommodation: Duke University encourages persons with disabilities to participate in its programs and activities. If you anticipate needing any type of accommodation or have questions, please contact the program's sponsor in advance of your participation or visit.
-Borrowing and Electronic Resources
-- Item delivery between libraries: graduate students and faculty may request cross-library delivery of titles through the Books & Media catalog; simply click the green "Request" button next to the item you want. Students who have an ADA accommodation from the SDAO can also request cross-library delivery by emailing libraryADA@duke.edu.
-- If you need assistance retrieving materials from shelves, email libraryADA@duke.edu to arrange additional accommodations.
-- Duke’s collections include many resources that can be accessed electronically, including electronic journals and databases, E-books, streaming media, and research data. See this E-Resources overview for details on how to find different kinds of materials. See the Off-Campus Access to E-Resources page for details about how to easily gain access.
-- Scan and Deliver: For items that are not yet digitized, like a book on our shelves, you may be able to request a digitized version. Search for the item in our Catalog, and then click on the Request button. When you proceed with the request, you should be offered the "Scan and Deliver" option.
-- Suggest a Purchase: You can also request that we purchase a digital copy of an item.
-- Hathi Trust Digital Library: If you would like access to a resource held in Hathi Trust, you may contact libraryADA@duke.edu to retrieve the item for you.
-Virtual Services
-- Ask a Librarian: Live chat is available during select hours. Great for asking quick informational questions or reporting problems accessing electronic resources. Library staff can also be reached by telephone or email.
-- Virtual reference: for research help and more complex questions, schedule appointments with library staff by contacting an appropriate Subject Specialist directly or by filling out the Consultation Request Form.
+On Monday, May 11, we will launch the new Library Search platform providing a unified system for finding print and online materials from Duke University Libraries’ local collections and library licensed online resources. Library Search will replace our existing Books & Media Catalog and our separate Summon-based platform used to search for Articles, eBooks, and Online Journal Titles.
+What’s new?
+- You will be able to narrow or expand your search in different ways:
+- Everything: Combines Duke University Libraries’ local collections with millions of library-licensed online resources
+- Books & Media (Catalog): Duke University Libraries’ local collections of print and electronic books, journals, videos, scores, and more
+- Articles & Online Resources: Millions of library-licensed articles, eBooks, and other online resources
+- Rare Books & Manuscripts: Items held in the Rubenstein Rare Book & Manuscript Library and University Archives
+- Course Reserves: Items held at Perkins Library, Lilly at Bishop’s House, Music Library, and the Medical Center Library to support courses in the current term
+- The “Everything” search dropdown will let you search electronic resources and local collections at the same time
+- It is easier to expand your results beyond Duke to discover online resources that are not included in Duke’s collections or licensed resources
+- Your Library Account will be integrated into Library Search, allowing you to save selected records or searches for easy access later
+What’s different?
+- You will need to sign in to Library Search to request items from our general collections; items in the Rubenstein Library and University Archives will continue to be able to be requested without signing in first.
+- Library Search does not include the option to view search results from libraries at UNC, NCSU, or NCCU; instead, you’ll use WorldCat Discovery to find items that Duke does not have.
+What happens on May 11?
+During the morning of May 11, we will launch the new Library Search platform. During that timeframe, we will implement URL redirects from our old Books & Media Catalog and our Summon-based Articles, eBooks, and Online Journal Titles search platform to our new Library Search system. Library staff will also update links and search boxes on various library websites at Duke. These changes will take several hours to complete.
+Why are we implementing this new system?
+Library Search is Duke University Libraries’ implementation of Primo, a product from Ex Libris, in use by many of our peer institutions. Because Primo integrates fully with Alma (the system we use to maintain our library catalog data), we’ll be able to add and update records more efficiently than with our current systems, improving our ability to meet user needs.

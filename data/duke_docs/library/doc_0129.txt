@@ -1,40 +1,28 @@
-Our commitment to privacy
-The Duke University Libraries recognize the importance of protecting your privacy and the confidentiality of the information you share with us when you use our websites, spaces, and services. The Libraries adhere to policies outlined in the Duke University Privacy Statement and endorse the Stanford Libraries statement on patron privacy and database access. This page describes our practices for collecting, disclosing, maintaining, protecting, and using your personal information.
-Information we collect
-Library accounts
-- Library accounts maintain personally identifiable information that enable you to check out library resources, borrow items from other institutions, and view online articles, journals, and databases that are licensed through the Libraries.
-- We maintain the confidentiality of information in library accounts and do not make this information available to any entity outside the Libraries, except as required by law or appropriate law enforcement procedures.
-- You are entitled to view your library account information.
-Card swipe
-- The DukeCard system stores data each time Duke faculty, staff, students, or sponsored guests swipe into a space that requires card access; this includes specialized spaces with restricted access (e.g., the Doctoral Research Space) or general building access at certain times of the day.
-Security cameras
-- Please be advised, we have security cameras located throughout the libraries. When necessary, authorized library staff review footage to address security concerns.
-Web-based tools
-- The Libraries collect and store personal information that you submit when using our web-based tools such as chat, web form, email, room reservation, event registration, and payment systems.
-- We use your personal information for the purpose for which you submitted it, and we occasionally invite you to provide optional feedback on your experience using these library services.
-Application logs
-- Web-based applications supported by the Libraries log technical information from your web browser about application usage.
-- We use these application logs when diagnosing problems such as website outages.
-Cookies
-- The Libraries use web browser session cookies to maintain user preferences for features such as the saved items folder in the Books and Media Catalog and the default search scope on the Library homepage. These cookies are only created if you opt to use these features and will be eliminated when you clear cookies from your browser.
-- We also use cookies to limit the adverse impact that AI harvesting bots have on library sites. We are using a tool called Anubis to block bots on these sites, and this tool places a cookie on your machine to indicate you have been confirmed as a human. The cookie will remain for one week and prevent you from seeing additional challenges during that time.
-Website analytics
-- The Libraries use an open source privacy-focused web analytics platform called Matomo to help us generally understand how people use the Libraries’ websites and to make improvements to our services. We run this service on Duke infrastructure so we have full ownership and control over the data. It is not shared with third parties.
-- We use Matomo in a manner that is compliant with the European Union’s General Data Protection Regulation (GDPR) and related privacy laws. Our setup uses cookieless tracking, data anonymization, and other privacy measures.
-- Matomo supports your web browser’s “Do Not Track” preference settings.
-- You can use third-party extensions to customize privacy settings for your web browser (see extensions for Chrome or extensions for Firefox).
-- You can opt-out of the Libraries’ Matomo analytics tracking, which will protect your privacy. If your browser has cookies enabled, the opt-out dialogue will appear in the box below. If you clear your cookies, delete the opt-out cookie, or if you change computers or Web browsers, you will need to perform the opt-out procedure again.
-Third-party data collection
-- Our website contains links to third-party tools, websites, and licensed databases that are provided by external vendors.
-- The Libraries are not responsible for the privacy practices or content of these third parties. We encourage you to read the policies associated with these third-party tools before using them.
-Examples of how we use data to improve our services
-Top textbooks circulation data
-Staff analyze aggregate data about the circulation of textbooks kept on reserve at the Libraries. Understanding the extent to which textbooks for different classes are used helps us improve outreach and awareness around the textbook lending program and make decisions about how many copies of different textbooks to keep on reserve at different library locations.
-InterLibrary request data
-The Libraries analyze aggregate, anonymous data about what materials patrons request to borrow through Duke from other universities. This InterLibrary request data helps librarians decide which new materials to purchase for our collections.
-Doctoral Research Space entrance data
-Our staff analyze swipe card data to determine whether the Doctoral Research Space is used at capacity and how many new students can be granted access to the space each semester. We can also use it to understand the frequency with which people make use of the space.
-Top search results data
-The Libraries use Matomo to track overall trends in the terms you use when searching library resources. For the 100 most common searches, staff curate a list of “Top Results” (such as PubMed), which are presented prominently when those search terms are used.
-Electronic resources usage data
-We analyze your use of the Libraries’ electronic resources. Staff use this data to better understand which resources are used, as well as how affiliates of different schools and departments are using various resources. One way this analysis helps us is in negotiating prices for resources with database vendors.
+Visitors to Duke University Libraries you have access to various services, depending on their affiliation.
+All visitors
+- Can enter library buildings only during Public Hours
+- Onsite access to most Online Journals, Articles, eBooks, and Research Databases from our collections
+- Bring your own device and connect through the DukeVisitor wireless network
+- If your home institution is a member of eduroam and you have joined the eduroam network before leaving home, you will be able access the eduroam network on our campus
+- Can request materials from the Library Service Center for delivery to a Duke University Library for on premise use only.
+Before you come
+Although all visitors can use library materials on premise, if you need to borrow materials for off-site use you will first need to set up an account:
+- Before you come to campus, begin setting up your Duke Libraries Visitor Account by setting up a Duke OneLink account; this process can take a few hours to a few days to complete
+- When you arrive on campus for the first time, register at the service desk of the Duke University Library you will be using (registration not available on Saturdays)
+The types of visitors listed below are eligible to request borrowing privileges; see our Loan Periods for information about borrowing physical items.
+Visitors from TRLN Universities
+The Triangle Research Libraries Network (TRLN) is a partnership of:
+- Duke University
+- North Carolina Central University
+- North Carolina State University
+- The University of North Carolina at Chapel Hill (UNC-CH)
+To borrow items, patrons from these institutions must have a OneLink account as well as present their home institution ID card. TRLN patrons will be required to confirm their current affiliation with their institution by successfully logging into their home library account.
+Faculty and graduate students from UNC-CH
+Faculty and graduate students from UNC-CH have borrowing privileges that differ from standard TRLN privileges.
+BorrowDirect Plus visitors
+Faculty, staff and students from BorrowDirect member institutions can present their school ID card to obtain borrowing privileges at the Perkins, Lilly, Music, Law and Divinity Libraries as well as the Library Service Center. Privileges are issued at the Perkins Library service desk weekdays 8 AM to 6 PM (hours may vary). Visitors will be required to confirm their current affiliation with their institution by successfully logging into their BorrowDirect account.
+Friends of the Duke University Libraries
+If you do not have a current affiliation with Duke, you can obtain borrowing privileges for one year by joining the Friends of the Duke University Libraries with a donation of $100 or more.
+Please contact the Ford Library at the Fuqua School of Business directly for information about borrowing materials from their collection.
+Durham residents
+Members of the Durham, North Carolina community are eligible to apply for borrowing privileges at no cost by presenting themselves and proof of residence at the Perkins Library Service Desk. Only materials from the Perkins and Bostock Libraries and the Library Service Center are available to community borrowers.

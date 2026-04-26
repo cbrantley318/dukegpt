@@ -1,81 +1,67 @@
-Cornerstone Society
-The Annual Fund is essential to propelling Duke forward, and its most loyal donors are a pivotal part of that. To highlight and recognize the Annual Fund’s most loyal donors, we have the Cornerstone Society. This past year, we are proud to say that there were more than 30,000 members of the Cornerstone Society. Gifts from members of the Cornerstone Society represented 60% of the overall total of Annual Fund donors.
-Donors who have supported the Annual Fund at any amount for two or more consecutive years are recognized as members. Undergraduates who have supported the Annual Fund every year since graduation are further recognized as lifetime donors. Membership in the Cornerstone Society is renewable annually. Our fiscal year is from July 1 through June 30.
-Leadership Giving Societies
-Duke has a number of leadership giving societies so that our most generous donors are recognized for their philanthropy and generosity. Membership is based on unrestricted gifts made or facilitated by an individual and their spouse. Corporate matching gifts count toward membership if received or verified within the same fiscal year the gift was made.
-Last year, gifts from leadership gift society members represented more than 85% of the Annual Fund’s cash total. These critical funds enabled the University to not only meet pressing needs in the classroom and across campus, but additionally to innovate and create new academic opportunities that are essential for Duke to continue to excel!
-Benefits of Membership
-- Opportunity to receive a special edition branded gift each year.
-- Invitations to special on campus or regional events.
-- Members who give $10,000 or more are offered a book of their choice from a selection of Duke titles.
-- Recognition in appropriate honor rolls .
-If you have questions or would like additional information about joining any of our gift clubs, please contact Matt Cloues, Director, Fundraising Strategy & Operations, at matt.cloues@duke.edu or 919-681-0485.
-Membership is renewable annually, and Duke’s fiscal year is from July 1 through June 30.
-The Duke Annual Fund Leadership Giving Societies recognize all donors to the Duke Annual Fund. In addition, particular schools and units distinguish donors at various giving levels within the respective school or unit.
-Duke Annual Fund Leadership Giving Societies
-| Society | Gift Level |
-| President’s Society | Executive Cabinet: $100,000+ Cabinet: $50,000 – $99,999 Executive Council: $25,000 – $49,999 |
-| Washington Duke Society | Executive Partner: $10,000 – $24,999 Partner: $5,000 – $9,999 Fellow: $2,500 – $4,999 Leader: $1,000 – $2,499 Recent Undergraduate Leader (1-4 years post-graduation): $500 Senior Class Gift Leader: $100 |
-Recognizing Giving by School/Unit
-| Fuqua School of Business | |
-| Rex D. Adams Society Cumulative Commitments to Fuqua | $50,000+ |
-| Thomas F. Keller Leadership Donor Society | $2,500+ |
-| * Recent graduates (1-4 years) can join the Keller Society with a minimum gift of $1,000 annually. |
-| Nicholas School of the Environment | |
-| Nicholas School Champions | $100,000+ |
-| Blue Sky Vanguard | $25,000 – $99,999 |
-| Blue Sky | $10,000 – $24,999 |
-| Summit Society | $1,000 – $9,999 |
-| School of Nursing | |
-| The Bessie Baker Society honors the generosity of individuals who have made an annual fund gift of $1,000 or more ($500 for recent nursing school graduates) to the Duke University School of Nursing. | |
-| Bessie Baker Society | |
-| Innovators Society | $25,000 |
-| Leadership Society | $10,000 |
-| Dean’s Circle | $5,000 |
-| Fellow | $2,500 |
-| Member | $1,000 |
-| Member (within five years of graduation; first degree only) | $500 |
-| School of Law | |
-| The School of Law’s giving societies recognize all annual giving to the school, not only unrestricted gifts to the school’s annual fund. | |
-| Barrister Donor Society* | |
-| The Latty Circle | $100,000+ |
-| The Everett Circle | $50,000 – $99,999 |
-| The Shimm Circle | $25,000 – $49,999 |
-| The Dean’s Circle | $10,000 – $24,999 |
-| Partner | $5,000 – $9,999 |
-| Member | $2,500 – $4,999 |
-| *Recent graduates of 1-5 years, judges, educators, and those who work for the government or in public service are members at $1,000 annually. |
-| School of Medicine | |
-| Wilburt C. Davison Society | |
-| Innovators Society | $25,000+ |
-| Leadership Society | $10,000 |
-| Dean’s Circle | $5,000 |
-| Member | $2,500 |
-| Recent Graduate Member (1-9 years since graduation) | $120 ($10 per month) |
-Other Annual Giving
-| Nasher Museum of Art | |
-| Brummer Society | |
-| Director’s Circle | $10,000+ |
-| Gold | $5,000 – $9,999 |
-| Silver | $2,500 – $4,999 |
-| Bronze | $1,500 – $2,499 |
-| Other Supporting Member Categories | |
-| Benefactor | $1,000 – $1,499 |
-| Sustainer | $500 – $999 |
-| Patron | $250 – $499 |
-| Sponsor | $120 – $249 |
-| Sarah P. Duke Gardens | |
-| Duke Gardens Society | |
-| Champion | $20,000+ |
-| Leader | $10,000 |
-| Gold Patron | $5,000 |
-| Silver Patron | $2,500 |
-| Bronze Patron | $1,000 |
-| Other supporting member categories | |
-| Sustaining Gardens Partner | $750 |
-| Contributing Gardens Partner | $500 |
-| Supporting Gardens Partner | $250 |
-| Family Level Member | $100 |
-| Dual Level Member | $75 |
-| Individual Member | $50 |
-| Student | $25 |
+"How do outside scholarships affect my aid?"
+If you receive need-based aid from Duke, your aid will include work study and may include a student loan. Any outside scholarship you receive will first replace the loans and work study in your aid. If you receive more in outside scholarships than the total loan and work study you were offered, the additional amount will reduce your need-based Duke grant aid.
+- Veterans benefits may be in addition to Duke aid, up to the full cost of attendance. These benefits are an exception to the policy above. Learn more about veterans benefits here.
+- Tuition benefits from an employer replace Duke aid dollar-for-dollar and do not reduce the loan or work-study in the initial offer.
+Below is an illustration of how outside scholarships affect your need-based financial aid in most cases.
+Below is an example of an award with no outside scholarships. The student's self-help (loan and work study) remain unchanged.
+| Example 1 | Award with no outside scholarships |
+|---|---|
+| Outside Scholarship | $0 |
+| Work Study | $4,800 |
+| Student Loan | $5,000 |
+| Need-based Duke grant | $30,000 |
+| Total Need-based Aid | $39,800 |
+Here is the same award, but after the student receives a $3,000 outside scholarship. We reduced the loan from $5,000 to $2,000, and everything else remains the same.
+| Example 2 | Same award, but with $3,000 in outside scholarships |
+|---|---|
+| Outside Scholarship | $3,000 |
+| Work Study | $4,800 |
+| Student Loan | $2,000 ($5,000 initial less $3,000 outside scholarship) |
+| Need-based Duke grant | $30,000 |
+| Total Need-based Aid | $39,800 |
+The above is an example of an outside scholarship reducing part of a student's self-help.
+Here is the same award, but now the student has received $8,200 in outside scholarships. The student's included loan has been completely removed,* and work study was partially removed.
+| Example 3 | Same award, but with $8,200 in outside scholarships |
+|---|---|
+| Outside Scholarship | $8,200 |
+| Work Study | $1,600 ($4,800 initial less $3,200 outside scholarship) |
+| Student Loan | $0 ($5,000 initial less $5,000 outside scholarship) |
+| Need-based Duke grant | $30,000 |
+| Total Need-based Aid | $39,800 |
+The above is an example of an outside scholarship reducing the student's self-help.
+*In this example, the work study and loans have been removed, but the student may still have eligibility for them if they would like. The student would just need to contact their financial aid counselor in our office to ask if work study and loans could be added back to the award (on top of all other aid).
+Here is the same award, but now the student has received $10,200 in outside scholarships. The student's included loan and work study have been completely removed,* and this offset $9,800 of the outside scholarship. The Duke grant was reduced by $400 to offset the remaining $400 of the outside scholarship.
+| Example 4 | Same award, but with $8,200 in outside scholarships |
+|---|---|
+| Outside Scholarship | $10,200 |
+| Work Study | $0 ($4,800 initial less $4,800 outside scholarship) |
+| Student Loan | $0 ($5,000 initial less $5,000 outside scholarship) |
+| Need-based Duke grant | $29,600 ($30,000 initial less $400 outside scholarship) |
+| Total Need-based Aid | $39,800 |
+The above is an example of an outside scholarship reducing the student's self-help and a portion of the Duke need-based grant aid.
+*In this example, the work study and loans have been removed, but the student may still have eligibility for them if they would like. The student would just need to contact their financial aid counselor in our office to ask if work study and loans could be added back to the award (on top of all other aid).
+*Note, students whose parents have no expected contribution to Duke according to the CSS Profile may have the student contribution eliminated prior to reducing Duke grant assistance.
+Additional Outside Scholarship Information
+All checks should be mailed to:
+Duke University Cashiering
+Box 90759
+Durham, NC 27708
+Students can also hand deliver checks to:
+Duke University Cashiering
+114 South Buchanan Boulevard
+Bay 8, Room B-103
+Durham, NC 27705
+Once you've reported your outside scholarships to us (you can do that here), we'll note on your financial aid that you're expecting to receive it, and you'll also see that expected credit on your bill.
+Most scholarships are split evenly in two (half in fall and half in spring), so if you received a $2,000 scholarship split this way, $1,000 will be credited toward your fall bill. Some scholarships are designated for just one semester; your outside scholarship organization will be able to tell you how yours should be split.
+Yes. Please report your outside scholarships using our form here.
+You can check your live account balance under "What I Owe" on DukeHub. When the Cashier receives and processes your check, you will see it there. You will also be able to see your financial aid adjusted in DukeHub.
+If you don't see your scholarship, contact your outside scholarship organization to make sure they sent the check. If they have and it has been over two weeks since they sent it, please contact the cashiering office.
+Yes. Payments made directly to you are still considered financial aid according to federal law and must be reported to Duke. Please use our outside scholarship reporting form to let us know about your scholarship.
+"Where can I find outside scholarships?"
+In our experience, students have the most success receiving outside scholarships from organizations they already know. We recommend you start your search by finding out what scholarships may be offered by:
+- Your high school
+- Clubs or organizations where you are a member
+- Your employer or that of your parent(s)
+- Other local opportunities in your area (competitions, essay projects, etc.)
+Once you've investigated local opportunities, you can expand your search to the web. Below are links to two online search engines recommended to us by current students and alumni:
+Start your applications early, and best of luck!

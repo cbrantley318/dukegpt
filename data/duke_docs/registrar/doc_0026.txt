@@ -1,22 +1,24 @@
-Duke University has no emergencies to report and is operating normally
-If there were an emergency, this website would be updated frequently with instructions and information about the incident, campus services and resources available to the Duke community.
-All members of the Duke community should take steps to ensure their own safety and the safety of others in an emergency. Know your role in an emergency and update your contact information with the university. Information may also be available at DukeToday.
-Emergency Instructions
-911
-In an emergency that requires immediate help from police, fire fighters, or emergency medical technicians, call 911.
-Help Phone
-You can also use one of 500 Help Phones around campus to report an emergency, crime, or suspicious activity.
-DukeReach/PAS
-If you or a friend needs assistance with a personal issue, seek help by calling Personal Assistance Service at (919) 416-1727 for staff and DukeReach at (919) 681-2455 for students.
-How You Can Be Notified
-In the event of an emergency impacting Duke's campus, you can be notified through a variety of methods including email, text messaging, web, phone, an outdoor warning system, campus digital signboards, and the LiveSafe mobile app.
-- Email Message
-- Outdoor Warning System
-- Digital Signs
-- Text Message
-- DukeALERT Website
-- LiveSafe App
-- Phone Call
-- In-Person Notification
-LiveSafe App
-Duke LiveSafe is a free mobile app that offers real-time, two-way communication between Duke community members and the Duke University Police Department. In addition to being able to text the Duke University Police Department and submit anonymous tips, LiveSafe has a SafeWalk feature and provides access to emergency resources. For more information, visit the Emergency Management website.
+Duke University Web Accessibility Guidelines
+Duke University (Duke) employs a multi-faceted strategy to address web accessibility through our Disability Management System and the Web Accessibility Office. To sustain an accessible web presence the team provides training, regular compliance assessments, and remediation services.
+Standards:
+Duke’s preferred standard for web accessibility is the Worldwide Web Consortium’s (W3C) Web Content Accessibility Guidelines (WCAG) for most websites. For multimedia content, Duke will use Section 508 of the Rehabilitation Act of 1973, as amended, as its preferred standard. Standards comparable to WCAG and Section 508 may also be used as a guide to promote accessible programs and activities.
+The Web Accessibility Office (Contact: web-accessibility@duke.edu) oversees compliance with these guidelines and promotes accessibility efforts across the enterprise.
+Progress and Plan:
+- Effective November 1, 2017:
+- Any Duke unit, division, or department that builds or substantially modifies its website must incorporate, to the extent feasible, WCAG 2.0 AA standards into the build or re-build process.
+- Multimedia content (e.g., video) posted on the homepage of a Tier 1 or 2 website must be accurately captioned. For more information on captioning, see the video captioning requirements.
+- Effective September 1, 2023:
+- To the extent feasible, we encourage all units to develop new websites or digital content in accordance with WCAG 2.1 AA standards.
+- Preexisting Web content:
+- The Web Accessibility Administrator will oversee a process of reviewing and addressing accessibility issues on certain priority websites and documents.
+Modification Requests:
+Any Duke community member who encounters accessibility barriers to information on any of Duke’s websites is encouraged to notify the Web Accessibility Administrator, who will take reasonable efforts to bring the content into alignment with accessibility standards or arrange for accommodations with the Disability Management System. Please understand that resources may dictate at any given time how accessible a particular application or website can be. Requests for change should be submitted to web-accessibility@duke.edu.
+Maintaining Web Accessibility:
+Priority websites include Tier 1 sites that contain essential information and on which critical transactions are performed. Tier 2 websites include homepages (including the webpages in the primary navigation) of academic divisions, academic departments, and core administrative offices. The Web Accessibility Administrator will maintain a list of websites that fall into Tier 1 and 2.
+The Web Accessibility Administrator will oversee a process of conducting periodic accessibility scans of Tier 1 and 2 websites. Tier 1 websites will be scanned at least once a month. Tier 2 websites will be scanned at least twice annually. The Administrator will work with the owner of the websites to address, to the extent feasible, any accessibility issues identified through the assessments.
+In consultation with Duke’s Chief Compliance Officer and other stakeholders, the Web Accessibility Administrator may identify and publish other tiers of priority websites and adopt remediation and assessment schedules for such sites.
+Accessible Procurement:
+Duke requires vendors who develop and/or maintain its websites, web-based applications to demonstrate that their products meet accessibility standards to the extent practicable. Vendors shall provide the results of accessibility testing and a description of the steps they are taking to bring their content into alignment with accessibility standards. University groups working with outside vendors will need to include accessibility requirements within their scope of work or request for proposal. Additional procurement advice is available on our procurement page.
+Training and Support:
+The Web Accessibility Administrator publishes materials to aid content developers and communicators in developing and maintaining accessible websites. The Administrator periodically conducts and/or oversees a training and awareness program regarding the same.
+Questions about the feasibility and/or practicability of implementing any of the requirements in these guidelines should be directed to the Web Accessibility Administrator and/or the Director of the Disability Management System.
