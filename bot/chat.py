@@ -3,27 +3,29 @@ import time
 import requests
 from bot.prompts import ACTIVE_PROMPT
 from rag.retriever import retrieve
-
 # Most content in this file generated with AI, using Claude Sonnet 4.6
 
-HF_TOKEN = os.environ.get("HF_TOKEN")
-HF_MODEL = "Qwen/Qwen2.5-7B-Instruct"
-HF_API_URL = f"https://router.huggingface.co/hf-inference/models/{HF_MODEL}/v1/chat/completions"
+GROQ_TOKEN = os.environ.get("GROQ_API_KEY")
+GROQ_MODEL = "openai/gpt-oss-20b"
+GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 MAX_TURNS_BEFORE_SUMMARY = 6
 
 
 def _hf_generate(messages: list[dict]) -> str:
-    headers = {"Authorization": f"Bearer {HF_TOKEN}"}
+    headers = {
+        "Authorization": f"Bearer {GROQ_TOKEN}",
+        "Content-Type": "application/json",
+    }
     payload = {
-        "model": HF_MODEL,
+        "model": GROQ_MODEL,
         "messages": messages,
         "max_tokens": 512,
         "temperature": 0.7,
     }
-    response = requests.post(HF_API_URL, headers=headers, json=payload, timeout=60)
+    response = requests.post(GROQ_API_URL, headers=headers, json=payload, timeout=60)
     if not response.ok:
-        raise ValueError(f"HF API error {response.status_code}: {response.text}")
+        raise ValueError(f"Groq API error {response.status_code}: {response.text}")
     return response.json()["choices"][0]["message"]["content"].strip()
 
 
