@@ -31,7 +31,7 @@ Three sample files are already included, along with an additional hundred or so 
 ## Build the Knowledge Index
 
 ```bash
-python build_index.py
+python src/build_index.py
 ```
 
 This only needs to run once (or when you add new documents).

@@ -6,9 +6,11 @@ DukeBot is an AI-powered assistant for Duke University students. It answers ques
 
 ## Quick Start
 
+Run the following from the top-level directory
+
 ```bash
 pip install -r requirements.txt
-python build_index.py
+python src/build_index.py
 streamlit run app.py
 ```
 
