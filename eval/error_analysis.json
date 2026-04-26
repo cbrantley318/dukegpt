@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What time does Perkins Library close on Friday?",
+    "reply": "According to the context from doc_0151.txt, Perkins Library is open until 11pm on Fridays. The phone number for Perkins Library Service Desk also indicates that it's staffed continuously when Perkins Library is open.",
+    "expected_keyword": "10:00 pm",
+    "correct": false,
+    "latency": 3.967268943786621,
+    "context_retrieved": true
+  },
+  {
+    "question": "How much does printing cost at the library?",
+    "reply": "I don't have that information in my knowledge base, but you can check duke.edu.",
+    "expected_keyword": "0.05",
+    "correct": false,
+    "latency": 2.6503188610076904,
+    "context_retrieved": true
+  },
+  {
+    "question": "When is the last day of classes?",
+    "reply": "I don't have that information in my knowledge base, but you can check duke.edu. You may want to look for the Academic Calendar or Check Last Day of Classes on the Duke University website.",
+    "expected_keyword": "april 22",
+    "correct": false,
+    "latency": 3.9798710346221924,
+    "context_retrieved": true
+  },
+  {
+    "question": "How do I add money to my DukeCash?",
+    "reply": "To add money to your DukeCash, please contact the Duke University Cashiering office at 1-800-DUKE-4ME (1-800-384-3363) or send a check to:\n\nDuke University Cashiering\nBox 90759\nDurham, NC 27708",
+    "expected_keyword": "cashnet",
+    "correct": false,
+    "latency": 4.202574968338013,
+    "context_retrieved": true
+  },
+  {
+    "question": "What are the hours of East Campus dining?",
+    "reply": "I can find that information in my knowledge base!\n\nAccording to doc_0151.txt, East Campus' coffee bar is located at the East Campus Union and serves gourmet coffees, smoothies, and fresh pastries. However, I don't have specific information on the hours of East Campus dining.\n\nIf you need to know the hours, I recommend checking the official Duke Dining website or contacting them directly for more information.",
+    "expected_keyword": "broadhead",
+    "correct": false,
+    "latency": 5.56984543800354,
+    "context_retrieved": true
+  }
+]

@@ -17,6 +17,7 @@ It will print a report and save plots to eval/figures/.
 import os
 import json
 import time
+import ollama
 import numpy as np
 import matplotlib.pyplot as plt
 from bot.chat import chat, reset_conversation

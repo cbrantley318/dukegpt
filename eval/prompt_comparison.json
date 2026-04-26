@@ -1,0 +1,14 @@
+[
+  {
+    "prompt": "Prompt A (minimal)",
+    "reply": "Spring Break starts on March 9, 2026."
+  },
+  {
+    "prompt": "Prompt B (few-shot)",
+    "reply": "I don't have that information in my knowledge base, but you can check duke.edu."
+  },
+  {
+    "prompt": "Prompt C (persona)",
+    "reply": "No classes means you've got a whole week off! Spring Break starts on March 9, 2026, so go ahead and make those travel plans or relax at home \u2013 you've earned it!"
+  }
+]
