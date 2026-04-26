@@ -206,14 +206,14 @@ if __name__ == '__main__':
 
 
     DUKE_SEEDS = [
-        ('https://registrar.duke.edu/',              'registrar',    30, 3),
-        ('https://students.duke.edu/',               'students',     30, 3),
-        ('https://financialaid.duke.edu/',           'financial_aid',30, 3),
-        ('https://housing.duke.edu/',                'housing',      30, 3),
-        ('https://studentaffairs.duke.edu/',         'student_affairs', 40, 3),
-        ('https://library.duke.edu/',                'library',      20, 3),
-        ('https://dining.duke.edu/',                 'dining',      20, 3),
-        ('https://duke.edu/',                        'duke',      30, 4),
+        ('https://registrar.duke.edu/',              'registrar',    50, 6),
+        ('https://students.duke.edu/',               'students',     50, 6),
+        ('https://financialaid.duke.edu/',           'financial_aid',50, 6),
+        ('https://housing.duke.edu/',                'housing',      50, 6),
+        ('https://studentaffairs.duke.edu/',         'student_affairs', 50, 6),
+        ('https://library.duke.edu/',                'library',      50, 6),
+        ('https://dining.duke.edu/',                 'dining',      50, 6),
+        ('https://duke.edu/',                        'duke',      50, 6),
     ]
 
     # DUKE_SEEDS = [      #dummy test case
@@ -231,7 +231,7 @@ if __name__ == '__main__':
             label=label,
             max_pages=max_pages,
             max_depth=max_depth,
-            delay=0.5,
+            delay=0.3,
             visited=visited,
         )
         web_docs.extend(docs)

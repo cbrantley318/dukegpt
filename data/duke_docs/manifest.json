@@ -8,979 +8,1387 @@
   {
     "index": 1,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0001.txt",
-    "source": "https://registrar.duke.edu/student-resources/advanced-placement-credit/",
+    "source": "https://registrar.duke.edu/registration/",
     "type": "registrar"
   },
   {
     "index": 2,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0002.txt",
-    "source": "https://accessibility.duke.edu",
+    "source": "https://financialaid.duke.edu",
     "type": "registrar"
   },
   {
     "index": 3,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0003.txt",
-    "source": "https://registrar.duke.edu/student-resources/replacement-diplomas/",
+    "source": "https://focus.duke.edu/",
     "type": "registrar"
   },
   {
     "index": 4,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0004.txt",
-    "source": "https://financialaid.duke.edu",
+    "source": "https://oarc.duke.edu/privacy/duke-university-privacy-statement",
     "type": "registrar"
   },
   {
     "index": 5,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0005.txt",
-    "source": "https://registrar.duke.edu/registration/interinstitutional-registration/",
+    "source": "https://oit.duke.edu/",
     "type": "registrar"
   },
   {
     "index": 6,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0006.txt",
-    "source": "https://finance.duke.edu/departments-services/treasury-division/bursars-office",
+    "source": "https://duke.edu/",
     "type": "registrar"
   },
   {
     "index": 7,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0007.txt",
-    "source": "https://oarc.duke.edu/privacy/duke-university-privacy-statement",
+    "source": "https://registrar.duke.edu/contact/",
     "type": "registrar"
   },
   {
     "index": 8,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0008.txt",
-    "source": "https://registrar.duke.edu/contact/",
+    "source": "https://registrar.duke.edu/student-resources/transcripts/",
     "type": "registrar"
   },
   {
     "index": 9,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0009.txt",
-    "source": "https://trinity.duke.edu/undergraduate/academic-policies",
+    "source": "https://advising.duke.edu/trinity-undergraduate-advising/incoming-first-year-students/",
     "type": "registrar"
   },
   {
     "index": 10,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0010.txt",
-    "source": "https://advising.duke.edu/trinity-undergraduate-advising/incoming-first-year-students/",
+    "source": "https://accessibility.duke.edu",
     "type": "registrar"
   },
   {
     "index": 11,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0011.txt",
-    "source": "https://duke.edu/",
+    "source": "https://finance.duke.edu/departments-services/treasury-division/bursars-office",
     "type": "registrar"
   },
   {
     "index": 12,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0012.txt",
-    "source": "https://trinity.duke.edu/constellations",
+    "source": "https://advising.duke.edu/",
     "type": "registrar"
   },
   {
     "index": 13,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0013.txt",
-    "source": "https://registrar.duke.edu/student-resources/transfer-credit/",
+    "source": "https://registrar.duke.edu/student-resources/advanced-placement-credit/",
     "type": "registrar"
   },
   {
     "index": 14,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0014.txt",
-    "source": "https://registrar.duke.edu/student-resources/transcripts/",
+    "source": "https://registrar.duke.edu/student-resources/transfer-credit/",
     "type": "registrar"
   },
   {
     "index": 15,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0015.txt",
-    "source": "https://oit.duke.edu/",
+    "source": "https://trinity.duke.edu/undergraduate/academic-policies",
     "type": "registrar"
   },
   {
     "index": 16,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0016.txt",
-    "source": "https://registrar.duke.edu/registration/",
+    "source": "https://registrar.duke.edu/student-resources/replacement-diplomas/",
     "type": "registrar"
   },
   {
     "index": 17,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0017.txt",
-    "source": "https://advising.duke.edu/",
+    "source": "https://registrar.duke.edu/registration/interinstitutional-registration/",
     "type": "registrar"
   },
   {
     "index": 18,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0018.txt",
-    "source": "https://focus.duke.edu/",
+    "source": "https://trinity.duke.edu/constellations",
     "type": "registrar"
   },
   {
     "index": 19,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0019.txt",
-    "source": "https://registrar.duke.edu/student-resources/",
+    "source": "https://registrar.duke.edu/help-guides/class-search/",
     "type": "registrar"
   },
   {
     "index": 20,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0020.txt",
-    "source": "https://web.accessibility.duke.edu",
+    "source": "https://registrar.duke.edu/help-guides/student-verification-data/",
     "type": "registrar"
   },
   {
     "index": 21,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0021.txt",
-    "source": "https://access.duke.edu/",
+    "source": "https://registrar.duke.edu/help-guides/dukehub-log-in/",
     "type": "registrar"
   },
   {
     "index": 22,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0022.txt",
-    "source": "https://access.duke.edu/getting-around",
+    "source": "https://registrar.duke.edu/help-guides/grading-basis-students/",
     "type": "registrar"
   },
   {
     "index": 23,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0023.txt",
-    "source": "https://access.duke.edu/resources",
+    "source": "https://registrar.duke.edu/help-guides/use-permission-numbers/",
     "type": "registrar"
   },
   {
     "index": 24,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0024.txt",
-    "source": "https://access.duke.edu",
+    "source": "https://registrar.duke.edu/help-guides/waitlist-class/",
     "type": "registrar"
   },
   {
     "index": 25,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0025.txt",
-    "source": "https://access.duke.edu/students/",
+    "source": "https://learnmore.duke.edu/front",
     "type": "registrar"
   },
   {
     "index": 26,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0026.txt",
-    "source": "https://web.accessibility.duke.edu/duke-guidelines",
+    "source": "https://registrar.duke.edu/help-guides/find-catalog-and-schedule/",
     "type": "registrar"
   },
   {
     "index": 27,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0027.txt",
-    "source": "https://web.accessibility.duke.edu/",
+    "source": "https://www.fuqua.duke.edu/",
     "type": "registrar"
   },
   {
     "index": 28,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0028.txt",
-    "source": "https://accessibility.duke.edu/",
+    "source": "https://registrar.duke.edu/help-guides/register-classes/",
     "type": "registrar"
   },
   {
     "index": 29,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0029.txt",
-    "source": "https://students.duke.edu/",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0029.txt",
+    "source": "https://registrar.duke.edu/help-guides/drop-if-enrolled/",
+    "type": "registrar"
   },
   {
     "index": 30,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0030.txt",
-    "source": "https://students.duke.edu/info-for/alumni/",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0030.txt",
+    "source": "https://registrar.duke.edu/help-guides/class-notes/",
+    "type": "registrar"
   },
   {
     "index": 31,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0031.txt",
-    "source": "https://students.duke.edu/belonging/arts-performance/",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0031.txt",
+    "source": "https://registrar.duke.edu/help-guides/variable-credit-class/",
+    "type": "registrar"
   },
   {
     "index": 32,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0032.txt",
-    "source": "https://students.duke.edu/belonging/get-involved/",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0032.txt",
+    "source": "https://registrar.duke.edu/help-guides/schedule-builder/",
+    "type": "registrar"
   },
   {
     "index": 33,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0033.txt",
-    "source": "https://students.duke.edu/get-assistance/resources/",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0033.txt",
+    "source": "https://registrar.duke.edu/help-guides/drop-class/",
+    "type": "registrar"
   },
   {
     "index": 34,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0034.txt",
-    "source": "https://students.duke.edu/?s=",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0034.txt",
+    "source": "http://law.duke.edu/registrar/",
+    "type": "registrar"
   },
   {
     "index": 35,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0035.txt",
-    "source": "https://students.duke.edu/blog/",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0035.txt",
+    "source": "https://learnmore.duke.edu/academics/empl_tuition",
+    "type": "registrar"
   },
   {
     "index": 36,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0036.txt",
-    "source": "https://students.duke.edu/?post_type=post&p=85302",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0036.txt",
+    "source": "https://registrar.duke.edu/help-guides/request-summerwinter-enrollment/",
+    "type": "registrar"
   },
   {
     "index": 37,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0037.txt",
-    "source": "https://students.duke.edu/belonging/space-finder/",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0037.txt",
+    "source": "https://registrar.duke.edu/help_guides/student_financial_responsibility_agreement/",
+    "type": "registrar"
   },
   {
     "index": 38,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0038.txt",
-    "source": "https://students.duke.edu/about/",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0038.txt",
+    "source": "https://financialaid.duke.edu/contact-us/",
+    "type": "registrar"
   },
   {
     "index": 39,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0039.txt",
-    "source": "https://students.duke.edu/belonging/",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0039.txt",
+    "source": "https://financialaid.duke.edu/how-aid-calculated",
+    "type": "registrar"
   },
   {
     "index": 40,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0040.txt",
-    "source": "https://students.duke.edu/info-for/students/current-students/",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0040.txt",
+    "source": "https://financialaid.duke.edu/forms-resources/faq/",
+    "type": "registrar"
   },
   {
     "index": 41,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0041.txt",
-    "source": "https://students.duke.edu/wellness/",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0041.txt",
+    "source": "https://financialaid.duke.edu/types-aid",
+    "type": "registrar"
   },
   {
     "index": 42,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0042.txt",
-    "source": "https://students.duke.edu/?post_type=post&p=86073",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0042.txt",
+    "source": "https://financialaid.duke.edu/forms-resources",
+    "type": "registrar"
   },
   {
     "index": 43,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0043.txt",
-    "source": "https://students.duke.edu/living/housing/",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0043.txt",
+    "source": "https://financialaid.duke.edu/",
+    "type": "registrar"
   },
   {
     "index": 44,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0044.txt",
-    "source": "https://students.duke.edu/belonging/icr/",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0044.txt",
+    "source": "https://financialaid.duke.edu/apply-aid",
+    "type": "registrar"
   },
   {
     "index": 45,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0045.txt",
-    "source": "https://students.duke.edu/info-for/families/",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0045.txt",
+    "source": "https://financialaid.duke.edu/how-aid-calculated/",
+    "type": "registrar"
   },
   {
     "index": 46,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0046.txt",
-    "source": "https://students.duke.edu",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0046.txt",
+    "source": "https://financialaid.duke.edu/making-most-your-aid",
+    "type": "registrar"
   },
   {
     "index": 47,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0047.txt",
-    "source": "https://students.duke.edu/thriving/",
-    "type": "students"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/registrar/doc_0047.txt",
+    "source": "https://giving.duke.edu/",
+    "type": "registrar"
   },
   {
     "index": 48,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0048.txt",
-    "source": "https://students.duke.edu/sa-intranet/",
+    "source": "https://students.duke.edu/",
     "type": "students"
   },
   {
     "index": 49,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0049.txt",
-    "source": "https://students.duke.edu/?post_type=post&p=86073                            aria-label=",
+    "source": "https://students.duke.edu/info-for/families/",
     "type": "students"
   },
   {
     "index": 50,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0050.txt",
-    "source": "https://students.duke.edu/get-assistance/",
+    "source": "https://students.duke.edu/?post_type=post&p=86073",
     "type": "students"
   },
   {
     "index": 51,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0051.txt",
-    "source": "https://students.duke.edu/about/who-we-are/",
+    "source": "https://students.duke.edu/get-assistance/",
     "type": "students"
   },
   {
     "index": 52,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0052.txt",
-    "source": "https://students.duke.edu/get-assistance/hate-bias/",
+    "source": "https://students.duke.edu/campus-construction/",
     "type": "students"
   },
   {
     "index": 53,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0053.txt",
-    "source": "https://students.duke.edu/give/",
+    "source": "https://students.duke.edu/living/housing/",
     "type": "students"
   },
   {
     "index": 54,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0054.txt",
-    "source": "https://students.duke.edu/living/dining/",
+    "source": "https://students.duke.edu/thriving/",
     "type": "students"
   },
   {
     "index": 55,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0055.txt",
-    "source": "https://students.duke.edu/?post_type=post&p=85302                            aria-label=",
+    "source": "https://students.duke.edu/belonging/career-center/",
     "type": "students"
   },
   {
     "index": 56,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0056.txt",
-    "source": "https://students.duke.edu/quadex/",
+    "source": "https://students.duke.edu/blog/",
     "type": "students"
   },
   {
     "index": 57,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0057.txt",
-    "source": "https://students.duke.edu/living/",
+    "source": "https://students.duke.edu/?post_type=post&p=86191                            aria-label=",
     "type": "students"
   },
   {
     "index": 58,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0058.txt",
-    "source": "https://financialaid.duke.edu/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0058.txt",
+    "source": "https://students.duke.edu/give/",
+    "type": "students"
   },
   {
     "index": 59,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0059.txt",
-    "source": "https://financialaid.duke.edu/apply-aid/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0059.txt",
+    "source": "https://students.duke.edu/living/dining/",
+    "type": "students"
   },
   {
     "index": 60,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0060.txt",
-    "source": "https://financialaid.duke.edu/types-aid",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0060.txt",
+    "source": "https://students.duke.edu/?post_type=post&p=86191",
+    "type": "students"
   },
   {
     "index": 61,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0061.txt",
-    "source": "https://financialaid.duke.edu/apply-aid/estimate-your-aid/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0061.txt",
+    "source": "https://students.duke.edu/about/who-we-are/",
+    "type": "students"
   },
   {
     "index": 62,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0062.txt",
-    "source": "https://financialaid.duke.edu/forms-resources/faq/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0062.txt",
+    "source": "https://students.duke.edu/?s=",
+    "type": "students"
   },
   {
     "index": 63,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0063.txt",
-    "source": "https://financialaid.duke.edu/how-aid-calculated/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0063.txt",
+    "source": "https://students.duke.edu/info-for/students/",
+    "type": "students"
   },
   {
     "index": 64,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0064.txt",
-    "source": "https://financialaid.duke.edu/making-most-your-aid",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0064.txt",
+    "source": "https://students.duke.edu/?post_type=post&p=85302                            aria-label=",
+    "type": "students"
   },
   {
     "index": 65,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0065.txt",
-    "source": "https://financialaid.duke.edu/making-most-your-aid/study-away/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0065.txt",
+    "source": "https://students.duke.edu/sa-intranet/",
+    "type": "students"
   },
   {
     "index": 66,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0066.txt",
-    "source": "https://financialaid.duke.edu/making-most-your-aid/summer-study/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0066.txt",
+    "source": "https://students.duke.edu/belonging/icr/",
+    "type": "students"
   },
   {
     "index": 67,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0067.txt",
-    "source": "https://financialaid.duke.edu/apply-aid/renew-your-aid/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0067.txt",
+    "source": "https://students.duke.edu/belonging/get-involved/",
+    "type": "students"
   },
   {
     "index": 68,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0068.txt",
-    "source": "https://financialaid.duke.edu/how-aid-calculated",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0068.txt",
+    "source": "https://students.duke.edu/info-for/students/current-students/",
+    "type": "students"
   },
   {
     "index": 69,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0069.txt",
-    "source": "https://financialaid.duke.edu/apply-aid",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0069.txt",
+    "source": "https://students.duke.edu/belonging/arts-performance/",
+    "type": "students"
   },
   {
     "index": 70,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0070.txt",
-    "source": "https://giving.duke.edu/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0070.txt",
+    "source": "https://students.duke.edu/quadex/",
+    "type": "students"
   },
   {
     "index": 71,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0071.txt",
-    "source": "https://financialaid.duke.edu/forms-resources",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0071.txt",
+    "source": "https://students.duke.edu/belonging/",
+    "type": "students"
   },
   {
     "index": 72,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0072.txt",
-    "source": "https://financialaid.duke.edu/contact-us/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0072.txt",
+    "source": "https://students.duke.edu/?post_type=post&p=86073                            aria-label=",
+    "type": "students"
   },
   {
     "index": 73,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0073.txt",
-    "source": "https://admissions.duke.edu/financial-support",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0073.txt",
+    "source": "https://students.duke.edu/info-for/alumni/",
+    "type": "students"
   },
   {
     "index": 74,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0074.txt",
-    "source": "https://financialaid.duke.edu/how-aid-calculated/your-aid-offer/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0074.txt",
+    "source": "https://students.duke.edu/belonging/space-finder/",
+    "type": "students"
   },
   {
     "index": 75,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0075.txt",
-    "source": "https://financialaid.duke.edu/types-aid/other-types-aid/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0075.txt",
+    "source": "https://students.duke.edu/get-assistance/hate-bias/",
+    "type": "students"
   },
   {
     "index": 76,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0076.txt",
-    "source": "https://financialaid.duke.edu/types-aid/merit-scholarships/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0076.txt",
+    "source": "https://students.duke.edu/?post_type=post&p=85302",
+    "type": "students"
   },
   {
     "index": 77,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0077.txt",
-    "source": "https://financialaid.duke.edu/types-aid/loans/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0077.txt",
+    "source": "https://accessibility.duke.edu/",
+    "type": "students"
   },
   {
     "index": 78,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0078.txt",
-    "source": "https://financialaid.duke.edu/types-aid/work-study/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0078.txt",
+    "source": "https://students.duke.edu",
+    "type": "students"
   },
   {
     "index": 79,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0079.txt",
-    "source": "https://financialaid.duke.edu/types-aid/tuition-benefits/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0079.txt",
+    "source": "https://students.duke.edu/get-assistance/resources/",
+    "type": "students"
   },
   {
     "index": 80,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0080.txt",
-    "source": "https://financialaid.duke.edu/types-aid/being-resident-assistant/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0080.txt",
+    "source": "https://students.duke.edu/about/",
+    "type": "students"
   },
   {
     "index": 81,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0081.txt",
-    "source": "https://financialaid.duke.edu/types-aid/outside-scholarships/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0081.txt",
+    "source": "https://students.duke.edu/living/",
+    "type": "students"
   },
   {
     "index": 82,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0082.txt",
-    "source": "https://financialaid.duke.edu/types-aid/grant-aid/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0082.txt",
+    "source": "https://students.duke.edu/wellness/",
+    "type": "students"
   },
   {
     "index": 83,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0083.txt",
-    "source": "https://financialaid.duke.edu/forms-resources/faq/all-parent-faqs/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0083.txt",
+    "source": "https://students.duke.edu/info-for/families/family-communications/",
+    "type": "students"
   },
   {
     "index": 84,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0084.txt",
-    "source": "https://financialaid.duke.edu/forms-resources/faq/all-current-student-faqs/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0084.txt",
+    "source": "https://students.duke.edu/info-for/",
+    "type": "students"
   },
   {
     "index": 85,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0085.txt",
-    "source": "https://financialaid.duke.edu/forms-resources/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0085.txt",
+    "source": "https://students.duke.edu/info-for/families/new-families/",
+    "type": "students"
   },
   {
     "index": 86,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/financial_aid/doc_0086.txt",
-    "source": "https://financialaid.duke.edu/forms-resources/faq/all-applicant-faqs/",
-    "type": "financial_aid"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0086.txt",
+    "source": "https://students.duke.edu/info-for/families/visiting-duke-durham/",
+    "type": "students"
   },
   {
     "index": 87,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0087.txt",
-    "source": "https://studentaffairs.duke.edu/",
-    "type": "student_affairs"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0087.txt",
+    "source": "https://students.duke.edu/info-for/families/campus-construction/",
+    "type": "students"
   },
   {
     "index": 88,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0088.txt",
-    "source": "https://studentaffairs.duke.edu/?s=",
-    "type": "student_affairs"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0088.txt",
+    "source": "https://students.duke.edu/info-for/families/dpac/",
+    "type": "students"
   },
   {
     "index": 89,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0089.txt",
-    "source": "https://students.duke.edu/belonging/career-center/",
-    "type": "student_affairs"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0089.txt",
+    "source": "https://students.duke.edu/info-for/families/family-weekend/",
+    "type": "students"
   },
   {
     "index": 90,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0090.txt",
-    "source": "https://students.duke.edu/campus-construction/",
-    "type": "student_affairs"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0090.txt",
+    "source": "https://students.duke.edu/gpsaw-2026/",
+    "type": "students"
   },
   {
     "index": 91,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0091.txt",
-    "source": "https://students.duke.edu/?post_type=post&p=86191                            aria-label=",
-    "type": "student_affairs"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0091.txt",
+    "source": "https://students.duke.edu/?page_id=122",
+    "type": "students"
   },
   {
     "index": 92,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0092.txt",
-    "source": "https://students.duke.edu/info-for/students/",
-    "type": "student_affairs"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0092.txt",
+    "source": "https://students.duke.edu/get-assistance/report-an-incident/",
+    "type": "students"
   },
   {
     "index": 93,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0093.txt",
-    "source": "https://students.duke.edu/?post_type=post&p=86191",
-    "type": "student_affairs"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0093.txt",
+    "source": "https://students.duke.edu/get-assistance/community-standard/records-request/",
+    "type": "students"
   },
   {
     "index": 94,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0094.txt",
-    "source": "https://students.duke.edu/?paged=104&s",
-    "type": "student_affairs"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0094.txt",
+    "source": "https://students.duke.edu/get-assistance/community-standard/outcomes-appeals/",
+    "type": "students"
   },
   {
     "index": 95,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0095.txt",
-    "source": "https://students.duke.edu/?paged=153&s",
-    "type": "student_affairs"
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/students/doc_0095.txt",
+    "source": "https://students.duke.edu/get-assistance/resources/academic-support/",
+    "type": "students"
   },
   {
     "index": 96,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0096.txt",
-    "source": "https://students.duke.edu/?paged=217&s",
+    "source": "https://studentaffairs.duke.edu/",
     "type": "student_affairs"
   },
   {
     "index": 97,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0097.txt",
-    "source": "https://students.duke.edu/get-assistance/time-away-office/",
+    "source": "https://studentaffairs.duke.edu/?s=",
     "type": "student_affairs"
   },
   {
     "index": 98,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0098.txt",
-    "source": "https://students.duke.edu/?paged=20&s",
+    "source": "https://students.duke.edu/?paged=5&s",
     "type": "student_affairs"
   },
   {
     "index": 99,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0099.txt",
-    "source": "https://students.duke.edu/?paged=129&s",
+    "source": "https://students.duke.edu/?paged=32&s",
     "type": "student_affairs"
   },
   {
     "index": 100,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0100.txt",
-    "source": "https://students.duke.edu/?paged=120&s",
+    "source": "https://students.duke.edu/?paged=29&s",
     "type": "student_affairs"
   },
   {
     "index": 101,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0101.txt",
-    "source": "https://students.duke.edu/?paged=239&s",
+    "source": "https://students.duke.edu/?paged=80&s",
     "type": "student_affairs"
   },
   {
     "index": 102,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0102.txt",
-    "source": "https://students.duke.edu/?paged=184&s",
+    "source": "https://students.duke.edu/?paged=237&s",
     "type": "student_affairs"
   },
   {
     "index": 103,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0103.txt",
-    "source": "https://students.duke.edu/?paged=44&s",
+    "source": "https://students.duke.edu/?paged=145&s",
     "type": "student_affairs"
   },
   {
     "index": 104,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0104.txt",
-    "source": "https://students.duke.edu/?paged=238&s",
+    "source": "https://students.duke.edu/?paged=88&s",
     "type": "student_affairs"
   },
   {
     "index": 105,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0105.txt",
-    "source": "https://students.duke.edu/?paged=244&s",
+    "source": "https://students.duke.edu/?paged=40&s",
     "type": "student_affairs"
   },
   {
     "index": 106,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0106.txt",
-    "source": "https://students.duke.edu/?paged=210&s",
+    "source": "https://students.duke.edu/?paged=176&s",
     "type": "student_affairs"
   },
   {
     "index": 107,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0107.txt",
-    "source": "https://students.duke.edu/?paged=235&s",
+    "source": "https://students.duke.edu/?paged=11&s",
     "type": "student_affairs"
   },
   {
     "index": 108,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0108.txt",
-    "source": "https://students.duke.edu/?paged=121&s",
+    "source": "https://students.duke.edu/?paged=115&s",
     "type": "student_affairs"
   },
   {
     "index": 109,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0109.txt",
-    "source": "https://students.duke.edu/?paged=42&s",
+    "source": "https://students.duke.edu/?paged=21&s",
     "type": "student_affairs"
   },
   {
     "index": 110,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0110.txt",
-    "source": "https://students.duke.edu/?paged=172&s",
+    "source": "https://students.duke.edu/?paged=37&s",
     "type": "student_affairs"
   },
   {
     "index": 111,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0111.txt",
-    "source": "https://students.duke.edu/?paged=46&s",
+    "source": "https://students.duke.edu/?paged=34&s",
     "type": "student_affairs"
   },
   {
     "index": 112,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0112.txt",
-    "source": "https://students.duke.edu/?paged=189&s",
+    "source": "https://students.duke.edu/?paged=167&s",
     "type": "student_affairs"
   },
   {
     "index": 113,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0113.txt",
-    "source": "https://students.duke.edu/?paged=126&s",
+    "source": "https://students.duke.edu/?paged=30&s",
     "type": "student_affairs"
   },
   {
     "index": 114,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0114.txt",
-    "source": "https://students.duke.edu/?paged=59&s",
+    "source": "https://students.duke.edu/?paged=146&s",
     "type": "student_affairs"
   },
   {
     "index": 115,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0115.txt",
-    "source": "https://students.duke.edu/?paged=188&s",
+    "source": "https://students.duke.edu/?paged=23&s",
     "type": "student_affairs"
   },
   {
     "index": 116,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0116.txt",
-    "source": "https://students.duke.edu/?paged=152&s",
+    "source": "https://students.duke.edu/?paged=71&s",
     "type": "student_affairs"
   },
   {
     "index": 117,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0117.txt",
-    "source": "https://students.duke.edu/?paged=180&s",
+    "source": "https://students.duke.edu/?paged=10&s",
     "type": "student_affairs"
   },
   {
     "index": 118,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0118.txt",
-    "source": "https://students.duke.edu/?paged=50&s",
+    "source": "https://students.duke.edu/?paged=149&s",
     "type": "student_affairs"
   },
   {
     "index": 119,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0119.txt",
-    "source": "https://students.duke.edu/belonging/icr/jewishlife/our-staff-and-advisory-board/jewish-life-at-duke-professional-staff/",
+    "source": "https://students.duke.edu/?paged=96&s",
     "type": "student_affairs"
   },
   {
     "index": 120,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0120.txt",
-    "source": "https://students.duke.edu/?paged=182&s",
+    "source": "https://students.duke.edu/?paged=155&s",
     "type": "student_affairs"
   },
   {
     "index": 121,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0121.txt",
-    "source": "https://students.duke.edu/?paged=17&s",
+    "source": "https://students.duke.edu/?paged=169&s",
     "type": "student_affairs"
   },
   {
     "index": 122,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0122.txt",
-    "source": "https://students.duke.edu/living/housing/housing-assignments/fall26-housing/",
+    "source": "https://students.duke.edu/?paged=239&s",
     "type": "student_affairs"
   },
   {
     "index": 123,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0123.txt",
-    "source": "https://students.duke.edu/?paged=68&s",
+    "source": "https://students.duke.edu/?paged=7&s",
     "type": "student_affairs"
   },
   {
     "index": 124,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0124.txt",
-    "source": "https://students.duke.edu/?paged=83&s",
+    "source": "https://students.duke.edu/living/housing/housing-assignments/summer-housing-information/",
     "type": "student_affairs"
   },
   {
     "index": 125,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0125.txt",
-    "source": "https://students.duke.edu/?paged=170&s",
+    "source": "https://students.duke.edu/?paged=14&s",
     "type": "student_affairs"
   },
   {
     "index": 126,
     "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0126.txt",
-    "source": "https://students.duke.edu/?paged=136&s",
+    "source": "https://students.duke.edu/?paged=195&s",
     "type": "student_affairs"
   },
   {
     "index": 127,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0127.txt",
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0127.txt",
+    "source": "https://students.duke.edu/?paged=206&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 128,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0128.txt",
+    "source": "https://students.duke.edu/?paged=68&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 129,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0129.txt",
+    "source": "https://students.duke.edu/?paged=70&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 130,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0130.txt",
+    "source": "https://students.duke.edu/?paged=165&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 131,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0131.txt",
+    "source": "https://students.duke.edu/?paged=186&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 132,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0132.txt",
+    "source": "https://students.duke.edu/?paged=241&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 133,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0133.txt",
+    "source": "https://students.duke.edu/?paged=111&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 134,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0134.txt",
+    "source": "https://students.duke.edu/?paged=199&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 135,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0135.txt",
+    "source": "https://students.duke.edu/?paged=147&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 136,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0136.txt",
+    "source": "https://students.duke.edu/?paged=38&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 137,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0137.txt",
+    "source": "https://students.duke.edu/?paged=93&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 138,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0138.txt",
+    "source": "https://students.duke.edu/?paged=215&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 139,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0139.txt",
+    "source": "https://students.duke.edu/?paged=184&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 140,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0140.txt",
+    "source": "https://students.duke.edu/?paged=219&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 141,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0141.txt",
+    "source": "https://students.duke.edu/?paged=78&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 142,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0142.txt",
+    "source": "https://students.duke.edu/?paged=140&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 143,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0143.txt",
+    "source": "https://students.duke.edu/?paged=99&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 144,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0144.txt",
+    "source": "https://students.duke.edu/?paged=9&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 145,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/student_affairs/doc_0145.txt",
+    "source": "https://students.duke.edu/?paged=128&s",
+    "type": "student_affairs"
+  },
+  {
+    "index": 146,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0146.txt",
     "source": "https://library.duke.edu/",
     "type": "library"
   },
   {
-    "index": 128,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0128.txt",
-    "source": "https://library.duke.edu/course-support",
-    "type": "library"
-  },
-  {
-    "index": 129,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0129.txt",
-    "source": "https://library.duke.edu/services/visitors",
-    "type": "library"
-  },
-  {
-    "index": 130,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0130.txt",
-    "source": "https://library.duke.edu/services/disabilities",
-    "type": "library"
-  },
-  {
-    "index": 131,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0131.txt",
-    "source": "https://library.duke.edu/services/alumni",
-    "type": "library"
-  },
-  {
-    "index": 132,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0132.txt",
-    "source": "https://library.duke.edu/research/ask",
-    "type": "library"
-  },
-  {
-    "index": 133,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0133.txt",
-    "source": "https://library.duke.edu/using",
-    "type": "library"
-  },
-  {
-    "index": 134,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0134.txt",
-    "source": "https://find.library.duke.edu/trln",
-    "type": "library"
-  },
-  {
-    "index": 135,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0135.txt",
-    "source": "https://library.duke.edu/exhibits",
-    "type": "library"
-  },
-  {
-    "index": 136,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0136.txt",
-    "source": "https://blogs.library.duke.edu/blog/2026/04/21/new-library-search-platform-may-11/",
-    "type": "library"
-  },
-  {
-    "index": 137,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0137.txt",
-    "source": "https://blogs.library.duke.edu/blog/2026/04/20/your-end-of-semester-library-toolkit-spring-2026/",
-    "type": "library"
-  },
-  {
-    "index": 138,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0138.txt",
-    "source": "https://library.duke.edu/services/graduate",
-    "type": "library"
-  },
-  {
-    "index": 139,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0139.txt",
+    "index": 147,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0147.txt",
     "source": "https://library.duke.edu/about/newsletter",
     "type": "library"
   },
   {
-    "index": 140,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0140.txt",
-    "source": "https://www.duke.edu",
+    "index": 148,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0148.txt",
+    "source": "https://quicksearch.library.duke.edu/searcher/website",
     "type": "library"
   },
   {
-    "index": 141,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0141.txt",
-    "source": "https://blogs.library.duke.edu/blog/2026/04/06/dul-creative-writing-awards/",
-    "type": "library"
-  },
-  {
-    "index": 142,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0142.txt",
+    "index": 149,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0149.txt",
     "source": "https://login.proxy.lib.duke.edu/login?url=https://firstsearch.oclc.org/fsip?dbname=worldcat&screen=advanced",
     "type": "library"
   },
   {
-    "index": 143,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0143.txt",
+    "index": 150,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0150.txt",
+    "source": "https://library.duke.edu/services/donors",
+    "type": "library"
+  },
+  {
+    "index": 151,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0151.txt",
+    "source": "https://blogs.library.duke.edu/blog/2026/04/21/new-library-search-platform-may-11/",
+    "type": "library"
+  },
+  {
+    "index": 152,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0152.txt",
+    "source": "https://library.duke.edu/challenge",
+    "type": "library"
+  },
+  {
+    "index": 153,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0153.txt",
+    "source": "https://library.duke.edu/about/reuse-attribution",
+    "type": "library"
+  },
+  {
+    "index": 154,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0154.txt",
+    "source": "https://library.duke.edu",
+    "type": "library"
+  },
+  {
+    "index": 155,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0155.txt",
+    "source": "https://library.duke.edu/research/ask",
+    "type": "library"
+  },
+  {
+    "index": 156,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0156.txt",
+    "source": "https://library.duke.edu/services/alumni",
+    "type": "library"
+  },
+  {
+    "index": 157,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0157.txt",
+    "source": "https://find.library.duke.edu/advanced?utm_campaign=dul&utm_content=home_advanced_link&utm_source=library.duke.edu&utm_medium=referral",
+    "type": "library"
+  },
+  {
+    "index": 158,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0158.txt",
+    "source": "https://blogs.library.duke.edu/blog/2026/04/20/your-end-of-semester-library-toolkit-spring-2026/",
+    "type": "library"
+  },
+  {
+    "index": 159,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0159.txt",
+    "source": "https://library.duke.edu/services/disabilities",
+    "type": "library"
+  },
+  {
+    "index": 160,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0160.txt",
+    "source": "https://library.duke.edu/course-support",
+    "type": "library"
+  },
+  {
+    "index": 161,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0161.txt",
+    "source": "https://blogs.library.duke.edu/blog/2026/04/06/dul-creative-writing-awards/",
+    "type": "library"
+  },
+  {
+    "index": 162,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0162.txt",
+    "source": "https://library.duke.edu/libraries",
+    "type": "library"
+  },
+  {
+    "index": 163,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0163.txt",
+    "source": "https://library.duke.edu/about/contact",
+    "type": "library"
+  },
+  {
+    "index": 164,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0164.txt",
+    "source": "https://library.duke.edu/research/citing",
+    "type": "library"
+  },
+  {
+    "index": 165,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0165.txt",
+    "source": "https://library.duke.edu/research",
+    "type": "library"
+  },
+  {
+    "index": 166,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0166.txt",
+    "source": "https://library.duke.edu/about/privacy",
+    "type": "library"
+  },
+  {
+    "index": 167,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0167.txt",
+    "source": "https://library.duke.edu/my-accounts",
+    "type": "library"
+  },
+  {
+    "index": 168,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0168.txt",
+    "source": "https://library.duke.edu/services/faculty",
+    "type": "library"
+  },
+  {
+    "index": 169,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0169.txt",
+    "source": "https://library.duke.edu/find",
+    "type": "library"
+  },
+  {
+    "index": 170,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0170.txt",
+    "source": "https://library.duke.edu/using/interlibrary-requests",
+    "type": "library"
+  },
+  {
+    "index": 171,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0171.txt",
+    "source": "https://library.duke.edu/services/graduate",
+    "type": "library"
+  },
+  {
+    "index": 172,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0172.txt",
+    "source": "https://library.duke.edu/find/ebooks",
+    "type": "library"
+  },
+  {
+    "index": 173,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0173.txt",
+    "source": "https://library.duke.edu/find/journal-titles",
+    "type": "library"
+  },
+  {
+    "index": 174,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0174.txt",
+    "source": "https://blogs.library.duke.edu/",
+    "type": "library"
+  },
+  {
+    "index": 175,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0175.txt",
+    "source": "https://library.duke.edu/using/library-spaces",
+    "type": "library"
+  },
+  {
+    "index": 176,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0176.txt",
+    "source": "https://library.duke.edu/exhibits",
+    "type": "library"
+  },
+  {
+    "index": 177,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0177.txt",
+    "source": "https://find.library.duke.edu/trln",
+    "type": "library"
+  },
+  {
+    "index": 178,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0178.txt",
+    "source": "https://blogs.library.duke.edu/blog/2026/04/16/conducting-research-after-you-graduate-2/",
+    "type": "library"
+  },
+  {
+    "index": 179,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0179.txt",
+    "source": "https://library.duke.edu/using",
+    "type": "library"
+  },
+  {
+    "index": 180,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0180.txt",
+    "source": "https://library.duke.edu/services/international",
+    "type": "library"
+  },
+  {
+    "index": 181,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0181.txt",
     "source": "https://library.duke.edu/saml/login",
     "type": "library"
   },
   {
-    "index": 144,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0144.txt",
-    "source": "https://library.duke.edu/about/statement-potentially-harmful-language-library-descriptions",
-    "type": "library"
-  },
-  {
-    "index": 145,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0145.txt",
+    "index": 182,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0182.txt",
     "source": "https://find.library.duke.edu/",
     "type": "library"
   },
   {
-    "index": 146,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0146.txt",
+    "index": 183,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0183.txt",
+    "source": "https://www.duke.edu",
+    "type": "library"
+  },
+  {
+    "index": 184,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0184.txt",
+    "source": "https://library.duke.edu/services/undergraduate",
+    "type": "library"
+  },
+  {
+    "index": 185,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0185.txt",
+    "source": "https://library.duke.edu/support",
+    "type": "library"
+  },
+  {
+    "index": 186,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0186.txt",
+    "source": "https://repository.duke.edu/dc",
+    "type": "library"
+  },
+  {
+    "index": 187,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0187.txt",
+    "source": "https://library.duke.edu/find/articles",
+    "type": "library"
+  },
+  {
+    "index": 188,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0188.txt",
+    "source": "https://guides.library.duke.edu/az/databases",
+    "type": "library"
+  },
+  {
+    "index": 189,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0189.txt",
+    "source": "https://library.duke.edu/about",
+    "type": "library"
+  },
+  {
+    "index": 190,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0190.txt",
+    "source": "https://blogs.library.duke.edu/rubenstein/2026/04/15/distaff-undergrad-publications/",
+    "type": "library"
+  },
+  {
+    "index": 191,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0191.txt",
+    "source": "https://library.duke.edu/services/visitors",
+    "type": "library"
+  },
+  {
+    "index": 192,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/library/doc_0192.txt",
+    "source": "https://library.duke.edu/about/statement-potentially-harmful-language-library-descriptions",
+    "type": "library"
+  },
+  {
+    "index": 193,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0193.txt",
     "source": "https://dining.duke.edu/",
     "type": "dining"
   },
   {
-    "index": 147,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0147.txt",
-    "source": "https://students.duke.edu/living/dining/duke-dining-news-announcements/duke-dining-pioneers-the-nations-first-top-9-allergen-free-campus-venue/",
-    "type": "dining"
-  },
-  {
-    "index": 148,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0148.txt",
-    "source": "https://students.duke.edu/nutrition-dietary-information/",
-    "type": "dining"
-  },
-  {
-    "index": 149,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0149.txt",
+    "index": 194,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0194.txt",
     "source": "https://students.duke.edu/living/dining/food-security-resources-2/",
     "type": "dining"
   },
   {
-    "index": 150,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0150.txt",
-    "source": "https://students.duke.edu/living/dining/deliberate-dining/",
-    "type": "dining"
-  },
-  {
-    "index": 151,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0151.txt",
+    "index": 195,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0195.txt",
     "source": "https://students.duke.edu/living/dining/dining-locations/",
     "type": "dining"
   },
   {
-    "index": 152,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0152.txt",
-    "source": "https://students.duke.edu/living/dining/sustainable-dining/menus/",
-    "type": "dining"
-  },
-  {
-    "index": 153,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0153.txt",
-    "source": "https://students.duke.edu/living/dining/plans-points/",
-    "type": "dining"
-  },
-  {
-    "index": 154,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0154.txt",
-    "source": "https://campushours.oit.duke.edu/places/dining",
-    "type": "dining"
-  },
-  {
-    "index": 155,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0155.txt",
-    "source": "https://dining.duke.edu/?s=",
-    "type": "dining"
-  },
-  {
-    "index": 156,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0156.txt",
-    "source": "https://students.duke.edu/living/dining/duke-dining-news-announcements/",
-    "type": "dining"
-  },
-  {
-    "index": 157,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0157.txt",
-    "source": "https://students.duke.edu/living/dining/the-chefs-kitchen-2/",
-    "type": "dining"
-  },
-  {
-    "index": 158,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0158.txt",
-    "source": "https://students.duke.edu/living/dining/sustainable-dining/",
-    "type": "dining"
-  },
-  {
-    "index": 159,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0159.txt",
-    "source": "https://students.duke.edu/living/dining/duke-dining-news-announcements/daily-devil-deals/",
-    "type": "dining"
-  },
-  {
-    "index": 160,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0160.txt",
-    "source": "https://students.duke.edu/living/dining/wellness-meals/",
-    "type": "dining"
-  },
-  {
-    "index": 161,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0161.txt",
-    "source": "https://students.duke.edu/living/dining/quality-assurance/",
-    "type": "dining"
-  },
-  {
-    "index": 162,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0162.txt",
+    "index": 196,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0196.txt",
     "source": "https://students.duke.edu/living/dining/sustainable-dining/procurement/",
     "type": "dining"
   },
   {
-    "index": 163,
-    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0163.txt",
+    "index": 197,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0197.txt",
+    "source": "https://students.duke.edu/living/dining/quality-assurance/",
+    "type": "dining"
+  },
+  {
+    "index": 198,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0198.txt",
+    "source": "https://students.duke.edu/living/dining/the-chefs-kitchen-2/",
+    "type": "dining"
+  },
+  {
+    "index": 199,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0199.txt",
+    "source": "https://students.duke.edu/nutrition-dietary-information/",
+    "type": "dining"
+  },
+  {
+    "index": 200,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0200.txt",
+    "source": "https://campushours.oit.duke.edu/places/dining",
+    "type": "dining"
+  },
+  {
+    "index": 201,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0201.txt",
+    "source": "https://students.duke.edu/living/dining/wellness-meals/",
+    "type": "dining"
+  },
+  {
+    "index": 202,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0202.txt",
+    "source": "https://students.duke.edu/living/dining/duke-dining-news-announcements/duke-dining-pioneers-the-nations-first-top-9-allergen-free-campus-venue/",
+    "type": "dining"
+  },
+  {
+    "index": 203,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0203.txt",
+    "source": "https://students.duke.edu/living/dining/sustainable-dining/",
+    "type": "dining"
+  },
+  {
+    "index": 204,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0204.txt",
+    "source": "https://students.duke.edu/living/dining/deliberate-dining/",
+    "type": "dining"
+  },
+  {
+    "index": 205,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0205.txt",
+    "source": "https://dining.duke.edu/?s=",
+    "type": "dining"
+  },
+  {
+    "index": 206,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0206.txt",
+    "source": "https://students.duke.edu/living/dining/duke-dining-news-announcements/",
+    "type": "dining"
+  },
+  {
+    "index": 207,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0207.txt",
+    "source": "https://students.duke.edu/living/dining/sustainable-dining/menus/",
+    "type": "dining"
+  },
+  {
+    "index": 208,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0208.txt",
     "source": "https://students.duke.edu/living/dining/sustainable-dining/waste-reduction-recovery/",
+    "type": "dining"
+  },
+  {
+    "index": 209,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0209.txt",
+    "source": "https://students.duke.edu/living/dining/duke-dining-news-announcements/daily-devil-deals/",
+    "type": "dining"
+  },
+  {
+    "index": 210,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0210.txt",
+    "source": "https://students.duke.edu/living/dining/plans-points/",
+    "type": "dining"
+  },
+  {
+    "index": 211,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0211.txt",
+    "source": "https://fed.oit.duke.edu/",
+    "type": "dining"
+  },
+  {
+    "index": 212,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0212.txt",
+    "source": "https://personalfinance.duke.edu/",
+    "type": "dining"
+  },
+  {
+    "index": 213,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0213.txt",
+    "source": "https://gpsg.duke.edu/resources-for-students/community-pantry/",
+    "type": "dining"
+  },
+  {
+    "index": 214,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0214.txt",
+    "source": "https://students.duke.edu/wellness/dukereach/",
+    "type": "dining"
+  },
+  {
+    "index": 215,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0215.txt",
+    "source": "https://today.duke.edu/2023/01/duke-dining-recognized-food-allergen-safety",
+    "type": "dining"
+  },
+  {
+    "index": 216,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0216.txt",
+    "source": "https://students.duke.edu/belonging/icr/jewishlife/kosher-dining/freeman-center-cafe/",
+    "type": "dining"
+  },
+  {
+    "index": 217,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0217.txt",
+    "source": "https://dukecard.duke.edu/",
+    "type": "dining"
+  },
+  {
+    "index": 218,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0218.txt",
+    "source": "https://students.duke.edu/mcdelivery/",
+    "type": "dining"
+  },
+  {
+    "index": 219,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0219.txt",
+    "source": "https://access.duke.edu/",
+    "type": "dining"
+  },
+  {
+    "index": 220,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0220.txt",
+    "source": "https://students.duke.edu/connected-plates/",
+    "type": "dining"
+  },
+  {
+    "index": 221,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0221.txt",
+    "source": "https://dukecard.duke.edu/mobile-dukecard/eaccounts",
+    "type": "dining"
+  },
+  {
+    "index": 222,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0222.txt",
+    "source": "https://students.duke.edu/living/dining/deliberate-dining/menus/",
+    "type": "dining"
+  },
+  {
+    "index": 223,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0223.txt",
+    "source": "https://students.duke.edu/living/dining/deliberate-dining/waste-reduction-recovery/",
+    "type": "dining"
+  },
+  {
+    "index": 224,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0224.txt",
+    "source": "https://students.duke.edu/living/dining/deliberate-dining/procurement/",
+    "type": "dining"
+  },
+  {
+    "index": 225,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0225.txt",
+    "source": "https://students.duke.edu/duke-dining-recognized-for-best-comprehensive-allergen-free-dining-program/",
+    "type": "dining"
+  },
+  {
+    "index": 226,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0226.txt",
+    "source": "https://students.duke.edu/duke-dining-earns-distinguished-nutrition-award/",
+    "type": "dining"
+  },
+  {
+    "index": 227,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0227.txt",
+    "source": "https://madeforthis.duke.edu/stories/lee-family-gift-enables-safe-dining-safer-campus/",
+    "type": "dining"
+  },
+  {
+    "index": 228,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0228.txt",
+    "source": "https://students.duke.edu/duke-dining-wins-prestigious-national-awards/",
+    "type": "dining"
+  },
+  {
+    "index": 229,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0229.txt",
+    "source": "https://students.duke.edu/awards-and-recognitions/",
+    "type": "dining"
+  },
+  {
+    "index": 230,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0230.txt",
+    "source": "https://students.duke.edu/duke-dining-eliminates-artificial-dyes-and-additives-from-menu-items/",
+    "type": "dining"
+  },
+  {
+    "index": 231,
+    "file": "/home/carson/372/dukegpt/new_web_scrapes/dining/doc_0231.txt",
+    "source": "http://dukecard.duke.edu/",
     "type": "dining"
   }
 ]

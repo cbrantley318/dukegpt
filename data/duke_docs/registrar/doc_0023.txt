@@ -1,7 +1,19 @@
-Media Accessibility
-Assistive Technology & Tools
-Assistive Technology (often abbreviated as AT) is an umbrella term for a piece of equipment, software, or product that can assist people with disabilities to perform tasks more easily or independently. At Duke, we strive to provide a wide range of available technologies to address the needs of every person.
-Web Accessibility
-Duke's web accessibility website is designed to help people at Duke understand web accessibility requirements, Duke's Guidelines, and how to meet those standards. You'll find web accessibility definitions and terms, how to assess a website, how to fix problems, and where to get help.
-Information for Instructors
-As Duke University continues its efforts to welcome individuals with disabilities, the number of qualified students with disabilities has continued to increase. In order for the University to ensure timely exploration of necessary accommodations, academic units have identified individuals to serve as Disability Service Liaisons who work in collaboration with the Student Disability Access Office.
+Permission numbers are used in the registration process to allow faculty to grant permission for students to enroll when the student does not meet a prerequisite, to override a class capacity, or when a class requires permission. Permission numbers are also required during the second week of classes for all undergraduate courses below the 500 level.
+Important:
+- Students must contact the instructor of record, or the department, to obtain a permission number.
+- Permission numbers are unique to each section of a class and cannot be used interchangeably for cross-listed sections.
+- Permission numbers may be used by only one student.
+- Permission numbers are good for only one enrollment transaction and cannot be used multiple times.
+Navigate to Advanced Class Search under the Class Information menu to add a course to your Shopping Cart and add a permission number.
+- Select the appropriate Term, Acad Career, Subject and Catalog # from the dropdown menu in the Advanced Class Search section and select the Search button.
+- Select the Ellipse (Additional Actions) next to the class and select Add to Cart.
+- Enter the Permission Number provided by the instructor or departmental staff member in the Permission Number box and select the Save button.
+OR If a course has already been added to your Shopping Cart:
+Navigate to your Shopping Cart under the Enrollment menu to add or edit a permission number for a class.
+- Select the Ellipse (Additional Actions) next to the class and select Edit.
+Enter the Permission Number provided by the instructor or departmental staff member in the Permission Number box and select the Save button.
+Enroll in the class from your Shopping Cart using permission number entered.
+- Check the box next to the class in which you want to enroll and then select the Validate button to ensure you have entered a valid permission number and are eligible to enroll in the class.
+- Review the Validation results box and select the OK button.
+- Check the box next to the class and select the Enroll button.
+Review the Enrollment Results box and select the OK button.

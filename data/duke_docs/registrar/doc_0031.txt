@@ -1,0 +1,25 @@
+Image
+Students can select the appropriate number of units to enroll in for a variable credit class when adding the class to the Shopping Cart or enrolling directly from Advanced or Simple Class Search.
+- Conduct an Advanced or Simple Class Search to find your preferred class.
+- Click the upside-down carrot next to the class to review the class details.
+- Select Add to Cart or Enroll (if your registration window is open) for the class.
+- Select the appropriate number of Units in the Enrollment Options box and select Save.
+- Proceed with enrollment.
+Image
+OR
+Students can edit the number of units for a variable credit class in the Shopping Cart.
+- Select the Ellipse to display additional actions and select Edit.
+- Select the appropriate number of Units in the Enrollment Options box and select Save.
+- Proceed with enrollment.
+Image
+Image
+OR
+Students can edit the number of units for a variable credit class after enrollment in the Edit Enrollment section.
+- Select the Edit button to view option.
+- Select the revised number of units to enroll in for the class in the Edit Enrollment box and select Continue.
+- Review the changes in the Confirm Changes box and select Continue.
+- Review the Edit Enrollment Results box and select OK to confirm the class has been updated.
+Image
+Image
+Image
+Image

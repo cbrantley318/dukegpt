@@ -1,14 +1,3 @@
-Image
-Welcome
-Duke believes web content needs to be accessible to people with a wide range of abilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological abilities.
-Everyone is encouraged to keep web accessibility in mind to maximize every user's web experience.
-Request an assessment
-Duke websites are required to be conformant with Web Content Accessibility Guidelines before they launch.
-Assessments are free to Duke websites.
-Key tips for your role...
-Spotlight on...
-Planning an accessible online event
-Learn a few simple tips to make your online event enjoyable for everyone.
-Image
-All things captioning
-Learn Duke's video captioning requirements and tips on how to meet them.
+May 8 Commencement Ceremonies Begin We begin celebrating the Fuqua Class of 2026 with commencement ceremonies.
+Jun 7 Welcoming the Weekend Executive MBA Class of 2028 Students entering the Weekend Executive MBA program attend their first on-campus residency.
+Jul 6 Business, Communications, and Culture Students joining the Daytime MBA, MMS, or MQM programs will attend the Business, Communications, and Culture program.

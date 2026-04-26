@@ -1,0 +1,13 @@
+Image
+The Drop If Enrolled feature can only be used when students are initially enrolling in their classes. This means that if you’re interested in enrolling in a class that is currently full, you can use Drop If Enrolled to indicate that you’d like to be enrolled in that class if a seat opens up, and you can indicate which class you would like to drop if a seat in your preferred class opens up.
+When to use Drop If Enrolled:
+- If you have a time conflict between one of your enrolled classes and a waitlisted class.
+- If you are enrolled in a different section of the same course.
+Using the Advanced Class Search or Simple Class Search to find your preferred class. Next, identify the class to drop if your preferred class is added to your schedule.
+- Click on the ellipsis for your preferred class and select the Enroll option.
+- In the Enrollment Options section, click the dropdown arrow under Drop the class below if Enrolled in the Class above and select which class you want to drop if enrolled.
+- Click Save after confirming the selection. Should a seat become available and if there are no conflicts with the preferred/waitlisted class, the class you select will be removed from your schedule immediately.
+- If waitlisted, review the Enrollment Results message and select Save.
+Image
+Image
+Image

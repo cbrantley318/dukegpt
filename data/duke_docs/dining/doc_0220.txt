@@ -1,0 +1,12 @@
+CONNECTED PLATES: Balanced meals that nourish and are sustainably sourced!
+Connected Plates was created to highlight meals that provide a balanced mix of carbohydrates, proteins, and fats, aligned with USDA dietary guidelines, while also showcasing sustainably sourced ingredients. The Nourish icon identifies balanced meal options at Duke Dining locations and the Sustainable Food icon recognizes sustainably sourced menu items.
+The NOURISH icon highlights meals that provide a balanced mix of:
+- Carbohydrates
+- Proteins
+- Fats
+(Aligned with USDA dietary guidelines.)
+The SUSTAINABLE FOOD icon highlights sustainably sourced food:
+- Locally-Sourced
+- Certified Organic
+- Sustainably-Fished
+(Includes one or more of the factors above.)

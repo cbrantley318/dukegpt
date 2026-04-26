@@ -1,110 +1,54 @@
-Advanced Placement (AP), International Baccalaureate (IB), and other International Placement Credit (IPC) scores received through recognized programs (e.g., College Board, IBO) have the potential to be transferred to a student's Duke academic record.
-All AP, IB, and IPC scores must be submitted directly to the Office of the University Registrar. Information on how to submit scores can be found below.
-Information about Duke credit for AP, IB, and IPC British A-Levels is provided below. If you have questions about the use of IPC for placement into Duke courses, contact your summer advisor or the Academic Advising Center. Additional international exams are reviewed as needed. Not all international exams grant credit.
-The following information regarding Duke credit earned for AP, IB, and IPC credit applies to incoming students in the 2025-2026 academic year.
-Duke Credit Earned for AP, IB, and IPC Credit
-| AP Exam | Score Earned | Duke Credit Earned | Student Eligible to Take |
-|---|---|---|---|
-| African American Studies | 4 or 5 | AAAS 20 | N/A |
-| Arts: Art History | 5 | ARTHIST 20 | 200-400-level arts courses |
-| Arts: 2-D Art and Design | 5 | ARTSVIS 21 | Advanced level arts courses |
-| Arts: 3-D Art and Design | 5 | ARTSVIS 21 | Advanced level arts courses |
-| Arts: Drawing | 5 | ARTSVIS 21 | Advanced level arts courses |
-| Biology | 4 | BIOLOGY 20 | BIOLOGY 201L or 202L |
-| Biology | 5 | BIOLOGY 21 | BIOLOGY 201L or 202L |
-| Chemistry | 4 | CHEM 20 | CHEM 110DL (fall only) or 101DL (all terms) |
-| Chemistry | 5 | CHEM 21 | CHEM 201DL-002 or 110DL (fall only), 201DL or 101DL (all terms) |
-| Chinese Language and Culture | 4 or 5 | CHINESE 203 | CHINESE 204 or 200-400-level Chinese courses depending on placement score |
-| Computer Science A | 4 or 5 | COMPSCI 101L | COMPSCI 201 |
-| Computer Science Principles | 5 | COMPSCI 20 | Any computer science course |
-| Economics: Macroeconomics | Not accepted | N/A | N/A |
-| Economics: Microeconomics | Not accepted | N/A | N/A |
-| English Language and Composition | 4 or 5 | ENGLISH 22 | Any English course |
-| English Literature and Composition | 4 or 5 | ENGLISH 20 | Any English course |
-| Environmental Science | 4 or 5 | ENVIRON 20 | ENVIRON 201 |
-| French Language and Culture | 5 | FRENCH 20 | FRENCH 204 or 300-level French courses depending on placement score |
-| German Language and Culture | 4 | GERMAN 29 | GERMAN 204 or 305S |
-| German Language and Culture | 5 | GERMAN 29 | GERMAN 305S or above |
-| History: European History | 4 or 5 | HISTORY 25 & 26 | Any history course |
-| History: United States History | 4 or 5 | HISTORY 23 & 24 | Any history course |
-| History: World History | 4 or 5 | HISTORY 21 | Any history course |
-| Human Geography | Not accepted | N/A | N/A |
-| Italian Language and Culture | 4 | ITALIAN 203 | ITALIAN 301 |
-| Italian Language and Culture | 5 | ITALIAN 203 | 300-level Italian courses |
-| Japanese Language and Culture | 4 or 5 | JPN 203 | JPN 204, 305, or 306 depending on placement score |
-| Latin | 4 | LATIN 25 | LATIN 204 |
-| Latin | 5 | LATIN 25 | 300-level Latin courses or above |
-| Math: Calculus AB | 5 | MATH 21 | MATH 122L (fall) or 112L (spring) |
-| Math: Calculus BC | 4 | MATH 21 | MATH 122L (fall) or 112L (spring) |
-| Math: Calculus BC | 5 | MATH 21 & 22 | MATH 202, 212, 218, or 221 |
-| Music Theory | 4 or 5 | MUSIC 161 | Any music course |
-| Physics 1 & 2: Algebra-Based | Not accepted | N/A | N/A |
-| Physics C: Electricity and Magnetism | 4 or 5 | PHYSICS 26 | Consult department |
-| Physics C: Mechanics | 4 or 5 | PHYSICS 25 | Consult department |
-| Political Science: Comparative Government and Politics | 4 or 5 | POLSCI 21 | 200-400-level political science courses |
-| Political Science: United States Government and Politics | 4 or 5 | POLSCI 20 | 200-400-level political science courses |
-| Psychology | 5 | PSY 11 | Any psychology course |
-| Spanish Language and Culture | 5 | SPANISH 204 | 300-level Spanish courses |
-| Spanish Literature and Culture | 4 or 5 | SPANISH 204 | 300-level Spanish courses |
-| Statistics | 5 | STA 20 | STA 101, 102, 198, or 199 |
-Duke accepts International Baccalaureate Exams at the high level (HL) only.
-| IB Exam | Score Earned | Duke Credit Earned | Student Eligible to Take |
-|---|---|---|---|
-| Biology HL | 6 | BIOLOGY 20 | BIOLOGY 201L or 202L |
-| Biology HL | 7 | BIOLOGY 21 | BIOLOGY 201L or 202L |
-| Chemistry HL | 6 | CHEM 20 | CHEM 110DL (fall only) or 101DL (all terms) |
-| Chemistry HL | 7 | CHEM 21 | CHEM 201DL-002 or 110DL (fall only), 201DL or 101DL (all terms) |
-| Chinese Language A: language and literature HL | 6 or 7 | CHINESE 203 | CHINESE 204 or 200-400 level Chinese courses depending on placement score |
-| Computer Science HL | 6 or 7 | COMPSCI 101L | COMPSCI 201 |
-| English Language A: language and literature HL | 6 or 7 | ENGLISH 20 | Any English course |
-| English Language A: literature HL | 6 or 7 | ENGLISH 20 | Any English course |
-| Environmental systems and societies HL | 6 or 7 | ENVIRON 20 | ENVIRON 201 |
-| French B HL | 6 or 7 | FRENCH 20 | FRENCH 204 or 300-level French courses depending on placement score |
-| French B: language and literature HL | 6 or 7 | FRENCH 20 | FRENCH 204 or 300-level French courses depending on placement score |
-| History HL | 6 or 7 | HISTORY 21 | Any history course |
-| Japanese B HL | 6 or 7 | JPN 203 | JPN 204 or above depending on placement score |
-| Latin HL | 6 | LATIN 25 | LATIN 204 |
-| Latin HL | 7 | LATIN 25 | 300-level Latin courses |
-| Mathematics HL | 7 | MATH 21 | MATH 122L (fall) or 112L (spring) |
-| Mathematics: analysis and approaches HL | 6 or 7 | MATH 21 | MATH 122L (fall) or 112L (spring) |
-| Mathematics: further HL | 6 | MATH 21 | MATH 122L (fall) or 112L (spring) |
-| Mathematics: further HL | 7 | MATH 21 & 22 | MATH 202, 212, 218, 221 |
-| Music HL | 6 or 7 | MUSIC 161 | Any music course |
-| Psychology HL | 7 | PSY 11 | Any psychology course |
-| Visual arts/Theatre HL | 7 | ARTSVIS 21 | Advanced level arts courses |
-| British A-Level Exam | Score Earned | Duke Credit Earned | Student Eligible to Take |
-|---|---|---|---|
-| Art and Design | A | ARTSVIS 21 | Advanced level arts courses |
-| Biology (Exam A or B) | B | BIOLOGY 20 | BIOLOGY 201L or 202L |
-| Biology (Exam A or B) | A | BIOLOGY 21 | BIOLOGY 201L or 202L |
-| Chemistry | B | CHEM 20 | CHEM 110DL (fall only) or 101DL (all terms) |
-| Chemistry | A | CHEM 21 | CHEM 201DL-002 or 110DL (fall only), 201DL or 101DL (all terms) |
-| Chinese | A or B | CHINESE 203 | CHINESE 204 or 200-400-level Chinese courses depending on placement score |
-| Computer Science | A or B | COMPSCI 101L | COMPSCI 201 |
-| English Language & Literature | A or B | ENGLISH 20 | Any English course |
-| English Literature | A or B | ENGLISH 20 | Any English course |
-| French | A | FRENCH 20 | FRENCH 204 or 300-level French courses depending on placement score |
-| German | B | GERMAN 29 | GERMAN 204 or 305S |
-| German | A | GERMAN 29 | GERMAN 305S or above |
-| History | A or B | HISTORY 21 | Any history course |
-| Mathematics | A | MATH 21 | MATH 122L (fall) or 112L (spring) |
-| Mathematics: further | A or B | MATH 21 | MATH 122L (fall) or 112L (spring) |
-| Music | A or B | MUSIC 161 | Any music course |
-| Psychology | A | PSY 11 | Any psychology course |
-| Spanish | A | SPANISH 204 | 300-level Spanish courses |
-How to Submit Scores
-Only original documents from the examination boards are accepted. Have the scores of your examinations sent directly to the Office of the University Registrar or bring your official certificates with you and present them to the Registrar’s Office when you arrive.
-All AP scores must come directly from College Board to Duke University. Student self-reported AP scores submitted to, and entered by, Undergraduate Admissions are not eligible for Duke equivalent course credit. For questions or concerns, email registrar@duke.edu and include your Student ID in the message.
-Advanced Placement (AP)
-- Go to College Board's Sending AP Scores and follow the instructions to begin the submit process.
-- Duke University's four digit code is 5156.
-- Log in at College Board's View Your AP Scores to send your scores to Duke.
-- If your last AP exam was over four years ago, go to College Board's Send or Get a Copy of Archived Scores.
-International Baccalaureate (IB)
-- Log in to My IB to have your exam scores submitted to Duke.
-- To submit your transcript request electronically, visit https://rrs.ibo.org/replacement_orders.
-International Placement Credit (IPC)
-International Placement Credit varies by country. We will accept a copy of the official test score transcript directly from the student, as they are typically the only recipient of their score report. Depending on the IPC and country, we will determine whether or not what the student provides is sufficient on a case-by-case basis and contact them if we have further requirements.
-Additional Submission and Policy Information
-We recommend that scores be submitted prior to first-year registration, but there is no submission deadline except prior to graduation. No approval is necessary to have AP, IB, and IPC scores added to a student's record.
-Duke University also recognizes various additional international standardized examinations and grants a limited amount of elective credit and placement in advanced courses for students whose performance in these examinations meets required standards. These credits may be awarded only in those subject areas for which there is an AP exam offered domestically. Not all international exams grant credit.
+Registration Dates & Information
+Groups 00-49 and 50-99 are determined by the last two digits of your Student ID. See Registration Window Groups below for more information.
+Shopping Carts open, Monday, March 23, 12:01 AM
+Graduate and Professional Students, Wednesday, April 1, 7:00 AM
+Seniors, Thursday, April 2, 7:00 AM
+Juniors
+00-49, Friday, April 3, 7:00 AM
+50-99, Monday, April 6, 7:00 AM
+Sophomores, Tuesday, April 7, 7:00 AM
+Drop/Add begins, Wednesday, April 8, 12:01 AM
+First-Years
+Shopping Carts open, Monday, June 1, 12:01 AM
+Registration begins, Wednesday, July 29, 12:00 PM
+Drop/Add for First-Years begins, Thursday, July 30, 12:01 AM
+To confirm your registration date, go to Enrollment Dates in the Enrollment section of DukeHub. Information will populate a few weeks prior to registration.
+Academic Class Definitions
+Senior means graduating in December 2026, May 2027, September 2027, or December 2027.
+Junior means graduating in May 2028, September 2028, or December 2028.
+Sophomore means graduating in May 2029, September 2029, or December 2029.
+First-Year means graduating in May 2030 or later.
+Graduate and Professional refers to students in the Divinity School, Graduate School, Nicholas School of the Environment, Pratt School of Engineering Professional Programs, Sanford School of Public Policy, and the School of Nursing. Fuqua and Law have their own registration schedules.
+Registration for classes during the summer terms is optional. The process differs from the other enrollment terms. Graduate School students will be made eligible to enroll by the Office of the University Registrar. All other students must request summer enrollment through their DukeHub account.
+Information for the Summer 2026 Session
+- The schedule of classes for all Summer 2026 terms will be available for review on Monday, February 9, 2026. Shopping carts for summer courses will also become available on this date.
+- Registration for summer courses begins on Monday, February 16, 2026, at 12:01 AM.
+- The drop/add period for summer term 1 will end on Friday, May 15, 2026, at 11:59 PM.
+- The drop/add period for summer term 2 will end on Wednesday, July 1, 2026, at 11:59 PM.
+Students have the ability to add, or drop courses from their schedules through their DukeHub account. Please review the registration help guides for additional information, including the Register for Classes help guide and the Drop If Enrolled help guide.
+All students must have a student record free of administrative and financial holds to be able to register in DukeHub. Undergraduate, divinity, and nursing students must meet with an advisor to be marked eligible to enroll. All other students are strongly encouraged to consult an advisor before registering for classes in DukeHub.
+Registration Window Groups
+Junior and sophomore classes are divided into two groups according to the last two digits of the Student ID. Student IDs are not the same as Duke Unique IDs and do not appear on your DukeCard. In DukeHub, your Student ID appears in General Information under the My Profile section. The group assigned to the first window switches each semester.
+00-49 - the last two digits of the Student ID are numerically between 00 and 49 (example: 1234543)
+50-99 - the last two digits of the Student ID are numerically between 50 and 99 (example: 1234567)
+Help guide: Find Catalog and Schedule in DukeHub
+Help guide: Grading Basis (for students)
+Help guide: Register for Classes
+Help guide: Request Summer/Winter Enrollment
+Help guide: Student Financial Responsibility Agreement
+Help guide: Student Verification of Data
+Help guide: Use Permission Numbers
+Video tutorials created by Duke Student Government.
+Who can register for classes at Duke University?
+- Undergraduate students
+- Graduate/Professional students
+- Non-degree and Continuing Studies students
+- Duke Employees
+DukeHub
+Registration is completed via DukeHub. DukeHub is the student self-service application providing students with an array of information and direct access to their academic, financial, and personal data. Access to DukeHub is gained by the use of your NetID and password.
+- DukeHub is available every day (except some Saturday mornings and holidays), seven days a week, twenty-four hours a day.
+- As a security precaution, students should change their NetID password periodically. This ID and password are your key to accessing all of the personal information contained on these pages. Don't share your password with anyone!
+- The use of DukeHub to gain access to or alter the record of registration of another person, or to gain access to restricted classes without proper permission, is a violation of the Duke Community Standard and is subject to disciplinary action.
+- For technical help, contact the OIT Help Desk at (919) 684-2200.
+- Registration and drop/add are available to all students with no outstanding financial or other obligations to the university. Students with outstanding financial obligations must make arrangements with the bursar's office before registering or attempting to drop/add. Those students who have not paid billed fees owed to, or fines imposed by, the university (such as laboratory fees, library fines, and parking fines) will not be permitted to register until the fees and fines have been paid, even if the student has paid tuition for the upcoming term.
+- Registration window times are based on Eastern Time (ET).

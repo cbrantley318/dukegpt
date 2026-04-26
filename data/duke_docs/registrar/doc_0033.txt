@@ -1,0 +1,9 @@
+Image
+Navigate to View/Drop Classes under the Enrollment menu to drop a class(es) from your schedule.
+- Select the Check box next to the enrolled or waitlisted class(es) to drop.
+- Select the Drop button.
+- Review the Drop Classes box to confirm the selected class(es) to drop. Select the Drop button to proceed or the Cancel button to keep the class(es).
+- If the Drop button is selected, review the Drop results and select the OK button. The class(es) will no longer appear in the View/Drop Classes section.
+Image
+Image
+Image

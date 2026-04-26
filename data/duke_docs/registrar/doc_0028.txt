@@ -1,20 +1,19 @@
-Duke is committed to learning and work environments that are diverse, inclusive, and accessible to all.
-Duke has robust accessibility programs focused on accommodating each individual's unique needs and making its web content universally available to all.
-Duke Access and Accommodation Services
-The Duke Access and Accommodation Services Office (DAAS) provides leadership to the Duke University and Duke Health System efforts to ensure an accessible, hospitable working and learning environment for people with disabilities while ensuring compliance with federal and state regulations. The Disability Management System serves as a centralized clearinghouse on disability related information, procedures and services.
-- Student Disability Access Office
-- Employment & Visitor Accommodations
-- ADA Facilities Office
-- Disability Resources
-- Special Event Accommodations
-Contact:
-Website: access.duke.edu
-Email: daas@duke.edu
-Phone: (919) 668-1267
-Web Accessibility
-Duke's Web Accessibility Initiative exists to ensure people with a wide range of abilities have equal access to Duke's web content. It is the central resource for information and Duke's official web accessibility guidelines.
-To sustain a universally accessible web presence the team provides training, performs regular compliance assessments, and remediation services.
-Contact:
-Website: web.accessibility.duke.edu
-Email: Contact finder
-Phone: (919) 668-1267
+Image
+To register from the Shopping Cart, navigate to Shopping Cart in the Enrollment menu of DukeHub.
+- Select the Check box next to the class(es) to enroll in for the term.
+- Select the Validate button to confirm eligibility to enroll in the class(es). Adjust selections as needed.
+- Select the Enroll button to register.
+- Review the Enrollment Results box confirm the status of the transaction.
+Image
+Image
+Image
+To register directly from the class schedule, navigate to Advanced Search or Simple Class Search in the Class Information menu.
+- Enter your search criteria to narrow down your course selection and select the Search button.
+- Select the Ellipse (Additional Actions) next to the class and select Enroll.
+- Review the Enrollment Options box and select the Save button. (NOTE: A permission number is not required to click Save.)
+- Review the Enrollment Results box and select the OK button.
+If the enrollment transaction was successful, the course will appear in the View/Drop Classes section.
+Image
+Image
+Image
+Image

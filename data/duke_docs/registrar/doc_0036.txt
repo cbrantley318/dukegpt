@@ -1,0 +1,8 @@
+Requesting Summer/Winter enrollment becomes available when Shopping Carts open.
+Registration for classes during the Summer terms is optional. Graduate School students will be made eligible to enroll by the Office of the University Registrar. All other students must request Summer enrollment through the Enrollment section of DukeHub.
+Unlike Spring and Fall, not all students enroll in Summer or Winter classes. The schedule will be visible to all students. If a student is interested in enrolling for Summer or Winter, the student must “Request Summer/Winter Enroll” in DukeHub. Students are not required to meet with their advisor for Summer or Winter enrollment. Any term not initially checked will remain and a student may return at a later date to request eligibility for that term.
+Navigate to Request Summer/Winter Enroll under the Enrollment section.
+- Select the check box next to the term in which you intend to enroll. (Multiple terms may be selected for Summer).
+- Select the Submit Data button.
+- After submitting your request, you will receive confirmation that “You may now Shopping Cart/Enroll” for the term.
+- The Validation button will not be immediately visible in the Shopping Cart; validation should be available within one hour of submitting the request.
