@@ -25,10 +25,15 @@ ollama pull llama3.2
 
 ## Adding Duke Documents
 
+<<<<<<< Updated upstream
 Place any txt docs you want for specific information retrieval
 Otherwise, run (from the dukegpt dir) the following: python src/web_scrape.py
 To collect information from the internet
 If you like, modify DUKE_SEEDS in src/web_scrape.py to add/remove domains to scrape from
+=======
+Place `.txt` files in `data/duke_docs/`. 
+Three sample files are already included, along with an additional hundred or so web scraped
+>>>>>>> Stashed changes
 
 ## Build the Knowledge Index
 

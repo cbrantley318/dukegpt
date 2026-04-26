@@ -125,8 +125,6 @@ def prompt_comparison():
     Covers the 3-pt prompt engineering rubric item.
     """
     from bot import prompts
-    import anthropic
-    client_local = anthropic.Anthropic()
 
     test_q = "When does spring break start?"
     context = "Spring Break: March 9-13, 2026 - No classes."
@@ -140,13 +138,14 @@ def prompt_comparison():
     comparison = []
     for name, system_prompt in prompt_variants.items():
         msg = f"Context:\n{context}\n\nQuestion: {test_q}"
-        resp = client_local.messages.create(
-            model="claude-opus-4-5",
-            max_tokens=200,
-            system=system_prompt,
-            messages=[{"role": "user", "content": msg}],
+        response = ollama.chat(
+            model="llama3.2",
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": msg},
+            ]
         )
-        reply = resp.content[0].text
+        reply = response["message"]["content"]
         print(f"\n{name}:\n  {reply[:150]}")
         comparison.append({"prompt": name, "reply": reply})
 
