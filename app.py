@@ -9,8 +9,8 @@ Run with:
 # Most content in this file generated with AI, using Claude Sonnet 4.6
 
 import streamlit as st
-from bot.chat import chat, reset_conversation
-from rag.retriever import build_index
+from src.bot.chat import chat, reset_conversation
+from src.rag.retriever import build_index
 
 # ── Page config ──────────────────────────────────────────────────────────────
 st.set_page_config(

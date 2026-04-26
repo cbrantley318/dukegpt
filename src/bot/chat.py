@@ -1,8 +1,8 @@
 import os
 import time
 import requests
-from bot.prompts import ACTIVE_PROMPT
-from rag.retriever import retrieve
+from .prompts import ACTIVE_PROMPT      
+from src.rag.retriever import retrieve
 # Most content in this file generated with AI, using Claude Sonnet 4.6
 
 GROQ_TOKEN = os.environ.get("GROQ_API_KEY")

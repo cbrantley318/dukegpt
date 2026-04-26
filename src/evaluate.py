@@ -20,8 +20,8 @@ import time
 import ollama
 import numpy as np
 import matplotlib.pyplot as plt
-from bot.chat import chat, reset_conversation
-from rag.embedder import compare_models_on_query
+from src.bot.chat import chat, reset_conversation
+from src.rag.embedder import compare_models_on_query
 
 os.makedirs("eval/figures", exist_ok=True)
 

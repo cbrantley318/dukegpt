@@ -1,8 +1,8 @@
 import os
 import chromadb
-from rag.chunker import load_and_chunk_all
-from rag.embedder import embed_texts
-from rag.reranker import rerank
+from .chunker import load_and_chunk_all
+from .embedder import embed_texts
+from .reranker import rerank
 
 # Most content in this file generated with AI, using Claude Sonnet 4.6
 

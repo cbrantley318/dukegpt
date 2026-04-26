@@ -7,8 +7,7 @@ Run this once before starting the app to build the ChromaDB vector index.
 
 # Most content in this file generated with AI, using Claude Sonnet 4.6
 
-from rag.retriever import build_index
-
+from src.rag.retriever import build_index
 if __name__ == "__main__":
     print("Building index with MiniLM (fast)...")
     build_index(model_key="minilm")
