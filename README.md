@@ -8,7 +8,6 @@ DukeBot is an AI-powered assistant for Duke University students. It answers ques
 
 ```bash
 pip install -r requirements.txt
-export ANTHROPIC_API_KEY="your-key-here"
 python build_index.py
 streamlit run app.py
 ```
@@ -38,11 +37,6 @@ DukeBot handles factual questions about campus resources well when the relevant 
 
 ## Individual Contributions
 
-- **Partner 1 [name]**: RAG pipeline (chunker, embedder, retriever), evaluation script, build_index.py
-- **Partner 2 [name]**: Streamlit UI, prompt engineering, documentation, demo/walkthrough videos
+- **Partner 1 [Carson]**: RAG pipeline (chunker, embedder, retriever), web scraping
+- **Partner 2 [Joyce]**: Streamlit UI, prompt engineering, documentation, demo/walkthrough videos, evaluation script, build_index.py
 
-## Design Decisions
-
-**Why Claude API over a local model?** We evaluated local models (Llama 3.1 8B via Ollama) against the Claude API. Claude produced more accurate, better-formatted responses and required no GPU for inference. The tradeoff is cost (~$0.002/query) and an external dependency, but for a student assistant with moderate usage this is acceptable.
-
-**Why sentence-transformers over OpenAI embeddings?** Sentence-transformers run locally (no additional API cost), are fast enough for our use case, and we compared two variants (MiniLM vs MPNet) to empirically select the better-performing model.
