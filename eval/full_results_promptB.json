@@ -1,0 +1,275 @@
+{
+  "iteration_1": {
+    "model": "MiniLM (all-MiniLM-L6-v2)",
+    "metrics": {
+      "accuracy": 0.4,
+      "mean_latency_sec": 5.728099012374878,
+      "retrieval_coverage": 1.0,
+      "n": 10
+    },
+    "results": [
+      {
+        "question": "What color is Duke's logo?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu. However, according to the Duke University Athletics website, Duke's primary colors are blue and white.",
+        "expected_keyword": "blue",
+        "correct": true,
+        "latency": 9.169778823852539,
+        "context_retrieved": true
+      },
+      {
+        "question": "What hours are Tandoor open?",
+        "reply": "You can find that information by checking the context provided earlier from doc_0200.txt. According to the text, Tandoor is open at the following hours:\n\n11 am - 9 pm",
+        "expected_keyword": "11 am - 9 pm",
+        "correct": true,
+        "latency": 4.06758189201355,
+        "context_retrieved": true
+      },
+      {
+        "question": "When is the last day of class?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu. However, according to the academic class definitions provided earlier, the graduation dates for different years are as follows:\n\n- Senior means graduating in December 2026, May 2027, September 2027, or December 2027.\n- Junior means graduating in May 2028, September 2028, or December 2028.\n- Sophomore means graduating in May 2029, September 2029, or December 2029.\n- First-Year means graduating in May 2030 or later.\n\nIt seems that the graduation dates vary by year. If you could specify which type of student you are (e.g., senior, junior, sophomore, first-year), I may be able to provide a more accurate answer.",
+        "expected_keyword": "april 22",
+        "correct": false,
+        "latency": 6.865519046783447,
+        "context_retrieved": true
+      },
+      {
+        "question": "What time does Perkins Library close on Friday?",
+        "reply": "Unfortunately, I don't have that information in my knowledge base, but you can check duke.edu. However, according to the chat/mail hours listed in [Source: doc_0155.txt], Saturday is not available for mail and chat, and Sunday's hours are from 10 am - 5 pm. It would be best to verify with Perkins Library directly or check their website for the most up-to-date information on their hours of operation.",
+        "expected_keyword": "10 pm",
+        "correct": false,
+        "latency": 5.187963962554932,
+        "context_retrieved": true
+      },
+      {
+        "question": "Where is the bus stop?",
+        "reply": "According to the context from Duke knowledge base, the bus stop for the C-1 (East-West) Bus Route can be found at the corner of Campus Dr. and Swift Ave.",
+        "expected_keyword": "near the chapel",
+        "correct": false,
+        "latency": 3.080254077911377,
+        "context_retrieved": true
+      },
+      {
+        "question": "What dorms are on West Campus?",
+        "reply": "According to the context from Duke's knowledge base, there are several dorms located on West Campus. You can find their specific floor plans and information in the \"Quad Floor Plans\" section of the document.\n\nSpecifically, the following dorms are mentioned:\n\n* Blue Light Quad\n* Craven Quad\n* Crowell Quad\n\nPlease note that these documents contain large files that may take a few moments to open. You can try downloading and opening them in Adobe Acrobat if needed.\n\nAdditionally, you can also refer to the \"West Campus Map\" for more information on the layout of West Campus and how these dorms are located.",
+        "expected_keyword": "few, crowell, edens, hollows, keohane",
+        "correct": false,
+        "latency": 6.161069869995117,
+        "context_retrieved": true
+      },
+      {
+        "question": "Which major is popular?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu. However, I can tell you that Duke University has a wide range of undergraduate majors across various fields, and the popularity of each major can vary from year to year. If you're interested in knowing more about popular majors or specific career paths, I recommend visiting the Duke University website or speaking with an academic advisor who can provide you with up-to-date information and guidance.",
+        "expected_keyword": "economics, computer science",
+        "correct": false,
+        "latency": 5.2975170612335205,
+        "context_retrieved": true
+      },
+      {
+        "question": "What hours are food places open?",
+        "reply": "There are several dining locations on campus with different operating hours.\n\nHere's a breakdown:\n\n- Caf\u00e9, Ginger & Soy, Gyotaku, Il Forno, JB's Roasts & Chops, It's Thyme, and Sazon are open 11 am to 9 pm.\n- Farmstead is open 11 am to 9 pm.\n- Marketplace is open from 10 am to 2:30 pm (with a dinner equivalency of $9.95) and again from 5 pm to 9 pm.\n- Panera, Pitchfork's, Red Mango are open from 7 am to 9 pm, and 7:30 am to Midnight respectively.\n- Nasher Museum Cafe is open from 11 am to 2:30 pm.\n- McDonald's is open from 8 am to 1 am.\n- Bella Union, Beyu Blue, Bseisu Coffee Bar, Caf\u00e9, Caf\u00e9 300, and The Skillet are open Sunday. \n\nYou can find the most up-to-date hours by visiting duke.edu or checking out a printed copy of these menus at one of our libraries.\n\nIf you'd like to know more about a specific location, feel free to ask!",
+        "expected_keyword": "7 am - 3 am",
+        "correct": false,
+        "latency": 9.948798179626465,
+        "context_retrieved": true
+      },
+      {
+        "question": "Does Duke offer financial aid?",
+        "reply": "Yes, Duke University is known for its generous financial aid program, which meets 100% of demonstrated need. This means that Duke will offer you the maximum amount of financial aid you're eligible for. You can estimate your aid now on our website or learn more about what goes into each part of your aid offer by reading on our site.",
+        "expected_keyword": "yes",
+        "correct": true,
+        "latency": 3.279170036315918,
+        "context_retrieved": true
+      },
+      {
+        "question": "Where is Duke located?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu. You can visit duke.edu and search for \"Duke University location\" to find the correct answer. However, according to other sources like brightleafdurham.com, Brightleaf Square (off of East Campus) is located at 905 West Main St. in downtown Durham, North Carolina.",
+        "expected_keyword": "durham",
+        "correct": true,
+        "latency": 4.223337173461914,
+        "context_retrieved": true
+      }
+    ]
+  },
+  "iteration_2": {
+    "model": "MPNet (all-mpnet-base-v2)",
+    "metrics": {
+      "accuracy": 0.2,
+      "mean_latency_sec": 1.5402060985565185,
+      "retrieval_coverage": 0.0,
+      "n": 10
+    },
+    "results": [
+      {
+        "question": "What color is Duke's logo?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu. However, I can suggest some options to help you find the answer:\n\n* Visit Duke University's official website ([www.duke.edu](http://www.duke.edu))\n* Check Duke's athletic department website or social media channels\n* Look for Duke's logo on their merchandise or brand materials\n\nYou should be able to find information about the colors of Duke's logo, including its primary and secondary colors.",
+        "expected_keyword": "blue",
+        "correct": false,
+        "latency": 2.974374771118164,
+        "context_retrieved": false
+      },
+      {
+        "question": "What hours are Tandoor open?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu for the most up-to-date hours of operation for Tandoori Nights (also known as Tandoori).",
+        "expected_keyword": "11 am - 9 pm",
+        "correct": false,
+        "latency": 1.2853801250457764,
+        "context_retrieved": false
+      },
+      {
+        "question": "When is the last day of class?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu or your official Duke University course schedule.",
+        "expected_keyword": "april 22",
+        "correct": false,
+        "latency": 0.8905463218688965,
+        "context_retrieved": false
+      },
+      {
+        "question": "What time does Perkins Library close on Friday?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu. You can try searching for \"Perkins Library hours\" or checking the Duke University Libraries website to find the most up-to-date information on library hours.",
+        "expected_keyword": "10 pm",
+        "correct": false,
+        "latency": 1.4588019847869873,
+        "context_retrieved": false
+      },
+      {
+        "question": "Where is the bus stop?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu.",
+        "expected_keyword": "near the chapel",
+        "correct": false,
+        "latency": 0.6979000568389893,
+        "context_retrieved": false
+      },
+      {
+        "question": "What dorms are on West Campus?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu. You can visit the Duke University Housing website to see a list of residence halls by campus and also search for specific buildings along with what's available to make sure you find your desired location.",
+        "expected_keyword": "few, crowell, edens, hollows, keohane",
+        "correct": false,
+        "latency": 1.6444170475006104,
+        "context_retrieved": false
+      },
+      {
+        "question": "Which major is popular?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu to see which majors are most popular among current Duke University students.",
+        "expected_keyword": "economics, computer science",
+        "correct": false,
+        "latency": 0.9919171333312988,
+        "context_retrieved": false
+      },
+      {
+        "question": "What hours are food places open?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu or visit the Duke University Dining website for specific hours of operation for on-campus food establishments. They typically list their daily hours and any seasonal changes.",
+        "expected_keyword": "7 am - 3 am",
+        "correct": false,
+        "latency": 1.4075026512145996,
+        "context_retrieved": false
+      },
+      {
+        "question": "Does Duke offer financial aid?",
+        "reply": "Context not provided, but I have access to general information on Duke University's financial aid policies.\n\nYes, Duke University offers various forms of financial aid to help students fund their education. These can include scholarships, grants, loans, and work-study programs. The university also participates in the Federal Pell Grant program and other federal student loan programs.\n\nTo learn more about Duke's financial aid offerings and eligibility requirements, I recommend visiting the Duke Financial Aid website or contacting the Office of Student Financial Services directly.",
+        "expected_keyword": "yes",
+        "correct": true,
+        "latency": 2.7998740673065186,
+        "context_retrieved": false
+      },
+      {
+        "question": "Where is Duke located?",
+        "reply": "Duke University is located in Durham, North Carolina. The university's main campus spans over 2,600 acres and is situated at 369 North Broad Street, Durham, NC 27706.",
+        "expected_keyword": "durham",
+        "correct": true,
+        "latency": 1.2513468265533447,
+        "context_retrieved": false
+      }
+    ]
+  },
+  "iteration_3": {
+    "model": "no rag",
+    "metrics": {
+      "accuracy": 0.3,
+      "mean_latency_sec": 1.4007559299468995,
+      "retrieval_coverage": 0.0,
+      "n": 10
+    },
+    "results": [
+      {
+        "question": "What color is Duke's logo?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu. However, I can tell you that the Blue Devils, Duke University's athletic teams, are known for their distinctive blue and white colors. The primary colors of Duke University's logo are blue and white, with blue being the more prominent color.",
+        "expected_keyword": "blue",
+        "correct": true,
+        "latency": 1.8919100761413574,
+        "context_retrieved": false
+      },
+      {
+        "question": "What hours are Tandoor open?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu or the Duke University dining website for the most up-to-date information on Tandoor's hours.",
+        "expected_keyword": "11 am - 9 pm",
+        "correct": false,
+        "latency": 1.1869051456451416,
+        "context_retrieved": false
+      },
+      {
+        "question": "When is the last day of class?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu.",
+        "expected_keyword": "april 22",
+        "correct": false,
+        "latency": 0.6648592948913574,
+        "context_retrieved": false
+      },
+      {
+        "question": "What time does Perkins Library close on Friday?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu for the most up-to-date hours of operation for Perkins Library or contact their staff directly.",
+        "expected_keyword": "10 pm",
+        "correct": false,
+        "latency": 1.0678000450134277,
+        "context_retrieved": false
+      },
+      {
+        "question": "Where is the bus stop?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu or visit the Duke University Transportation Services website to find the location of bus stops on campus. They should be able to provide you with up-to-date information about bus routes and stops.",
+        "expected_keyword": "near the chapel",
+        "correct": false,
+        "latency": 1.524902105331421,
+        "context_retrieved": false
+      },
+      {
+        "question": "What dorms are on West Campus?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu for the most up-to-date information on Duke University's residence halls. However, I can suggest checking the official Duke University website or contacting their housing office directly to find out which dorms are located on West Campus.",
+        "expected_keyword": "few, crowell, edens, hollows, keohane",
+        "correct": false,
+        "latency": 1.7077901363372803,
+        "context_retrieved": false
+      },
+      {
+        "question": "Which major is popular?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu or visit the Duke University website to see which majors are most popular among current students or recent graduates.",
+        "expected_keyword": "economics, computer science",
+        "correct": false,
+        "latency": 1.113156795501709,
+        "context_retrieved": false
+      },
+      {
+        "question": "What hours are food places open?",
+        "reply": "I don't have that information in my knowledge base, but you can check duke.edu for the most up-to-date information on food establishments' hours of operation on campus.",
+        "expected_keyword": "7 am - 3 am",
+        "correct": false,
+        "latency": 1.0850777626037598,
+        "context_retrieved": false
+      },
+      {
+        "question": "Does Duke offer financial aid?",
+        "reply": "Context: Financial Aid - Duke University offers various types of financial aid to help students cover the cost of attendance. These include grants, scholarships, loans, and work-study programs. The university's financial aid office works with families and individual students to create a personalized plan.\n\nDukeBot: Yes, Duke University offers financial aid to its students. The office can be contacted for more information on available aid options and the application process.",
+        "expected_keyword": "yes",
+        "correct": true,
+        "latency": 2.3934648036956787,
+        "context_retrieved": false
+      },
+      {
+        "question": "Where is Duke located?",
+        "reply": "I have that information in my knowledge base. Duke University is located in Durham, North Carolina, United States. Specifically, its main campus is situated at 3701 Broad Street, Durham, NC 27705.",
+        "expected_keyword": "durham",
+        "correct": true,
+        "latency": 1.3716931343078613,
+        "context_retrieved": false
+      }
+    ]
+  }
+}

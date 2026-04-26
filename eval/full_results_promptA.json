@@ -1,0 +1,275 @@
+{
+  "iteration_1": {
+    "model": "MiniLM (all-MiniLM-L6-v2)",
+    "metrics": {
+      "accuracy": 0.1,
+      "mean_latency_sec": 4.797787022590637,
+      "retrieval_coverage": 1.0,
+      "n": 10
+    },
+    "results": [
+      {
+        "question": "What color is Duke's logo?",
+        "reply": "According to the provided context, Duke's logo used to identify website is a Duke Student Affairs logo, and it has two logos, but only one is mentioned. However, that logo is not explicitly stated as having a specific color in the text.",
+        "expected_keyword": "blue",
+        "correct": false,
+        "latency": 9.71361517906189,
+        "context_retrieved": true
+      },
+      {
+        "question": "What hours are Tandoor open?",
+        "reply": "According to the provided context, Tandoor is open from 11 am to 9 pm.",
+        "expected_keyword": "11 am - 9 pm",
+        "correct": false,
+        "latency": 3.5667812824249268,
+        "context_retrieved": true
+      },
+      {
+        "question": "When is the last day of class?",
+        "reply": "Unfortunately, there isn't any specific information about the last day of class in the provided context. However, I can tell you that graduation dates are mentioned for various student groups:\n\n- Graduate and Professional Students: May 8 Commencement Ceremonies Begin\n- Juniors: No specific date mentioned, but it is stated that they will be graduating on one of three possible days in December 2028 or September 2028.\n- Sophomores: No specific date mentioned, but it is stated that they will be graduating on one of three possible days in May 2029, September 2029, or December 2029.\n- First-Years: Graduating in May 2030 or later.\n\nThese graduation dates may indicate the last day of class, but without more information, I cannot confirm this.",
+        "expected_keyword": "april 22",
+        "correct": false,
+        "latency": 7.1788880825042725,
+        "context_retrieved": true
+      },
+      {
+        "question": "What time does Perkins Library close on Friday?",
+        "reply": "Unfortunately, I couldn't find that information in the provided context. The closing hours of Perkins Library are mentioned for Monday (6:30 to 8 PM), Thursday through Saturday (no specific hours given), and Sunday (10 am - 5 pm). However, there is no mention of Friday's closing time.",
+        "expected_keyword": "10 pm",
+        "correct": false,
+        "latency": 4.524425983428955,
+        "context_retrieved": true
+      },
+      {
+        "question": "Where is the bus stop?",
+        "reply": "The bus stop is located at the corner of Campus Dr. and Swift Ave.",
+        "expected_keyword": "near the chapel",
+        "correct": false,
+        "latency": 2.171900987625122,
+        "context_retrieved": true
+      },
+      {
+        "question": "What dorms are on West Campus?",
+        "reply": "According to the provided context, the following dorms are listed as being located on West Campus:\n\n* Blue Light Quad\n* Craven Quad\n* Crowell Quad\n* Edens (multiple buildings)\n* Few Quad\n* Hollows (multiple buildings)\n\nNote that these lists may not be exhaustive, and additional information about specific dorms or buildings is not provided in the context.",
+        "expected_keyword": "few, crowell, edens, hollows, keohane",
+        "correct": false,
+        "latency": 4.621408939361572,
+        "context_retrieved": true
+      },
+      {
+        "question": "Which major is popular?",
+        "reply": "I couldn't find any information on specific major popularity in the context provided. The text only discusses the Trinity undergraduates' first-year experience, course selection, and university dining programs, but doesn't mention anything about majors or their popularity.",
+        "expected_keyword": "economics, computer science",
+        "correct": false,
+        "latency": 4.028998851776123,
+        "context_retrieved": true
+      },
+      {
+        "question": "What hours are food places open?",
+        "reply": "According to the provided context, here are the opening hours for various food places on campus:\n\n* Freeman Center Cafe: Monday-Wednesday (12:00pm - 7:30pm) and Friday (12:00pm - 2:00pm)\n* Blue Devil Bagels Pop-Up Bagel Shop: Thursday (12:00pm - 7:30pm)\n* GPSG Community Pantry: Every Friday from 2:00 p.m. to 6:00 p.m.\n\nPlease note that some places may have different hours during holidays or breaks, but these are the standard hours mentioned in the context.",
+        "expected_keyword": "7 am - 3 am",
+        "correct": false,
+        "latency": 7.279897928237915,
+        "context_retrieved": true
+      },
+      {
+        "question": "Does Duke offer financial aid?",
+        "reply": "Yes, according to the text, Duke meets demonstrated need 100%, which means they will offer you the maximum amount of financial aid you're eligible for.",
+        "expected_keyword": "yes",
+        "correct": true,
+        "latency": 2.415648937225342,
+        "context_retrieved": true
+      },
+      {
+        "question": "Where is Duke located?",
+        "reply": "The location of Duke University is not explicitly stated in the provided context.",
+        "expected_keyword": "durham",
+        "correct": false,
+        "latency": 2.476304054260254,
+        "context_retrieved": true
+      }
+    ]
+  },
+  "iteration_2": {
+    "model": "MPNet (all-mpnet-base-v2)",
+    "metrics": {
+      "accuracy": 0.3,
+      "mean_latency_sec": 1.5306910276412964,
+      "retrieval_coverage": 0.0,
+      "n": 10
+    },
+    "results": [
+      {
+        "question": "What color is Duke's logo?",
+        "reply": "The context doesn't provide specific information about a particular Duke institution or logo being referred to, but I can tell you that Duke University's athletic teams are often associated with blue and white colors (the primary colors of the university). However, without more specific information, it's difficult to determine which color is considered part of the Duke logo.",
+        "expected_keyword": "blue",
+        "correct": true,
+        "latency": 2.057137966156006,
+        "context_retrieved": false
+      },
+      {
+        "question": "What hours are Tandoor open?",
+        "reply": "I'm not aware of any information about \"Tandoor\" being an establishment or location on Duke University's campus. It's possible that it might be a building, department, or event, but I don't have enough context to provide the operating hours. Can you please clarify what Tandoor refers to?",
+        "expected_keyword": "11 am - 9 pm",
+        "correct": false,
+        "latency": 1.943753957748413,
+        "context_retrieved": false
+      },
+      {
+        "question": "When is the last day of class?",
+        "reply": "I'm not aware of the specific last day of class for this term. As a Duke University student assistant, I would recommend checking with the registrar's office or the university's website to confirm the exact dates.",
+        "expected_keyword": "april 22",
+        "correct": false,
+        "latency": 1.5215580463409424,
+        "context_retrieved": false
+      },
+      {
+        "question": "What time does Perkins Library close on Friday?",
+        "reply": "I don't have that information. As a Duke University student assistant, I'm not aware of specific hours for Perkins Library, especially on Fridays. You may want to check the Duke Libraries website or contact them directly for the most up-to-date information.",
+        "expected_keyword": "10 pm",
+        "correct": false,
+        "latency": 1.6501703262329102,
+        "context_retrieved": false
+      },
+      {
+        "question": "Where is the bus stop?",
+        "reply": "I'm not sure about the specific location of the bus stop. As a Duke University student assistant, I'm more familiar with navigating the campus than public transportation routes. Can you give me a bit more context or information about which bus you're trying to catch?",
+        "expected_keyword": "near the chapel",
+        "correct": false,
+        "latency": 1.5607860088348389,
+        "context_retrieved": false
+      },
+      {
+        "question": "What dorms are on West Campus?",
+        "reply": "On West Campus, the following dorms are located:\n\n* Brodie Hall\n* Hinton James Residence\n* Latta Place \n* McKinney Tower \n* West Campus Dorms",
+        "expected_keyword": "few, crowell, edens, hollows, keohane",
+        "correct": false,
+        "latency": 1.205305814743042,
+        "context_retrieved": false
+      },
+      {
+        "question": "Which major is popular?",
+        "reply": "I'm not sure which major is specifically popular at Duke University. I can tell you about the university's general popularity or academic reputation, but I don't have access to up-to-date information on specific major trends. However, Duke is known for its strong programs in the sciences, humanities, and social sciences.",
+        "expected_keyword": "economics, computer science",
+        "correct": false,
+        "latency": 1.982923984527588,
+        "context_retrieved": false
+      },
+      {
+        "question": "What hours are food places open?",
+        "reply": "I don't have that information. I'm a student assistant at Duke University, but my role doesn't provide specific details about individual food establishments or their operating hours. If you're looking for the hours of a particular dining hall or restaurant on campus, I can suggest checking the Duke Dining website or contacting the dining services department directly for more information.",
+        "expected_keyword": "7 am - 3 am",
+        "correct": false,
+        "latency": 2.1103391647338867,
+        "context_retrieved": false
+      },
+      {
+        "question": "Does Duke offer financial aid?",
+        "reply": "Yes, Duke University offers various forms of financial aid to help students cover the cost of attendance.",
+        "expected_keyword": "yes",
+        "correct": true,
+        "latency": 0.7613999843597412,
+        "context_retrieved": false
+      },
+      {
+        "question": "Where is Duke located?",
+        "reply": "Duke University is located in Durham, North Carolina.",
+        "expected_keyword": "durham",
+        "correct": true,
+        "latency": 0.5135350227355957,
+        "context_retrieved": false
+      }
+    ]
+  },
+  "iteration_3": {
+    "model": "no rag",
+    "metrics": {
+      "accuracy": 0.3,
+      "mean_latency_sec": 1.7935814142227173,
+      "retrieval_coverage": 0.0,
+      "n": 10
+    },
+    "results": [
+      {
+        "question": "What color is Duke's logo?",
+        "reply": "The Blue Devils' logo, which represents Duke University, features a blue color scheme primarily. The exact shades may vary, but blue is the dominant color.",
+        "expected_keyword": "blue",
+        "correct": true,
+        "latency": 0.9930939674377441,
+        "context_retrieved": false
+      },
+      {
+        "question": "What hours are Tandoor open?",
+        "reply": "I couldn't find any information on \"Tandoor\" being an actual location or entity at Duke University. Could you be referring to a specific dining hall or building with that name? If not, I'm not aware of the current operating hours of any specific food establishment on campus.",
+        "expected_keyword": "11 am - 9 pm",
+        "correct": false,
+        "latency": 1.635793924331665,
+        "context_retrieved": false
+      },
+      {
+        "question": "When is the last day of class?",
+        "reply": "I'm not aware of your class schedule or the current academic year's dates. I can suggest checking with Duke University's student information website, your department's website, or speaking with an advisor for the most up-to-date and accurate information about the last day of class.",
+        "expected_keyword": "april 22",
+        "correct": false,
+        "latency": 1.6226277351379395,
+        "context_retrieved": false
+      },
+      {
+        "question": "What time does Perkins Library close on Friday?",
+        "reply": "I'm not sure what time Perkins Library closes on Fridays. The information I have is current up to my knowledge cutoff date (December 2023), but I don't have real-time data or the most recent updates on library hours. For the most accurate and up-to-date information, I recommend checking with Duke University's website or contacting their library directly.",
+        "expected_keyword": "10 pm",
+        "correct": false,
+        "latency": 2.054288864135742,
+        "context_retrieved": false
+      },
+      {
+        "question": "Where is the bus stop?",
+        "reply": "I'm not sure where the bus stop is located on campus. Could you provide more context or information about which bus stop you're referring to? Are you talking about the Durham Area Rapid Transit (DART) system, or perhaps a shuttle service for Duke students?",
+        "expected_keyword": "near the chapel",
+        "correct": false,
+        "latency": 1.602734088897705,
+        "context_retrieved": false
+      },
+      {
+        "question": "What dorms are on West Campus?",
+        "reply": "Duke's West Campus is home to several residence halls, including:\n\n* Nasher Residence Hall\n* Baker Memorial Center (it's not a traditional dorm but has rooms for students)\n \nHowever, I can confirm that Nasher is the primary residence hall located on West Campus.",
+        "expected_keyword": "few, crowell, edens, hollows, keohane",
+        "correct": false,
+        "latency": 1.6925697326660156,
+        "context_retrieved": false
+      },
+      {
+        "question": "Which major is popular?",
+        "reply": "I'm not sure which specific major is currently popular at Duke University. However, based on my knowledge of the university's programs and student interests, I can tell you that some popular majors include Engineering, Computer Science, Business Administration, Biology, and Psychology. But for the most up-to-date information, I recommend checking with the university's academic department or the Duke University website.",
+        "expected_keyword": "economics, computer science",
+        "correct": false,
+        "latency": 2.0860049724578857,
+        "context_retrieved": false
+      },
+      {
+        "question": "What hours are food places open?",
+        "reply": "I'm not aware of any specific information about food places at Duke University that I can access as a student assistant. However, I can suggest checking the university's website or the Duke Student Resource Portal for a list of on-campus dining locations and their operating hours.\n\nThat being said, most on-campus restaurants and cafes are typically open during the following general hours:\n\n- Breakfast: 7:00 AM - 11:00 AM\n- Lunch: 11:00 AM - 2:30 PM\n- Dinner: 5:00 PM - 8:30 PM (varies by location)\n\nPlease note that these hours may be subject to change, especially during holidays or special events. I would recommend checking the specific restaurants' websites or contacting their customer service for more accurate and up-to-date information.",
+        "expected_keyword": "7 am - 3 am",
+        "correct": false,
+        "latency": 4.36286997795105,
+        "context_retrieved": false
+      },
+      {
+        "question": "Does Duke offer financial aid?",
+        "reply": "Yes, Duke University offers various forms of financial aid to help students cover the cost of tuition, fees, room, and board. This includes need-based grants, scholarships, loans, and work-study programs.",
+        "expected_keyword": "yes",
+        "correct": true,
+        "latency": 1.3575129508972168,
+        "context_retrieved": false
+      },
+      {
+        "question": "Where is Duke located?",
+        "reply": "Duke University is located in Durham, North Carolina.",
+        "expected_keyword": "durham",
+        "correct": true,
+        "latency": 0.528317928314209,
+        "context_retrieved": false
+      }
+    ]
+  }
+}
