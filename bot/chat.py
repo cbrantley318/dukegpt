@@ -7,7 +7,7 @@ from rag.retriever import retrieve
 # Most content in this file generated with AI, using Claude Sonnet 4.6
 
 HF_TOKEN = os.environ.get("HF_TOKEN")
-HF_MODEL = "mistralai/Mistral-7B-Instruct-v0.1"
+HF_MODEL = "Qwen/Qwen2.5-7B-Instruct"
 HF_API_URL = f"https://router.huggingface.co/hf-inference/models/{HF_MODEL}/v1/chat/completions"
 
 MAX_TURNS_BEFORE_SUMMARY = 6
