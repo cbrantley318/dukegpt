@@ -6,7 +6,8 @@ from rag.retriever import retrieve
 # Most content in this file generated with AI, using Claude Sonnet 4.6
 
 GROQ_TOKEN = os.environ.get("GROQ_API_KEY")
-GROQ_MODEL = "openai/gpt-oss-20b"
+# GROQ_MODEL = "openai/gpt-oss-20b"
+GROQ_MODEL = "llama-3.3-70B-versatile"
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 MAX_TURNS_BEFORE_SUMMARY = 6
