@@ -29,18 +29,17 @@ os.makedirs("eval/figures", exist_ok=True)
 # Test questions — mix of questions the bot should answer and some it won't
 # ---------------------------------------------------------------------------
 TEST_QUESTIONS = [
-    
-    {"q": "What color is Duke's logo?", "expected_keyword": "bruh"},
-    {"q": "What hours are tandoor open?", "expected_keyword": "bruh"},
-    {"q": "When is the last day of class?", "expected_keyword": "bruh"},
-    {"q": "What time does Perkins library close on Friday?", "expected_keyword": "bruh"},
-    {"q": "Where is the bus stop?", "expected_keyword": "bruh"},
-    {"q": "What dorms are on West Campus?", "expected_keyword": "bruh"},
-    {"q": "Which major is popular?", "expected_keyword": "bruh"},
-    {"q": "What hours are food places open?", "expected_keyword": "bruh"},
-    {"q": "Does Duke offer financial aid?", "expected_keyword": "bruh"},
-    {"q": "Where is Duke located?", "expected_keyword": "bruh"},
-
+    # General campus knowledge
+    {"q": "What color is Duke's logo?", "expected_keyword": "blue"},
+    {"q": "What hours are Tandoor open?", "expected_keyword": "11 am - 9 pm"},
+    {"q": "When is the last day of class?", "expected_keyword": "april 22"},
+    {"q": "What time does Perkins Library close on Friday?", "expected_keyword": "10 pm"},
+    {"q": "Where is the bus stop?", "expected_keyword": "near the chapel"},
+    {"q": "What dorms are on West Campus?", "expected_keyword": "few, crowell, edens, hollows, keohane"},
+    {"q": "Which major is popular?", "expected_keyword": "economics, computer science"},
+    {"q": "What hours are food places open?", "expected_keyword": "7 am - 3 am"},
+    {"q": "Does Duke offer financial aid?", "expected_keyword": "yes"},
+    {"q": "Where is Duke located?", "expected_keyword": "durham"},
 ]
 
 
@@ -61,8 +60,6 @@ def run_evaluation(model_key: str = "minilm", use_rag: bool = True) -> dict:
             "context_retrieved": bool(context),
         })
         print(f"{'✓' if hit else '✗'} [{latency:.2f}s] {item['q'][:60]}")
-        print(reply)
-        time.sleep(1)
 
     return results
 
@@ -175,24 +172,50 @@ def embedding_model_comparison():
         for text, score in hits:
             print(f"  [{score:.3f}] {text[:80]}")
 
+def save_full_results(results_v1: list[dict], results_v2: list[dict], results_v3: list[dict],
+                      metrics_v1: dict, metrics_v2: dict, metrics_v3: dict):
+    """Save all evaluation results to a single JSON file."""
+    full_report = {
+        "iteration_1": {
+            "model": "MiniLM (all-MiniLM-L6-v2)",
+            "metrics": metrics_v1,
+            "results": results_v1,
+        },
+        "iteration_2": {
+            "model": "MPNet (all-mpnet-base-v2)",
+            "metrics": metrics_v2,
+            "results": results_v2,
+        },
+        "iteration_3": {
+            "model": "no rag",
+            "metrics": metrics_v3,
+            "results": results_v3,
+        }
+    }
+    with open("eval/full_results.json", "w") as fp:
+        json.dump(full_report, fp, indent=2)
+    print("\nSaved eval/full_results.json")
+
 
 if __name__ == "__main__":
     print("=== Iteration 1: MiniLM embeddings ===")
     results_v1 = run_evaluation(model_key="minilm")
     metrics_v1 = compute_metrics(results_v1)
-    print("\nMetrics:", results_v1)
+    print("\nMetrics:", metrics_v1)
 
     print("\n=== Iteration 2: MPNet embeddings ===")
     results_v2 = run_evaluation(model_key="mpnet")
     metrics_v2 = compute_metrics(results_v2)
-    print("\nMetrics:", results_v2)
-
-    print("\n=== Iteration 3: No RAG used ===")
-    results_v2 = run_evaluation(model_key="minilm", use_rag=False)
-    metrics_v2 = compute_metrics(results_v2)
-    print("\nMetrics:", results_v2)
+    print("\nMetrics:", metrics_v2)
+    
+    print("\n=== Iteration 3: No RAG ===")
+    results_v3 = run_evaluation(model_key="mpnet", use_rag=False)
+    metrics_v3 = compute_metrics(results_v3)
+    print("\nMetrics:", metrics_v3)
 
     # plot_metrics(metrics_v1, metrics_v2)
     # error_analysis(results_v1)
     # prompt_comparison()
     # embedding_model_comparison()
+    
+    save_full_results(results_v1, results_v2, results_v3, metrics_v1, metrics_v2, metrics_v3) 
