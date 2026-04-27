@@ -214,8 +214,5 @@ MPNet outperforms MiniLM in terms of accuracy due to stronger semantic embedding
 ## Individual Contributions
 
 - **Partner 1 [Carson]**: RAG pipeline (chunker, embedder, retriever), web scraping
-- **Partner 2 [Joyce]**: Streamlit UI, prompt engineering, documentation, demo/walkthrough videos, evaluation script, build_index.py
-
-
-
-
+- **Partner 2 [Joyce]**: Streamlit UI, prompt engineering, evaluation script, build_index.py
+- We both worked on the demo and technical videos and documentation. 
