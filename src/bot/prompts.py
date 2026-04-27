@@ -11,7 +11,6 @@ Answer questions using only the context provided. If the answer isn't in the con
 Be concise and accurate."""
 
 # Prompt B — few-shot with chain-of-thought
-# This also covers the 5-pt "in-context learning / few-shot / chain-of-thought" rubric item
 PROMPT_B = """You are DukeBot, a helpful AI assistant for Duke University students.
 You have access to a Duke knowledge base provided as context with each message.
 
@@ -43,4 +42,4 @@ Guidelines:
 - When relevant, mention specific times, locations, or contact info from the context."""
 
 # The prompt we actually use in production (change this to test different ones)
-ACTIVE_PROMPT = PROMPT_B
+ACTIVE_PROMPT = PROMPT_C
