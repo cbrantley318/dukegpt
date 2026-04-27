@@ -19,7 +19,9 @@ See [SETUP.md](SETUP.md) for full installation instructions.
 ## Video Links
 
 - **Demo video**: [[link](https://duke.zoom.us/rec/share/GppwvIGoUK2A_K07TWVJ9zKkart1teJ_DQhJlQFYmj21lsxpyLxbXccdBJXRiBiU.PrfU0e1wCVpZpGJg?startTime=1777249399000)]
-- **Technical walkthrough**: [[link](https://duke.zoom.us/rec/share/kj0-0PJC-xIqDX7mZzio0EfQ8Zuc-ucxmT7plh7KKVc4_-y5LPVA6WbHJQ_C2Gc6.sl37maqWTkNnTNTB)]
+- **Technical walkthrough**: [[link](https://duke.zoom.us/rec/share/5JmVGhk4cSFjTL819540vyHzRk8CrGrJ1TRo2KB8rCVcpSBEZhcx5aQUGHVjNHlO.VOaPWpxq2mz-wZ6s?startTime=1777251548000)]
+
+
 
 ## Evaluation
 
