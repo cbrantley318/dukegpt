@@ -2,7 +2,7 @@
 
 ## What it Does
 
-DukeBot is an AI-powered assistant for Duke University students. It answers questions about campus life — dining hours, library hours, academic deadlines, health resources, and more — by combining the Claude language model with a custom Retrieval-Augmented Generation (RAG) pipeline built on Duke-specific documents. Students can ask questions in natural language through a Streamlit web interface, and DukeBot retrieves relevant information from its Duke knowledge base before generating a grounded, accurate response.
+DukeBot is an AI-powered assistant for Duke University students. It answers questions about campus life — dining hours, library hours, academic deadlines, health resources, and more — by combining the Llama3.3 language model with a custom Retrieval-Augmented Generation (RAG) pipeline built on Duke-specific documents from the web. Students can ask questions in natural language through a Streamlit web interface, and DukeBot retrieves relevant information from its Duke knowledge base before generating a grounded, accurate response.
 
 ## Quick Start
 
