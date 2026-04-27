@@ -1,8 +1,6 @@
 """
 rag/reranker.py
 Cross-encoder reranking of retrieved chunks.
-This is the third technique for the custom RAG pipeline rubric item,
-alongside custom chunking and embedding model comparison.
 """
 
 from sentence_transformers import CrossEncoder
