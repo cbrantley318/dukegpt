@@ -22,9 +22,8 @@ See [SETUP.md](SETUP.md) for full installation instructions.
 - **Technical walkthrough**: [[link](https://duke.zoom.us/rec/share/kj0-0PJC-xIqDX7mZzio0EfQ8Zuc-ucxmT7plh7KKVc4_-y5LPVA6WbHJQ_C2Gc6.sl37maqWTkNnTNTB)]
 
 ## Evaluation
-# DukeBot Evaluation
 
-## Overview
+### Overview
 
 This document presents a comprehensive evaluation of DukeBot across multiple dimensions:
 prompt engineering comparison, quantitative metrics, error analysis, edge case behavior,
@@ -32,14 +31,14 @@ and qualitative assessment.
 
 ---
 
-## 1. Prompt Engineering Comparison
+### 1. Prompt Engineering Comparison
 
 We designed and tested three system prompt variants with different design philosophies
 to determine which approach produced the most accurate, helpful, and appropriately
 grounded responses. This is run using Llama 3.2 via Ollama with the
 MiniLM embedding mode. Full prompts are shown in bot/prompts.py.
 
-### Prompt Descriptions
+#### Prompt Descriptions
 
 **Prompt A — Minimal/Direct**
 A short, concise prompt that instructs the bot to answer only from context and refuse
@@ -75,13 +74,13 @@ You are DukeBot, a friendly and knowledgeable assistant built specifically for D
 
 ---
 
-### Comparison Table
+#### Comparison Table
 
 We tested all three prompts on four questions covering different scenarios: a factual
 in-context query, a missing-information query, a wellbeing query (tests tone), and a
 multi-part query (tests depth).
 
-#### Question 1: "What time is Tandoor open?"
+##### Question 1: "What time is Tandoor open?"
 *(In-context factual query — answer exists in knowledge base)*
 
 | Prompt | Response |
@@ -92,7 +91,7 @@ multi-part query (tests depth).
 
 Comparing the responses, prompt A produced the most rigid and factual response and explicitly referenced the source document. This leads to high precision but a slightly rigid tone. Prompt B removes the explicit citation and instead delivers a clean, direct answer, reflecting how the few-shot examples encourage concise, well-formed responses without unnecessary detail. Prompt C maintains correctness but adds a friendly, conversational element, consistent with its persona-driven design, making the response more casual.
 
-#### Question 2: "How much does parking cost at Duke?"
+##### Question 2: "How much does parking cost at Duke?"
 *(Missing-information query — answer not in knowledge base)*
 
 | Prompt | Response |
@@ -103,7 +102,7 @@ Comparing the responses, prompt A produced the most rigid and factual response a
 
 This question specifically tested how the bot would answer a question that was not available in our provided documents. Prompt A produces a strict refusal that closely adheres to the instruction to rely only on provided context. It clearly explains that the information is missing, but the response is verbose and somewhat rigid, reflecting the minimal prompt’s emphasis on precision over usability. Prompt B gives a concise fallback response by suggesting an external resource. It is more generic and less informative. Prompt C demonstrates the impact of the persona-driven design by combining a clear acknowledgment of missing information with helpful, specific suggestions, resulting in a more user-friendly and actionable response.
 
-#### Question 3: "What should I do if I'm feeling stressed or overwhelmed?"
+##### Question 3: "What should I do if I'm feeling stressed or overwhelmed?"
 *(Tone test — tests difference between strict vs. warm prompts)*
 
 | Prompt | Response |
@@ -116,9 +115,9 @@ Prompt A produces a factual, context-grounded response that lists available reso
 
 Overall, it is clear that all prompts answer the questions, or try to answer to the best of their abilities, and acknowledge when the database does not have the available information. In terms of user-friendliness, prompts B and C are much better than prompt A, which makes sense because prompt A is very short and direct, which makes many of prompt A's responses sound too rigid. Prompt B provides clarity and consistent, well-formatted responses, while Prompt C enhances user experience through a more conversational and supportive tone, making interactions feel more natural and engaging. Prompt C's responses are typically longer than all of the other prompts, and could seem unnecessary compared to the other repsonses. In general, depending on whether we prioritize structured accuracy and consistency or a more conversational and supportive user experience, we would choose Prompt B or Prompt C, respectively.
 
-## 2. Metric Analysis
+### 2. Metric Analysis
 
-### 1. Inference Time / Latency
+#### 1. Inference Time / Latency
 | Model / Backend        | Average Response Latency (seconds) |
 |------------------------|-------------------|
 | Local Llama 3.2        | 4.83 s            |
@@ -126,7 +125,7 @@ Overall, it is clear that all prompts answer the questions, or try to answer to 
 
 Both measurements used miniLM for the RAG document embeddings with prompt B using the same 10 questions. 
 
-### 2. Accuracy
+#### 2. Accuracy
 | Model      | Accuracy (%) |
 |------------------------|-------------------|
 | with miniLM RAG       |        70     |
@@ -145,7 +144,7 @@ We measured accuracy with prompt C using the same 10 questions and checked the r
 - Where is Duke located?
 
 
-### 3. Mean response length (words)
+#### 3. Mean response length (words)
 | Prompt        | Mean Response Length (words) |
 |------------------------|-------------------|
 | A (minimal)       | 77.6            |
@@ -156,7 +155,7 @@ We computed the mean response length with prompts A, B, and C (described in sect
 
 Detailed analysis for all metrics is under section 3. Quantiative and Qualitative Evaluation.
 
-## 3. Quantitative and Qualitative Evaluation
+### 3. Quantitative and Qualitative Evaluation
 See above tables for quantitative results.
 The GROQ API is significantly faster (6-7x speedup) than the locally hosted llama 3.2 model. This is expected since it uses optimized hosted infrastructure rather than local execution. The local Llama model introduces higher latency due to CPU/GPU overhead and embedding + retrieval pipeline costs. Additionally, we're not able to deploy a local llama model, which is the main reason why we transitioned to using the GROQ API so that we were able to deploy our web app on Streamlit. 
 
@@ -164,7 +163,7 @@ We compared the accuracy between our miniLM RAG model, mpnet RAG model, and no R
 
 The mean response length results show how prompt design effects verbosity and conversational style. Prompt A (minimal) and Prompt B (few-shot) produce similar average lengths (77.6 vs 77.9 words), indicating that the few-shot examples primarily influence structure and answer formatting rather than overall verbosity. Both prompts prioritize concise, grounded responses with limited elaboration. In contrast, Prompt C (friendly) produces substantially longer responses at 112.4 words on average. This increase is consistent across question types and reflects the impact of the persona-driven instructions, which encourage added explanations, conversational phrasing, and supplemental suggestions beyond the core answer. Overall, the results suggest that prompt engineering has a stronger impact on response verbosity than retrieval or model choice, with explicit tone guidance being the primary driver of longer outputs.
 
-## 4. Edge Case Analysis
+### 4. Edge Case Analysis
 We asked questions that weren't explicitly in the documents provided, including questions that would require real-time information that our model does not have access to and questions that would violate Duke's academic policy.
 
 **Q:** What is the weather at Duke like today?
@@ -186,10 +185,18 @@ We asked questions that weren't explicitly in the documents provided, including 
 
 **Analysis:** This question covers a non-Duke topic to see how the Duke Bot will respond. The model tries to help, but incorrectly fetches a random document that contains a list of Duke courses, including finance courses that mention the word "taxes".  The response demonstrates partial retrieval grounding, but the retrieved context is not highly relevant to the user’s intent and over-associates the query with Duke-related “taxation” content, then cites other external sources. The model correctly recommends visiting other websites like IRS or TurboTax, but did incorrectly cite a document from our Duke database.
 
-## 5. Open Source vs API Design Decision
+
+### 5. Design Decisions
+
+Initially, this project used a local Ollama instance to run Llama3.2 on the host machine. However, we eventually migrated to using Groq's API to access a remote model (coincidentally, this currently also uses Llama3.2, but we did experiment with DeepSeek, Openai and others). These two ML approaches both yield comparable results in terms of accuracy and the outputted tokens, but differ largely in the host machine's computational requirements and inference latency. As shown earlier in the results section, using the local model leads to an average response latency of about 4.8 seconds, almost 7x greater than when using an API for remote computation. 
+
+Additionally, integrating an API enabled the platform to be deployed to the public. While the local machine was able to host its own server and be accessed by other devices (using ngrok), this put higher load on the host machine (my laptop) and required it to be on. A dedicated server has close to 100% uptime and is able to handle multiple requests, and using Streamlit does not allow for as much heavy computation at the host server (as running Ollama is its own process and acts like a server on the host machine), making Ollama largely incompatible with deployment. However, by integrating the project with a public API, it is able to be deployed and maintain fast response times that weren't achievable with a local model running on a commercial processor and GPU. 
+
+This came with the added difficulty of integrating Groq's API into the system. The only file that needed to be changed to accomplish this was bot/chat.py, along with the addition of some environment variables / secret keys. Initially we tried using the Huggingface Inference API for this task, but it recently rebranded and dropped support for many of the models it provided, leading us to use Groq instead.
+
 We chose GROQ API over a locally hosted Llama 3.2 (via Ollama) based on a tradeoff between deployment feasibility, latency, and system complexity. While the local Llama setup is open-source and fully controllable, it introduces higher inference latency (4.83s vs 0.73s for GROQ) and requires persistent hosting of model weights, embedding pipelines, and runtime dependencies, which is not compatible with Streamlit Cloud constraints. GROQ, in contrast, provides a managed API with significantly lower latency and no local infrastructure overhead, enabling straightforward web deployment. Although the open-source Ollama setup offers flexibility for experimentation and offline evaluation, GROQ was selected for production due to its superior runtime performance and ease of integration, supported by our measured latency improvements and successful Streamlit deployment constraints. One downside of using the Groq API is the limited number of tokens available per day for inference, which can limit the rate of questions asked.
 
-## 6. Multiple model comparisons
+### 6. Multiple model comparisons
 We compared three retrieval configurations: MiniLM embeddings, MPNet embeddings, and a no-retrieval baseline. All other system components (prompt C, Llama 3.2 generation, and evaluation questions) were held constant. 
 
 | Model Setup      | Accuracy (%) | Average Response Latency (seconds) | 
@@ -207,11 +214,5 @@ MPNet outperforms MiniLM in terms of accuracy due to stronger semantic embedding
 - **Partner 2 [Joyce]**: Streamlit UI, prompt engineering, documentation, demo/walkthrough videos, evaluation script, build_index.py
 
 
-## Design Decisions
 
-Initially, this project used a local Ollama instance to run Llama3.2 on the host machine. However, we eventually migrated to using Groq's API to access a remote model (coincidentally, this currently also uses Llama3.2, but we did experiment with DeepSeek, Openai and others). These two ML approaches both yield comparable results in terms of accuracy and the outputted tokens, but differ largely in the host machine's computational requirements and inference latency. As shown earlier in the results section, using the local model leads to an average response latency of about 4.8 seconds, almost 7x greater than when using an API for remote computation. 
-
-Additionally, integrating an API enabled the platform to be deployed to the public. While the local machine was able to host its own server and be accessed by other devices (using ngrok), this put higher load on the host machine (my laptop) and required it to be on. A dedicated server has close to 100% uptime and is able to handle multiple requests, and using Streamlit does not allow for as much heavy computation at the host server (as running Ollama is its own process and acts like a server on the host machine), making Ollama largely incompatible with deployment. However, by integrating the project with a public API, it is able to be deployed and maintain fast response times that weren't achievable with a local model running on a commercial processor and GPU. 
-
-This came with the added difficulty of integrating Groq's API into the system. The only file that needed to be changed to accomplish this was bot/chat.py, along with the addition of some environment variables / secret keys. Initially we tried using the Huggingface Inference API for this task, but it recently rebranded and dropped support for many of the models it provided, leading us to use Groq instead.
 
