@@ -131,6 +131,7 @@ Both measurements used miniLM for the RAG document embeddings with prompt B usin
 | with miniLM RAG       |        70     |
 | with mpnet RAG         |       80      |
 | no RAG         |      50       |
+
 We measured accuracy with prompt C using the same 10 questions and checked the results. 
 - What color is Duke's logo?
 - What hours are tandoor open?
